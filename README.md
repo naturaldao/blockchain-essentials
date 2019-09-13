@@ -8,11 +8,12 @@ description: 百年难遇的变革
 
 我们强烈建议九零之后的年轻人积极拥抱它，因为“区块链时代”是属于你们的时代！
 
-[![Gitter](https://badges.gitter.im/naturaldao/区块链概论.svg)](https://gitter.im/naturaldao/区块链概论?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 ## 教材开源协作
 
-欢迎协作（包括评论、提问、建议等等）。协作完全是开源的，协议请查阅本文尾部的声明。
+* 欢迎协作（包括评论、提问、建议等等）。点击页面左下角的Gitbook链接，登陆后（建议先注册个Github账号，这样本书的所有资源都可以通过它直接授权注册登录），即可参与协作。协作完全是开源的，协议请查阅本文尾部的声明。
+* 同时也欢迎读者有任何想法，随时点击下面的图标链接，与我们分享和讨论：
+
+[　　![Gitter](https://badges.gitter.im/naturaldao/区块链概论.svg)](https://gitter.im/naturaldao/区块链概论?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 **主要作者：**
 
