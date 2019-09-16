@@ -46,17 +46,18 @@ _"从计算机科学的角度来看，以太坊是一个确定性但实际上无
 
 以太坊可用来创建无数的区块链应用，即智能合约、去中心化的程序（dapp）和自治组织，目前较知名的应用有：
 
-* 游戏：CryptoKitties让玩家繁殖及交易虚拟猫。
-* 虚拟宝物交易平台：FreeMyVunk。
-* 去中心化创业投资：The DAO目标是去中心化投资、The Rudimental让独立艺术家在区块链上进行众筹。
-* 社会经济平台：Backfeed。
-* 去中心化预测市场：Augur。
+* 去中心化交易市场: [Bancor（班科）](https://Bancor.network) 和 [Uniswap](https://uniswap.io/)，其中 Bancor 的去中心化定价机制，是区块链领域的一个里程碑！
+* 游戏：[CryptoKitties](https://www.cryptokitties.co)让玩家繁殖及交易虚拟猫，VR游戏[Decentraland](https://decentraland.org/cn)。
+* 虚拟宝物交易平台：[OpenSea](https://opensea.io/)、[Rart Bits](https://rarebits.io/)、[KnownOrigin](https://dapp.knownorigin.io)、[Emoon](https://www.emoon.io/)。
+* 去中心化创业投资：The DAO（已挂）目标是去中心化投资，去中心化组织构建平台[Wings](https://www.wings.ai)。
+* 社会经济平台：[Backfeed](http://backfeed.cc/)。
+* 去中心化预测市场：[Augur](https://www.augur.net/)。
 * 物联网：Ethcore研发的以太坊客户端Parity、Chronicled（一间区块链公司）发表了以太坊区块链的实物资产验证平台；芯片公司、物理IP创建者和生产者可以用植入的蓝牙或近场通信进行验证。Slock.it（Rent, sell or share anything）的付费充电、或是Airbnb智能租赁。
-* 版权授权：Ujo Music平台让创作人用智能合约发布音乐，消费者可以直接付费给创作人。伊莫珍·希普用此平台发布了一首单曲。
+* 版权授权：[Ujo Music](https://www.ujomusic.com/)平台让创作人用智能合约发布音乐，消费者可以直接付费给创作人。伊莫珍·希普用此平台发布了一首单曲。
 * 智能电网：TransActive Grid让用户可以和邻居买卖能源。
 * 去中心化期权市场：Etheropt。
 * 锚定汇率的代币：DigixDAO提供与黄金挂钩的代币，在2016年4月正式营运。Decentralized Capital提供和各种货币挂钩的代币。
-* 移动支付：Everex让外劳汇款回家乡。
+* 移动支付：[Everex](https://everex.io/)让外劳汇款回家乡。
 
-这个名单几乎可以无限增加！
+这个名单未来几乎可以无限增加！
 
