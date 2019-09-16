@@ -2,7 +2,7 @@
 
 > “My goal in creating Ethereum was to create a platform that was open, decentralized, transparent, easy to use and free for anyone to participate and build things. I think that this kind of platform can be good for humanity.”  ——Vitalik Buterin
 
-_我创建以太坊的目标是创建一个开放、去中心化、透明、易用和任何人都可以自由参与和构建东西的平台。我认为这种平台对人类有益。_
+_"我创建以太坊的目标是创建一个开放、去中心化、透明、易用和任何人都可以自由参与和构建东西的平台。我认为这种平台对人类有益。"_
 
 以下摘自《[Mastering Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/book.asciidoc)》：
 
@@ -12,7 +12,7 @@ _我创建以太坊的目标是创建一个开放、去中心化、透明、易�
 >
 > The Ethereum platform enables developers to build powerful decentralized applications with built-in economic functions. While providing high availability, auditability, transparency, and neutrality, it also reduces or eliminates censorship and reduces certain counterparty risks.
 
-_从计算机科学的角度来看，以太坊是一个确定性但实际上无限制的状态机，由全局可访问的单一状态和能够改变其状态的虚拟机组成。 从更实际的角度来看，以太坊是一个开源的，全球分散的计算基础设施，执行称为智能合约的程序。 它使用区块链来同步和存储系统的状态变化，以及称为ether（货币符号为ETH）的加密货币来计量和约束执行资源所需的成本。 以太坊平台使开发人员能够构建具有内置经济功能的强大的去中心化应用程序。在提供高可用性，可审计性，透明度和中立性的同时，它还减少或消除了审查并降低了某些交易对手的风险。_
+_"从计算机科学的角度来看，以太坊是一个确定性但实际上无限制的状态机，由全局可访问的单一状态和能够改变其状态的虚拟机组成。 从更实际的角度来看，以太坊是一个开源的，全球分散的计算基础设施，执行称为智能合约的程序。 它使用区块链来同步和存储系统的状态变化，以及称为ether（货币符号为ETH）的加密货币来计量和约束执行资源所需的成本。 以太坊平台使开发人员能够构建具有内置经济功能的强大的去中心化应用程序。在提供高可用性，可审计性，透明度和中立性的同时，它还减少或消除了审查并降低了某些交易对手的风险。"_
 
 
 
