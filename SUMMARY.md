@@ -33,5 +33,6 @@
 
 * [4.1 以太坊白皮书](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/untitled.md)
 * [4.2 解读以太坊](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/untitled-1.md)
-* [4.3 智能合约](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/untitled-2.md)
+* [4.3 通证（token）及其多样性](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/untitled-3.md)
+* [4.4 智能合约（Smart Contract）](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/untitled-2.md)
 

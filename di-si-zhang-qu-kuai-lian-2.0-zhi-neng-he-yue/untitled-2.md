@@ -1,8 +1,8 @@
 ---
-description: Smart Contract
+description: 智能合约乃区块链的两大硬核之二
 ---
 
-# 4.3 智能合约
+# 4.4 智能合约（Smart Contract）
 
 智能合约（Smart Contract）是用程序代码定义合约参与方的承诺，并能够完全抗干预地根据承诺自动执行包括转账数字加密货币在内的约定条款的协议。
 
