@@ -94,27 +94,18 @@ ERC20让开发者能够基于智能合约执行以下操作：
 
 5. **实施**
 
-   \*\*\*\*
-
    在以太坊网络上已经部署了大量符合ERC20标准的代币。从节省gas到提高安全性，不同权衡的团队已经编写了各种不同的合约方案。
 
    合约实例：
 
-   [https://link.jianshu.com/?t=https%3A%2F%2Fgithub.com%2FOpenZeppelin%2Fzeppelin-solidity%2Fblob%2Fmaster%2Fcontracts%2Ftoken%2FERC20%2FStandardToken.sol](https://link.jianshu.com/?t=https%3A%2F%2Fgithub.com%2FOpenZeppelin%2Fzeppelin-solidity%2Fblob%2Fmaster%2Fcontracts%2Ftoken%2FERC20%2FStandardToken.sol)
+   [StandardToken](https://link.jianshu.com?t=https%3A%2F%2Fgithub.com%2FOpenZeppelin%2Fzeppelin-solidity%2Fblob%2Fmaster%2Fcontracts%2Ftoken%2FERC20%2FStandardToken.sol)
 
+   [EIP20](https://link.jianshu.com?t=https%3A%2F%2Fgithub.com%2FConsenSys%2FTokens%2Fblob%2Fmaster%2Fcontracts%2Feip20%2FEIP20.sol)
 
-
-   [https://link.jianshu.com/?t=https%3A%2F%2Fgithub.com%2FConsenSys%2FTokens%2Fblob%2Fmaster%2Fcontracts%2Feip20%2FEIP20.sol](https://link.jianshu.com/?t=https%3A%2F%2Fgithub.com%2FConsenSys%2FTokens%2Fblob%2Fmaster%2Fcontracts%2Feip20%2FEIP20.sol)
-
-
-
-
-
+  
    在调用approve 之前强制设为0的实例：
 
-   [https://link.jianshu.com/?t=https%3A%2F%2Fgithub.com%2FGiveth%2Fminime%2Fblob%2Fmaster%2Fcontracts%2FMiniMeToken.sol](https://link.jianshu.com/?t=https%3A%2F%2Fgithub.com%2FGiveth%2Fminime%2Fblob%2Fmaster%2Fcontracts%2FMiniMeToken.sol)
-
-
+   [MiniMeToken](https://link.jianshu.com?t=https%3A%2F%2Fgithub.com%2FGiveth%2Fminime%2Fblob%2Fmaster%2Fcontracts%2FMiniMeToken.sol)
 
    \*\*\*\*
 
