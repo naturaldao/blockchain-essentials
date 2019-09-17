@@ -31,7 +31,7 @@ MyEtherWallet常被业界简称为MEW。
 
 ![&#x56FE;&#x7247;&#x5305;&#x542B; &#x5C4F;&#x5E55;&#x622A;&#x56FE;
 
-&#x5DF2;&#x751F;&#x6210;&#x6781;&#x9AD8;&#x53EF;&#x4FE1;&#x5EA6;&#x7684;&#x8BF4;&#x660E;](../.gitbook/assets/1%20%281%29.png)
+&#x5DF2;&#x751F;&#x6210;&#x6781;&#x9AD8;&#x53EF;&#x4FE1;&#x5EA6;&#x7684;&#x8BF4;&#x660E;](../.gitbook/assets/1%20%282%29.png)
 
 2、Keystore File（UTC / JSON）这个文件对钱包的恢复相当重要，最好找个安全的地方备份它，点击“下载Keystore File（UTC / JSON）」”（必须先下载），再点击“I understand.Continue.”（我明白。继续）。
 
@@ -47,7 +47,7 @@ MyEtherWallet常被业界简称为MEW。
 
 ![&#x56FE;&#x7247;&#x5305;&#x542B; &#x5C4F;&#x5E55;&#x622A;&#x56FE;
 
-&#x5DF2;&#x751F;&#x6210;&#x6781;&#x9AD8;&#x53EF;&#x4FE1;&#x5EA6;&#x7684;&#x8BF4;&#x660E;](../.gitbook/assets/3%20%282%29.png)
+&#x5DF2;&#x751F;&#x6210;&#x6781;&#x9AD8;&#x53EF;&#x4FE1;&#x5EA6;&#x7684;&#x8BF4;&#x660E;](../.gitbook/assets/3%20%283%29.png)
 
 ![&#x56FE;&#x7247;&#x5305;&#x542B; &#x5C4F;&#x5E55;&#x622A;&#x56FE;
 
