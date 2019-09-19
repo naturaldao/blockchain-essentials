@@ -37,4 +37,5 @@
 * [4.4 智能合约（Smart Contract）](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/untitled-2.md)
 * [4.5 ERC-20通证标准及其爆发性应用](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/untitled-4.md)
 * [4.6 ERC-721不可置换通证标准及其爆发性应用](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/untitled-5.md)
+* [4.7 EIP 1155：加密物品标准](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/untitled-6.md)
 
