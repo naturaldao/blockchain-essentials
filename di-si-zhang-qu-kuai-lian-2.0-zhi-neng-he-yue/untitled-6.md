@@ -22,23 +22,37 @@
 
 **C. 动机**
 
-像ERC-20和ERC-721这样的通证标准要求为每个可置换和不可置换通证集部署在一个单独的合约中。这样导致了在Ethereum区块链上放置了大量的冗余字节码，天生会分离各自的合约到它自己的授权地址导致某些功能受限。随着加密游戏和像Enjin Coin这样的平台的兴起，游戏开发人员可能会创建数万个物品，需要一种新的通证标准来支持。
+像ERC-20和ERC-721这样的通证标准要求每种同质通证和非同质通证集，部署在一个独有的合约中。这样导致了在以太坊区块链上放置了大量的冗余字节码，天生会分离各自的合约到它自己的授权地址导致某些功能受限。随着诸如Enjin Coin之类的区块链游戏和平台的兴起，游戏开发人员可能会创建数千种通证，因此需要一种新型的通证标准来支持它们。但是，ERC-1155并不特定于游戏，许多其他应用程序也可以从这种灵活性中受益。
 
-这种设计方法可能会产生新的功能需求，比如一次性传递或审批多种类型的通证，以节省交易成本。多通证交易（第三方托管，原子互换，原子互换是指不通过中介物而将一种token换成为另外一种token）可以在这个标准之上实现，它消除了单独“批准”单个通证的需要。这样也很方便在一份合约中混合或声明多个可置换和不可置换通证。
-
-**\# 组播传输**
-
-multicastTransferFrom 函数支持批量传输到多个地址和从多个地址传输。也可以通过获取源方和目标方批准并执行此函数的方式创建简单的原子交换。
+这种设计方法可能会产生新的功能需求，比如一次性传递多种通证，以节省交易成本。多通证交易（第三方托管，原子互换，原子互换是指不通过中介物而将一种通证换成为另外一种通证）可以在这个标准之上实现，而无需分别“批准”单个通证合约。在单个合约中描述和混合多种同质通证或非同质通证也很容易。
 
 **\# 向后兼容**
 
-本标准与 ERC-721 不可替换通证兼容。两个接口都能在不发生冲突的情况下继承：
+本标准与 ERC-721 非同质通证标准兼容。两个接口都能在不发生冲突的情况下继承：
 
 **\# 规范**
 
-pragma solidity ^0.4.24;
+pragma solidity ^0.5.9;
 
-**接口函数或者变量说明**
+**一些核心接口函数或者变量说明**
+
+* **mint\(string \_name, uint256 \_totalSupply, string \_uri, uint8 \_decimals, string \_symbol\)**   增发同质通证；
+* **approve\(address \_spender, uint256 \_id, uint256 \_currentValue, uint256 \_value\)**
+
+  授权给\_spender账户一定额度的编号为 \_id的同质通证，\_currentValue为当前已授权额度；
+
+* **allowance\(uint256 \_id, address \_owner, address \_spender\)**
+
+  拥有者 \_owner给消费者\_spender在当前查询账户授权\(approve\)的额度；
+
+* batchApprove\(address \_spender, uint256\[\] \_ids, uint256\[\] \_currentValues, uint256\[\] \_values\) 批量授权给\_spender\[\]一组账户一定额度\_values\[\]的编号为\_ids\[\]的同质通证，\_currentValue\[\]为当前已授权额度，这几个数组的长度要严格对齐；
+* batchTransferFrom\(address \_from, address \_to, uint256\[\] \_ids, uint256\[\] \_values\)
+
+  拥有者从 \_from地址给 \_to地址转账授权范围内的一定额度\_values\[\]的各类编号为\_ids\[\]的各类同质通证；
+
+* **-batchTransfer\(address \_to, uint256\[\] \_ids, uint256\[\] \_values\)**
+
+  批量给目标账号\_to转账各类编号为\_ids\[\]的各类数额分别是\_values\[\]的各类同质通证；
 
 * **totalTickets**:
 * **inventory**:
@@ -59,18 +73,28 @@ pragma solidity ^0.4.24;
 * **symbol\(\)**: 返回代币表示；
 * **getAmountTransferred\(\)**: 返回已传输的数量；
 * **isContractExpired\(\)**： 合约是否过期；
-* **balanceOf\(address \_owner\)**： 返回账户余额；
+* **balanceOf\(uint256 \_id, address \_owner\)**
+
+  返回拥有者\_owner的 \_id同质通证的余额；
+
 * **myBalance\(\)**：
 * **transfer\(address \_to, uint256\[\] tokenIndices\)**： 资产转账；
-* **transferFrom\(address \_from, address \_to, uint256\[\] tokenIndices\)**：
+* **transferFrom\(address \_from, address \_to, uint256 \_id, uint256 \_value\)**
+
+  拥有者从 \_from地址给 \_to地址转账授权范围内的一定额度的一类同质通证；
+
+* **multicastTransfer\(address\[\] \_to, uint256\[\] \_ids, uint256\[\] \_values\)**
+
+  当前账号批量给目标地址组合\_to\[\]分别转移额度为\_values\[\]的各类编号为\_ids\[\]的同质通证。
+
 * **endContract\(\)**： 结束合约；
 * **getContractAddress\(\)**： 获取合约地址；
 
 ## 应用
 
-在同一合同中将可替换的和不可替代的物品组合在一起的一个示例策略是：在uint256 itemID参数的头部128位中传递物品ID，然后使用底部的128位空间来传递您希望传递给合同的任何额外数据。
+在同一合约中将同质通证和非同质通证组合在一起的一个示例策略是：在uint256 itemID参数的头部128位中传递通证ID，然后使用底部的128位空间来传递您希望传递给合约的任何额外数据。
 
-不可替代的物品可以通过使用基于存取在合约或者数据集的索引来进行交互。因此要访问混合数据合约中物品集的特定物品以及特定的不可置换通证（Non-Fungible Token），可以通过unit128来传递物品id。
+非同质通证可以通过使用基于存取在合约或者数据集的索引来进行交互。因此要访问混合数据合约中通证集的特定通证以及特定的非同质通证（Non-Fungible Token），可以通过unit128来传递通证id。
 
 在通过unit128提取和转移非同质通证时候需要访问合约代码里面各自的非同质通证的2处数据。
 
