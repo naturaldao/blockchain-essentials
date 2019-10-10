@@ -37,7 +37,7 @@
 * [4.4 智能合约（Smart Contract）](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/untitled-2.md)
 * [4.5 ERC-20通证标准及其爆发性应用](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/untitled-4.md)
 * [4.6 ERC-721不可置换通证标准及其爆发性应用](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/untitled-5.md)
-* [4.7 EIP 1155 （1）：加密物品标准](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/untitled-6.md)
-* [4.8 ERC-1155（2）：为区块链游戏而生](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/4.8-erc11552-wei-qu-kuai-lian-you-xi-er-sheng.md)
+* [4.7 EIP-1155 ：加密物品标准](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/untitled-6.md)
+* [4.8 ERC-1155：为区块链游戏而生](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/4.8-erc11552-wei-qu-kuai-lian-you-xi-er-sheng.md)
 * [4.9 通证标准应用案例四：DHonor](di-si-zhang-qu-kuai-lian-2.0-zhi-neng-he-yue/4.9-tong-zheng-biao-zhun-ying-yong-an-li-si-dhonor.md)
 
