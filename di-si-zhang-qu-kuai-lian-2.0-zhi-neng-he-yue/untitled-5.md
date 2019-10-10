@@ -10,24 +10,24 @@
 
 同质性的物品可能通过区块链技术变成非同质性物品。譬如游戏道具，或游戏卡牌。
 
-**同质物品的定义**
+**同质资产的定义**
 
 adjective Law. 
 
 \(especially of goods\) being of such nature or kind as to be freely exchangeable or replaceable, in whole or in part, for another of like nature or kind.
 
-**非同质物品的定义**
+**非同质资产的定义**
 
 因此，非同质资产（不可替代资产）具有与同质物品定义相反的特征。 这些特征是：
 
 * Unique（独特）
 * Irreplaceable（不可替代）
-* 最Non-interchangeable（不可互换）
+* Non-interchangeable（不可互换）
 
-The most frequently use-cases are:
+最常见的应用案例：
 
-Fungible: Dollars, Bitcoin, Post-it, Sheets of paper, …  
-Non-fungible: Art, People, Game Character, Snowflakes, Real Estate, …
+同质资产：法币、比特币、便利贴、Post-it、几页同品牌打印纸……  
+非同质资产：艺术作品、人、游戏角色、房产、地产……
 
 Technically speaking each Bitcoin is definitely unique. This is why it is possible to trace the origin of a Bitcoin, and whether or not it participated in transactions in the “darknet”.
 
