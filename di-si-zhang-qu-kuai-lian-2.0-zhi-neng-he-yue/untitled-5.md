@@ -10,6 +10,33 @@
 
 同质性的物品可能通过区块链技术变成非同质性物品。譬如游戏道具，或游戏卡牌。
 
+**同质物品的定义**
+
+adjective Law. 
+
+\(especially of goods\) being of such nature or kind as to be freely exchangeable or replaceable, in whole or in part, for another of like nature or kind.
+
+**非同质物品的定义**
+
+因此，非同质资产（不可替代资产）具有与同质物品定义相反的特征。 这些特征是：
+
+* Unique（独特）
+* Irreplaceable（不可替代）
+* 最Non-interchangeable（不可互换）
+
+The most frequently use-cases are:
+
+Fungible: Dollars, Bitcoin, Post-it, Sheets of paper, …  
+Non-fungible: Art, People, Game Character, Snowflakes, Real Estate, …
+
+Technically speaking each Bitcoin is definitely unique. This is why it is possible to trace the origin of a Bitcoin, and whether or not it participated in transactions in the “darknet”.
+
+Some people treat NFTs as fungible assets, totally ignoring the use behind them, considering only the financial value of the asset. Two parcels of LAND on the [Decentraland Marketplace](https://market.decentraland.org/) worth 10,000 MANA may seem totally fungible to an unscrupulous speculator.
+
+It is therefore the use value that defines the fungible or non-fungible character of the asset. And not its technical characteristics. The main use of an asset and the perception that one can have of it define fundamentally if the asset is fungible or not.
+
+https://medium.com/nonfungible/why-most-of-the-definitions-of-non-fungible-are-incorrect-3565fa3cfc66
+
 ## ERC-721不可置换通证标准
 
 ERC-721是一个自由的开放标准，描述了如何在以太坊区块链上构建不可互换或独特的通证。尽管现在大多数通证采用了ERC20通证标准，也就是说大多数通证都是可置换的（每个代币都与其他代币完全相同），对于主要需要货币属性的通证来说，ERC20标准是很好的选择。但是对于具有唯一性的物品，ERC20接口就力不从心了，例如同是一幅名画，真实作品和复制品价值是不一样的。所以就有了专门针对收藏品等的ERC721标准：每个ERC-721通证都是唯一的。

@@ -1,30 +1,5 @@
 # 4.7 EIP 1155：加密物品标准
 
-## **不可替换的物品（非同质物品）**
-
-adjective Law. 
-
-\(especially of goods\) being of such nature or kind as to be freely exchangeable or replaceable, in whole or in part, for another of like nature or kind.
-
-A non-fungible asset therefore has the opposite characteristics to this definition. Those elements are:
-
-* Unique
-* Irreplaceable
-* Non-interchangeable
-
-The most frequently use-cases are:
-
-Fungible: Dollars, Bitcoin, Post-it, Sheets of paper, …  
-Non-fungible: Art, People, Game Character, Snowflakes, Real Estate, …
-
-Technically speaking each Bitcoin is definitely unique. This is why it is possible to trace the origin of a Bitcoin, and whether or not it participated in transactions in the “darknet”.
-
-Some people treat NFTs as fungible assets, totally ignoring the use behind them, considering only the financial value of the asset. Two parcels of LAND on the [Decentraland Marketplace](https://market.decentraland.org/) worth 10,000 MANA may seem totally fungible to an unscrupulous speculator.
-
-It is therefore the use value that defines the fungible or non-fungible character of the asset. And not its technical characteristics. The main use of an asset and the perception that one can have of it define fundamentally if the asset is fungible or not.
-
-https://medium.com/nonfungible/why-most-of-the-definitions-of-non-fungible-are-incorrect-3565fa3cfc66
-
 ## EIP 1155
 
 | **作者** | [Witek Radomski](mailto:witek@enjin.com), [Andrew Cooke](mailto:andrew@enjin.com) |
