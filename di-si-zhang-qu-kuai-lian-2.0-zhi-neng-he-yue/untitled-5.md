@@ -2,23 +2,19 @@
 
 ## **同质性物品和非同质性物品**
 
-如果一个物品被认为是同质性的，那么这个物品类别下的每个个体之间没有差别。也就是每两个同质性物品的价值在所有人眼中完全相同，它们互相之间可以交换。
-
-比如说人民币1元硬币，每枚1元硬币都可以与另一枚1元硬币互换。所以人民币1元硬币是可互换的，它就属于同质性物品。
-
-故宫博物馆的每件藏品，则都属于非同质性物品，哪怕两件藏品都是仕女图，保存完好度，制作年份，风格特色，甚至曾经的收藏者的身份，等等，对它们的价值都有影响。
-
-同质性的物品可能通过区块链技术变成非同质性物品。譬如游戏道具，或游戏卡牌。
-
-**同质资产的定义**
+**同质物品的定义**
 
 adjective Law. 
 
 \(especially of goods\) being of such nature or kind as to be freely exchangeable or replaceable, in whole or in part, for another of like nature or kind.
 
-**非同质资产的定义**
+如果一个物品被认为是同质性的，那么这个物品类别下的每个个体之间没有差别。也就是每两个同质性物品的价值在所有人眼中完全相同，它们互相之间可以交换。
 
-因此，非同质资产（不可替代资产）具有与同质物品定义相反的特征。 这些特征是：
+比如说人民币1元硬币，每枚1元硬币都可以与另一枚1元硬币互换。所以人民币1元硬币是可互换的，它就属于同质性物品。
+
+**非同质物品的定义**
+
+因此，非同质物品（不可替代物品）具有与同质物品定义相反的特征。 这些特征是：
 
 * Unique（独特）
 * Irreplaceable（不可替代）
@@ -26,8 +22,12 @@ adjective Law.
 
 最常见的应用案例：
 
-同质资产：法币、比特币、便利贴、Post-it、几页同品牌打印纸……  
-非同质资产：艺术作品、人、游戏角色、房产、地产……
+同质物品：法币、比特币、便利贴、几页同品牌打印纸……  
+非同质物品：艺术作品、人、游戏角色、房产、地产……
+
+故宫博物馆的每件藏品，则都属于非同质性物品，哪怕两件藏品都是仕女图，保存完好度，制作年份，风格特色，甚至曾经的收藏者的身份，等等，对它们的价值都有影响。
+
+同质性的物品可能通过区块链技术变成非同质性物品。譬如游戏道具，或游戏卡牌。
 
 Technically speaking each Bitcoin is definitely unique. This is why it is possible to trace the origin of a Bitcoin, and whether or not it participated in transactions in the “darknet”.
 
@@ -35,7 +35,9 @@ Some people treat NFTs as fungible assets, totally ignoring the use behind them,
 
 It is therefore the use value that defines the fungible or non-fungible character of the asset. And not its technical characteristics. The main use of an asset and the perception that one can have of it define fundamentally if the asset is fungible or not.
 
-https://medium.com/nonfungible/why-most-of-the-definitions-of-non-fungible-are-incorrect-3565fa3cfc66
+{% embed url="https://medium.com/nonfungible/why-most-of-the-definitions-of-non-fungible-are-incorrect-3565fa3cfc66" %}
+
+同质性物品和非同质性物品，到了区块链领域，就对应衍生出同质通证和非同质通证，同质资产和非同质资产。ERC-20定义的，就是一个同质通证标准。
 
 ## ERC-721非同质通证标准
 
