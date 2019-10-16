@@ -48,6 +48,8 @@
 * [去中心化交易协议0x Protocol](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/0xprotocol.md)
 * [去中心化币币交易网络Bancor Network](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/untitled.md)
 * [通用的去中心化交易协议Uniswap](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/tong-yong-de-qu-zhong-xin-hua-jiao-yi-xie-yi-uniswap.md)
+* [去中心化稳定币DAI](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/untitled-3.md)
 * [6.7 启发](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/6.7-qi-fa.md)
 * [6.8 参考资料与讨论](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/untitled-7.md)
+* [Untitled](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/untitled-4.md)
 
