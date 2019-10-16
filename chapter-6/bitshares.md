@@ -1,6 +1,6 @@
 # 6.2 去中心化交易所Bitshares
 
-2013年6月2日，Daniel Larimer在bitcointalk.org发布白皮书。2014年7月，比特股（Bitshares）正式发布。2015年10月，基于石墨烯（软件）的Bitshares 2.0发布。
+2013年6月2日，Daniel Larimer在bitcointalk.org发布白皮书。2014年7月，比特股（Bitshares）正式发布。2015年10月，基于石墨烯的Bitshares 2.0发布。
 
 比特股白皮书中只字未提去中心化交易所，但它的确是最早实现去中心化交易所，跨链数字加密货币（BTC、ETH等）交易，以及用户发行自定义资产的区块链。
 
