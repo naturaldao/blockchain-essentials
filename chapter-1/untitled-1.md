@@ -76,7 +76,7 @@
 
 公地悲剧——PoW造成恶性竞争。
 
-![Figure 3&#xFF1A;&#x4E3B;&#x8981;&#x7F51;&#x7EDC;&#x7EDF;&#x8BA1;&#x7684;&#x6BD4;&#x7279;&#x5E01;&#x80FD;&#x8017;&#x6570;&#x636E;](../.gitbook/assets/1%20%283%29.png)
+![Figure 3&#xFF1A;&#x4E3B;&#x8981;&#x7F51;&#x7EDC;&#x7EDF;&#x8BA1;&#x7684;&#x6BD4;&#x7279;&#x5E01;&#x80FD;&#x8017;&#x6570;&#x636E;](../.gitbook/assets/1%20%284%29.png)
 
 ![Figure 4&#xFF1A;&#x622A;&#x6B62;2018.09.16&#x6BD4;&#x7279;&#x5E01;&#x80FD;&#x8017;&#x6307;&#x6570;](../.gitbook/assets/2%20%283%29.png)
 
