@@ -43,13 +43,13 @@
 
 ## 第六章	区块链应用案例
 
-* [去中心化交易所Bitshares](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/untitled-2.md)
-* [去中心化交易所Kyber Network](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/untitled-1.md)
-* [去中心化交易协议0x Protocol](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/0xprotocol.md)
-* [去中心化币币交易网络Bancor Network](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/untitled.md)
-* [通用的去中心化交易协议Uniswap](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/tong-yong-de-qu-zhong-xin-hua-jiao-yi-xie-yi-uniswap.md)
-* [去中心化稳定币DAI](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/untitled-3.md)
-* [6.7 启发](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/6.7-qi-fa.md)
-* [6.8 参考资料与讨论](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/untitled-7.md)
-* [Untitled](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/untitled-4.md)
+* [6.1 小始祖彩色币](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/coloredcoins.md)
+* [6.2 去中心化交易所Bitshares](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/bitshares.md)
+* [6.3 去中心化交易所Kyber Network](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/kyber.md)
+* [6.4 去中心化交易协议0x Protocol](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/0xprotocol.md)
+* [6.5 去中心化币币交易网络Bancor Network](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/bancor.md)
+* [6.6 通用的去中心化交易协议Uniswap](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/uniswap.md)
+* [6.7 去中心化稳定币DAI](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/dai.md)
+* [6.9 启发](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/inspiration.md)
+* [6.8 参考资料与讨论](di-liu-zhang-qu-kuai-lian-ying-yong-an-li/discussion.md)
 

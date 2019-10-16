@@ -1,4 +1,4 @@
-# 去中心化交易所Bitshares
+# 6.2 去中心化交易所Bitshares
 
 2013年6月2日，Daniel Larimer在bitcointalk.org发布白皮书。2014年7月，比特股（Bitshares）正式发布。2015年10月，基于石墨烯（软件）的Bitshares 2.0发布。
 

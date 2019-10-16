@@ -1,4 +1,4 @@
-# 去中心化交易所Kyber Network
+# 6.3 去中心化交易所Kyber Network
 
 先看看它的白皮书（0.8）
 
