@@ -1,8 +1,6 @@
 # 6.3 去中心化交易所Kyber Network
 
-先看看它的白皮书（0.8）
-
-https://cn.kyber.network/assets/KyberNetworkWhitepaper-cn.pdf
+恭喜你，它早期的白皮书（v 0.8）已经无从下载了。新版白皮书已经面目全非。
 
 以下是摘录的部分内容：
 
@@ -46,5 +44,5 @@ KyberNetwork 通过使用网络中现有的储备来保证高流动性。不同�
 * 每笔交易不得超过3000美元，每人每日交易上限为15000美元。要想突破此限制，你必须先成为Advanced User Prescribed Limit，那就意味着你必须要做身份认证，以及满足其它一切所必需的条件——此规定有bug。
 * 未提供去中心化的价格发现机制。
 
-很有意思的是，经过不到一年的实践，KyberNetwork彻底抛弃了user-to-user的撮合机制！具体的改进你可以去研究下。
+很有意思的是，经过不到一年的实践，KyberNetwork彻底抛弃了user-to-user的撮合机制！具体的改进你可以去看它的新版白皮书。
 
