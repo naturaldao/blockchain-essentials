@@ -23,6 +23,7 @@ description: 百年难遇的变革
 **特别感谢：**
 
 * 黄烁萍
+* [谭粤飞](https://naturaldao.io/cn/about-cn/23-core-team-cn/53-%E8%B0%AD%E7%B2%A4%E9%A3%9E.html)
 * [张华](https://naturaldao.io/cn/about-cn/23-core-team-cn/52-hua-zhang.html)
 
 ## 协议声明
