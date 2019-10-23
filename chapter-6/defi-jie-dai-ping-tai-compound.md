@@ -57,9 +57,11 @@ Compound 实际上是超额抵押贷款，也就是将 资产A 存入智能合�
 
 
 
-参考资料：
+### 参考资料
 
-作者：outprog，https://juejin.im/post/5c5d8a1cf265da2dd53fa168
+作者：outprog，[Compound，区块链银行运作原理](https://juejin.im/post/5c5d8a1cf265da2dd53fa168)
+
+作者：DeFi Pulse，编译：洒脱喜，[零基础入门 DeFi 借贷平台 Compound 获利](https://www.chainnews.com/articles/059190561118.htm)
 
 
 
