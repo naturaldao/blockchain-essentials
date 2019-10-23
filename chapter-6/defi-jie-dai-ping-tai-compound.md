@@ -1,3 +1,7 @@
+---
+description: www.compound.finance
+---
+
 # 6.8 DeFi 借贷平台 Compound
 
 Compound不是第一个去中心化金融（Decentralized Finance，简称 DeFi）应用，它是让大家眼前一亮的去中心化金融应用。
