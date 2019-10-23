@@ -51,7 +51,8 @@
 * [6.6 通用的去中心化交易协议Uniswap](chapter-6/uniswap.md)
 * [6.7 NaturalDAO](chapter-6/6.7-naturaldao.md)
 * [6.7 去中心化稳定币DAI](chapter-6/dai.md)
-* [DeFi 借贷平台 Compound](chapter-6/defi-jie-dai-ping-tai-compound.md)
+* [6.8 DeFi 借贷平台 Compound](chapter-6/defi-jie-dai-ping-tai-compound.md)
+* [6.9 DeFi 里程碑：PoolTogether](chapter-6/6.9-defi-li-cheng-bei-pooltogether.md)
 * [6.9 启发](chapter-6/inspiration.md)
 * [6.8 参考资料与讨论](chapter-6/discussion.md)
 
