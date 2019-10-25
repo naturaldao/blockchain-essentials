@@ -12,7 +12,7 @@
 
 打赏——从打赏文章编辑或分享优秀内容、优秀软件作品等的人开始，通过表达感激、欣赏、友好和激励之心，给这个世界带来积极的影响。
 
-### ![](../.gitbook/assets/1%20%286%29.png)达世币（Dash）
+### ![](../.gitbook/assets/1%20%287%29.png)达世币（Dash）
 
 **创新：**
 
@@ -34,7 +34,7 @@
 
 达世币是众多竞争币中首个进入比特币ATM机市场的加密数字货币。
 
-### ![](../.gitbook/assets/2%20%281%29.png)点点币（Peercoin）
+### ![](../.gitbook/assets/2%20%282%29.png)点点币（Peercoin）
 
 点点币（Peercoin）2012年8月19日正式发布。点点币的名称取自P2P货币的意思，即点对点货币，因此被翻译为点点币。点点币的研发团队和质数币XPM的研发团队为同一团队，技术实力强劲。
 
@@ -44,7 +44,7 @@
 
 节能：可在任何设备上进行点点币的挖矿。
 
-### ![](../.gitbook/assets/3%20%282%29.png)合约币（CounterParty）及Dogeparty
+### ![](../.gitbook/assets/3%20%283%29.png)合约币（CounterParty）及Dogeparty
 
 合约币（CounterParty）是建立在比特币协议上的创新传输层，用于实现去中心化的货币发行、资产管理、交易、下注和分红等财务功能。合约币初期通过烧毁比特币（Proof of Burn）的方式产生和分发。
 
@@ -56,7 +56,7 @@
 
 在合约币基础上开发的应用（Dapp）有Storj、Swarm、FoldingCoin、GetGems、Scotcoin和Spells of Genesis等等。
 
-### ![](../.gitbook/assets/4.png)未来币（NXT）
+### ![](../.gitbook/assets/4%20%281%29.png)未来币（NXT）
 
 **创新：**
 
@@ -90,7 +90,7 @@
 
 未来币完全使用脑钱包，难以在安全性和易用性上取得平衡。
 
-### ![](../.gitbook/assets/5%20%281%29.png)瑞波币（Ripple）
+### ![](../.gitbook/assets/5%20%282%29.png)瑞波币（Ripple）
 
 **创新：**
 
@@ -152,7 +152,7 @@ Ripple由谷歌投资10亿美元，福特汽车投资2亿美元，洛克菲勒�
 
 直接使用去中心化的区块链技术，来改进中心化组织的产品或服务或平台，往往会面临这个问题：“以子之矛陷子之盾，何如？”
 
-### ![](../.gitbook/assets/6%20%281%29.png)崛起币（emercoin，EMC）
+### ![](../.gitbook/assets/6%20%282%29.png)崛起币（emercoin，EMC）
 
 崛起币EMC是一个于2013年12月发布的老币，总量10亿。这个币种是一个非常低调的技术流派数字货币。曾获得微软Azure支持。
 

@@ -76,9 +76,9 @@
 
 公地悲剧——PoW造成恶性竞争。
 
-![Figure 3&#xFF1A;&#x4E3B;&#x8981;&#x7F51;&#x7EDC;&#x7EDF;&#x8BA1;&#x7684;&#x6BD4;&#x7279;&#x5E01;&#x80FD;&#x8017;&#x6570;&#x636E;](../.gitbook/assets/1%20%284%29.png)
+![Figure 3&#xFF1A;&#x4E3B;&#x8981;&#x7F51;&#x7EDC;&#x7EDF;&#x8BA1;&#x7684;&#x6BD4;&#x7279;&#x5E01;&#x80FD;&#x8017;&#x6570;&#x636E;](../.gitbook/assets/1%20%285%29.png)
 
-![Figure 4&#xFF1A;&#x622A;&#x6B62;2018.09.16&#x6BD4;&#x7279;&#x5E01;&#x80FD;&#x8017;&#x6307;&#x6570;](../.gitbook/assets/2%20%283%29.png)
+![Figure 4&#xFF1A;&#x622A;&#x6B62;2018.09.16&#x6BD4;&#x7279;&#x5E01;&#x80FD;&#x8017;&#x6307;&#x6570;](../.gitbook/assets/2%20%284%29.png)
 
 2018年比特币挖矿的用电量，即远远超过全球所有电动汽车的用电量。并先后赶上阿根廷、奥地利等国家全国一年的电力需求。比特币矿业消耗掉的电力能源将无止境！
 
@@ -95,7 +95,7 @@ NiceHash是一个大型加密货币算力市场，通过它你可以买到超过
 
 总结起来，比特币创造性地带来了去中心化和去审查的激励机制，它让人类发现了一种新的基于互联网的合作机制，但可惜的是它最终带来的仍旧是非合作博弈。
 
-![Figure 5 2018&#x5E74;9&#x6708;17&#x65E5;&#x7684;&#x6570;&#x636E;](../.gitbook/assets/3%20%281%29.png)
+![Figure 5 2018&#x5E74;9&#x6708;17&#x65E5;&#x7684;&#x6570;&#x636E;](../.gitbook/assets/3%20%282%29.png)
 
 [![Gitter](https://badges.gitter.im/naturaldao/区块链概论.svg)](https://gitter.im/naturaldao/区块链概论?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
