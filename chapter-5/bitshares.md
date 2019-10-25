@@ -6,11 +6,11 @@
 
 访问https://wallet.bitshares.org：
 
-![](../.gitbook/assets/0.png)
+![](../.gitbook/assets/0%20%281%29.png)
 
 图表 2.比特股的去中心化交易所
 
-![](../.gitbook/assets/1%20%286%29.png)
+![](../.gitbook/assets/1%20%288%29.png)
 
 图表 3.比特股的撮合交易机制
 
