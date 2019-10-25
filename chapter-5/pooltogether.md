@@ -8,7 +8,7 @@ Pool Together是构建于Aragon（价格预言机）、MakerDAO和Compound之上
 
 Pool Together的玩法超级简单：
 
-Pool Together声称自己是稳赚不赔的乐透（lottery，彩票）。用户使用DAI购买彩票，所有用户的资金实际被投放到借贷平台 Compound 赚取利息，到期后归还用户的本金，摇号中奖者获得利息。
+Pool Together现价段声称自己是稳赚不赔的乐透（lottery，彩票）。用户使用DAI购买彩票，所有用户的资金实际被投放到借贷平台 Compound 赚取利息，到期后归还用户的本金，摇号中奖者获得利息。
 
 特色：
 
