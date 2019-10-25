@@ -2,13 +2,14 @@
 
 ## EIP 1155
 
-| **作者** | [Witek Radomski](mailto:witek@enjin.com), [Andrew Cooke](mailto:andrew@enjin.com) |
+| **作者** |  [Witek Radomski](mailto:witek@enjin.io), [Andrew Cooke](mailto:ac0dem0nk3y@gmail.com), [Philippe Castonguay](mailto:pc@horizongames.net), [James Therien](mailto:james@turing-complete.com), [Eric Binet](mailto:eric@enjin.io), [Ronan Sandford](mailto:wighawag@gmail.com) |
 | :--- | :--- |
 | **讨论区** | [https://github.com/ethereum/EIPs/issues/1155](https://github.com/ethereum/EIPs/issues/1155) |
 | **状态** | Final（终稿） |
-| **类型** | 标准化跟进 |
+| **类型** | Standards Track标准化跟进 |
 | **分类** | ERC |
 | **创建日期** | 2018-06-17 |
+| **必需基础** |  [165](https://eips.ethereum.org/EIPS/eip-165) |
 
 **A. 概述**
 
