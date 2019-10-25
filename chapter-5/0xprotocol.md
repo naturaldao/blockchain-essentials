@@ -1,4 +1,4 @@
-# 6.4 去中心化交易协议0x Protocol
+# 5.4 去中心化交易协议0x Protocol
 
 0x Protocol（常常被简称为0x）是一个去中心化交易协议。其off-chain order转发和on-chain settlement的逻辑图如下：
 

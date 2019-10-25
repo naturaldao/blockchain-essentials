@@ -41,18 +41,18 @@
 * [4.8 ERC-1155：为区块链游戏而生](chapter-4/erc1155-for-game.md)
 * [4.9 通证标准应用案例四：DHonor](chapter-4/dhonor.md)
 
-## 第六章	区块链应用案例 <a id="chapter-6"></a>
+## 第五章	区块链应用案例 <a id="chapter-5"></a>
 
-* [6.1 小始祖彩色币](chapter-6/coloredcoins.md)
-* [6.2 去中心化交易所Bitshares](chapter-6/bitshares.md)
-* [6.3 去中心化交易所Kyber Network](chapter-6/kyber.md)
-* [6.4 去中心化交易协议0x Protocol](chapter-6/0xprotocol.md)
-* [6.5 去中心化币币交易网络Bancor Network](chapter-6/bancor.md)
-* [6.6 通用的去中心化交易协议Uniswap](chapter-6/uniswap.md)
-* [6.7 NaturalDAO](chapter-6/6.7-naturaldao.md)
-* [6.7 去中心化稳定币DAI](chapter-6/dai.md)
-* [6.8 DeFi 借贷平台 Compound](chapter-6/compound.md)
-* [6.9 DeFi 里程碑：Pool Together](chapter-6/pooltogether.md)
-* [6.9 启发](chapter-6/inspiration.md)
-* [6.8 参考资料与讨论](chapter-6/discussion.md)
+* [5.1 小始祖彩色币](chapter-5/coloredcoins.md)
+* [5.2 去中心化交易所Bitshares](chapter-5/bitshares.md)
+* [5.3 去中心化交易所Kyber Network](chapter-5/kyber.md)
+* [5.4 去中心化交易协议0x Protocol](chapter-5/0xprotocol.md)
+* [5.5 去中心化币币交易网络Bancor Network](chapter-5/bancor.md)
+* [5.6 通用的去中心化交易协议Uniswap](chapter-5/uniswap.md)
+* [5.7 NaturalDAO](chapter-5/6.7-naturaldao.md)
+* [5.8 去中心化稳定币DAI](chapter-5/dai.md)
+* [5.9 DeFi 借贷平台 Compound](chapter-5/compound.md)
+* [5.10 DeFi 里程碑：Pool Together](chapter-5/pooltogether.md)
+* [5.11启发](chapter-5/inspiration.md)
+* [5.12 参考资料与讨论](chapter-5/discussion.md)
 

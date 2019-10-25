@@ -1,4 +1,4 @@
-# 6.5 去中心化币币交易网络Bancor Network
+# 5.5 去中心化币币交易网络Bancor Network
 
 Bancor Network（简称班科）主要由班科协议（Bancor Protocol）和班科算法（Bancor Algorithm）构成，也就是智能合约管理市场里的代币的存量（做市），算法根据供需情况给每笔交易需求实时报价。其特色有：
 

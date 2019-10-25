@@ -2,7 +2,7 @@
 description: 'https://www.pooltogether.us/'
 ---
 
-# 6.9 DeFi 里程碑：Pool Together
+# 5.10 DeFi 里程碑：Pool Together
 
 Pool Together是构建于Aragon（价格预言机）、MakerDAO和Compound之上，它是DeFi技术层层叠加的第三层，这一次，它为我们带来了巨大的惊喜。
 

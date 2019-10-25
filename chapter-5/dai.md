@@ -1,4 +1,4 @@
-# 6.7 去中心化稳定币DAI
+# 5.8 去中心化稳定币DAI
 
 2014年光棍节，以太坊创始人V神（Vitalik Buterin）很好地构想了几种实现稳定货币的方式（原文《[The Search for a Stable Cryptocurrency](https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/)》），而DAI就是其中的一种。
 
