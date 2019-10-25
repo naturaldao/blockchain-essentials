@@ -37,10 +37,9 @@
 * [4.4 智能合约（Smart Contract）](chapter-4/smart-contract.md)
 * [4.5 ERC-20通证标准及其爆发性应用](chapter-4/erc20.md)
 * [4.6 ERC-721非同质通证标准及其爆发性应用](chapter-4/erc721.md)
-* [4.7 EIP-1155 ：多重通证标准](chapter-4/erc1155-standard.md)
+* [4.7 EIP-1155 多重通证标准](chapter-4/eip1155.md)
 * [4.8 ERC-1155：为区块链游戏而生](chapter-4/erc1155-for-game.md)
 * [4.9 通证标准应用案例四：DHonor](chapter-4/dhonor.md)
-* [4.10 EIP-1155完整标准中英对照](chapter-4/eip1155.md)
 
 ## 第五章	区块链应用案例 <a id="chapter-5"></a>
 
