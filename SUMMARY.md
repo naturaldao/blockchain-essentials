@@ -57,12 +57,12 @@
 * [5.11启发](chapter-5/inspiration.md)
 * [5.12 参考资料与讨论](chapter-5/discussion.md)
 
-## 第六章 区块链发展：激励式开源协作
+## 第六章 区块链发展：激励式开源协作 <a id="chapter6"></a>
 
-* [6.1 基础概念](di-liu-zhang-qu-kuai-lian-fa-zhan-ji-li-shi-kai-yuan-xie-zuo/6.1-ji-chu-gai-nian.md)
-* [6.2 区块链3.0：DAO](di-liu-zhang-qu-kuai-lian-fa-zhan-ji-li-shi-kai-yuan-xie-zuo/6.2-qu-kuai-lian-3.0dao.md)
-* [6.3 开源的优势与必要](di-liu-zhang-qu-kuai-lian-fa-zhan-ji-li-shi-kai-yuan-xie-zuo/untitled-1.md)
-* [6.4 如何构建激励式开源协作](di-liu-zhang-qu-kuai-lian-fa-zhan-ji-li-shi-kai-yuan-xie-zuo/untitled-2.md)
-* [6.5 如何保证项目安全](di-liu-zhang-qu-kuai-lian-fa-zhan-ji-li-shi-kai-yuan-xie-zuo/6.5-ru-he-bao-zheng-xiang-mu-an-quan.md)
-* [6.6 参考资料与课后阅读](di-liu-zhang-qu-kuai-lian-fa-zhan-ji-li-shi-kai-yuan-xie-zuo/6.6-can-kao-zi-liao-yu-ke-hou-yue-du.md)
+* [6.1 基础概念](chapter6/6.1-ji-chu-gai-nian.md)
+* [6.2 区块链3.0：DAO](chapter6/6.2-qu-kuai-lian-3.0dao.md)
+* [6.3 开源的优势与必要](chapter6/untitled-1.md)
+* [6.4 如何构建激励式开源协作](chapter6/untitled-2.md)
+* [6.5 如何保证项目安全](chapter6/6.5-ru-he-bao-zheng-xiang-mu-an-quan.md)
+* [6.6 参考资料与课后阅读](chapter6/6.6-can-kao-zi-liao-yu-ke-hou-yue-du.md)
 
