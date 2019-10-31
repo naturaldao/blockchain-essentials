@@ -40,8 +40,9 @@
 * [4.7 EIP-1155 多重通证标准](chapter-4/eip1155.md)
 * [4.8 ERC-1155：为区块链游戏而生](chapter-4/erc1155-for-game.md)
 * [4.9 通证标准应用案例四：DHonor](chapter-4/dhonor.md)
-* [4.1 以太坊EIPs](chapter-4/eips.md)
-* [4.10 以太坊EIPs](chapter-4/eips-1.md)
+* [4.10 以太坊EIPs](chapter-4/eips.md)
+* [4.11 智能合约和以太坊的价值](chapter-4/eips-1.md)
+* [4.12 课外阅读与参考资料](chapter-4/4.12-ke-wai-yue-du-yu-can-kao-zi-liao.md)
 
 ## 第五章	区块链应用案例 <a id="chapter-5"></a>
 
