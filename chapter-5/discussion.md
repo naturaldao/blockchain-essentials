@@ -2,8 +2,6 @@
 
 ## 参考资料
 
-[Sweotol Tacen / A Clear Token: The Anglo-Saxon Tacen and the Medieval Donor’s Model](https://www.medievalists.net/2014/12/sweotol-tacen-clear-token-anglo-saxon-tacen-medieval-donors-model/)
-
 [引介 \| Uniswap —— 一家不走寻常路的交易所](https://ethfans.org/posts/uniswap-a-unique-exchange)，翻译&校对：Ray & 阿剑，作者: Cyrus Younessi
 
 [Rothschilds in crypto. Good/Bad/Neutral?](https://www.reddit.com/r/ethereum/comments/8m3wj1/rothschilds_in_crypto_goodbadneutral/dzmspgv/)
