@@ -53,7 +53,7 @@ ERC：即Ethereum Request for Comments，以太坊意见征求。
 
 URI：即Uniform Resource Identifier,统一资源标识符。
 
-### EIP状态术语
+### EIPs状态术语
 
 Draft（草案）——一个开放的求关注的idea。
 
@@ -63,7 +63,7 @@ Final（终案）——一个已经被以太坊采用，已被包含在此前的
 
 Deferred（延后）——已经被以太坊接纳，但不会立即部署的一个EIP。会在以后的硬分叉里部署。
 
-### EIP的类型
+### EIPs的类型
 
 EIPs被分成多个类型，每个类型都有自己的EIP列表。
 
