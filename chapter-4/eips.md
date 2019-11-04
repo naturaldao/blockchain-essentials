@@ -39,7 +39,7 @@ https://eips.ethereum.org/all
 
 https://github.com/ethereum/EIPs
 
-ERC-number是以太坊智能合约标准的名称，有点类比IEEE标准，后面都有个标准的编码。前面我们已经重点介绍了四种智能合约标准。
+ERC-number是以太坊智能合约标准的名称，有点类比IEEE标准，后面都有个标准的编码。前面我们已经重点介绍了五种智能合约标准。
 
 LES：即Light Ethereum Subprotocol，以太坊轻客户端子协议。
 
