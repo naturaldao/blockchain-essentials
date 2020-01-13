@@ -69,3 +69,7 @@
 * [6.5 如何保证项目安全](chapter6/6.5-ru-he-bao-zheng-xiang-mu-an-quan.md)
 * [6.6 参考资料与课后阅读](chapter6/6.6-can-kao-zi-liao-yu-ke-hou-yue-du.md)
 
+## 第七章 去中心化自治组织（DAO）
+
+* [参考文献](di-qi-zhang-qu-zhong-xin-hua-zi-zhi-zu-zhi-dao/can-kao-wen-xian.md)
+
