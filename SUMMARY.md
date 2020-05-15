@@ -5,7 +5,7 @@
 ## 第一章 区块链底层概念 <a id="chapter-1"></a>
 
 * [1.1 比特币白皮书](chapter-1/bitcoin-whitepaper.md)
-* [1.2	区块链概念的学习路径](chapter-1/learning-path.md)
+* [1.2    区块链概念的学习路径](chapter-1/learning-path.md)
 * [1.3 区块链的共识与共识机制](chapter-1/consensus.md)
 * [1.4 什么是挖矿](chapter-1/mining.md)
 * [1.5 什么是分叉](chapter-1/fork.md)
@@ -45,7 +45,7 @@
 * [4.12 智能合约和以太坊的价值](chapter-4/eips-1.md)
 * [4.13 课外阅读与参考资料](chapter-4/4.12-ke-wai-yue-du-yu-can-kao-zi-liao.md)
 
-## 第五章	区块链应用案例 <a id="chapter-5"></a>
+## 第五章    区块链应用案例 <a id="chapter-5"></a>
 
 * [5.1 小始祖彩色币](chapter-5/coloredcoins.md)
 * [5.2 去中心化交易所Bitshares](chapter-5/bitshares.md)

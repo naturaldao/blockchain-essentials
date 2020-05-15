@@ -67,8 +67,6 @@ DPoS的优势在于更快的区块确认和可扩展到VISA级别的每秒10000�
 
 [https://en.wikipedia.org/wiki/Proof\_of\_stake](https://en.wikipedia.org/wiki/Proof_of_stake)
 
-
-
 区块链已经在实践的共识机制还有好几十种，如Proof of Importance（重要性证明）、Proof of Assets（资产证明）、Proof of Burn（烧毁证明）、Proof-of-Purchase（购买证明）、Proof-of-Time（时间证明）、Proof-of-Identity（身份证明）和Combining Proofs（混合证明）等。
 
 ## 厘清共识的歧义
