@@ -8,6 +8,14 @@ description: 百年难遇的变革
 
 我们强烈建议九零之后的年轻人积极拥抱它，因为“区块链时代”是属于你们的时代，当仁不让，应该是你们的态度——其实也是你们应该担负起来的职责！
 
+重要的区块链资源：
+
+以太坊官网：[https://ethereum.org/](https://ethereum.org/)
+
+Fellowship of Ethereum Magicians：[https://ethereum-magicians.org/](https://ethereum-magicians.org/)
+
+以太坊爱好者：[https://ethfans.org/](https://ethfans.org/)
+
 ## 教材开源协作
 
 * 这本教材，也是深圳大学的相关公开选修课的教材。我们这次还同时开源了[《Solidity智能合约开发》](https://u.naturaldao.io/solidity/)课程教材。
