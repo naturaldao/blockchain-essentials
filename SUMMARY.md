@@ -72,5 +72,6 @@
 
 ## 第七章 去中心化自治组织（DAO）
 
+* [第八章 智能合约与Solidity语言](di-qi-zhang-qu-zhong-xin-hua-zi-zhi-zu-zhi-dao/solidity.md)
 * [参考文献](di-qi-zhang-qu-zhong-xin-hua-zi-zhi-zu-zhi-dao/can-kao-wen-xian.md)
 
