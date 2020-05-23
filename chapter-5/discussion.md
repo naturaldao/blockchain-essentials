@@ -2,6 +2,8 @@
 
 ## 参考资料
 
+[用Go来做以太坊开发](https://goethereumbook.org/zh/)
+
 [引介 \| Uniswap —— 一家不走寻常路的交易所](https://ethfans.org/posts/uniswap-a-unique-exchange)，翻译&校对：Ray & 阿剑，作者: Cyrus Younessi
 
 [Rothschilds in crypto. Good/Bad/Neutral?](https://www.reddit.com/r/ethereum/comments/8m3wj1/rothschilds_in_crypto_goodbadneutral/dzmspgv/)
