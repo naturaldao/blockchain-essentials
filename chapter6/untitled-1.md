@@ -126,7 +126,9 @@ reCaptcha并非一个简单的项目，它是全自动区分计算机和人类�
     </tr>
   </thead>
   <tbody></tbody>
-</table>ESP-PIX（通过做题判断你是不是人）
+</table>
+
+ESP-PIX（通过做题判断你是不是人）
 
 ![&#x4E0E;&#x607C;&#x4EBA;&#x7684;&#x9A8C;&#x8BC1;&#x7801;&#x8BF4;&#x62DC;&#x62DC;&#xFF0C;Google&#x7528;&#x4E00;&#x6B21;&#x70B9;&#x51FB;&#x533A;&#x5206;&#x4EBA;&#x4E0E;&#x673A;&#x5668;](../.gitbook/assets/2.jpeg)
 

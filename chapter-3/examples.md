@@ -142,7 +142,9 @@ Ripple由谷歌投资10亿美元，福特汽车投资2亿美元，洛克菲勒�
       </td>
     </tr>
   </tbody>
-</table>**\(资料来源:** [**http://archive.is/cuEoz**](http://archive.is/cuEoz)**\)**
+</table>
+
+**\(资料来源:** [**http://archive.is/cuEoz**](http://archive.is/cuEoz)**\)**
 
 2018年1月，为了调查，BitMEX 研究团队安装并运行了一份 Rippled 。他们通过从服务器 v1.ripple.com 下载了五个公钥列表来操作节点，结果发现所有五个密钥都被分配给 Ripple.com 。该软件指出，需要五个密钥中的四个来支持提案才能被接受。由于密钥都是从 Ripple.com 服务器上下载的，因此瑞波基本上完全控制了账本记录，Ripple是一个中央控制（集中式）系统！
 
