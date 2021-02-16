@@ -8,11 +8,17 @@ description: 百年难遇的变革
 
 我们强烈建议九零之后的年轻人积极拥抱它，因为“区块链时代”是属于你们的时代，当仁不让，就应该是你们的态度——其实也是你们应该担负起来的职责！
 
-因为区块链和“币”是息息相关的，我们很快会看到：几乎每个区块链项目都至少有一个自己的“币种”，所以除了理论知识，恐怕大家最好还要学习必要的投资理财知识。推荐我的另一个教程（:\)）：
+![Elon Musk&apos;s love show](.gitbook/assets/2021-02-16_elon-must-dogecoin.png)
+
+![](.gitbook/assets/bitcoin-price-news-btc-spike-elon-musk-twitter-bio-gamestop-1390940.jpg)
+
+\*\*\*\*[**Bitcoin price news: BTC spikes 20% after Elon Musk adds \#bitcoin to Twitter bio**](https://www.express.co.uk/finance/city/1390940/bitcoin-price-news-btc-spike-elon-musk-twitter-bio-gamestop-evg)\*\*\*\*
+
+我并不建议大家去买比特币或者狗狗币，他们的使命已经完成并且未来也很难进入区块链主流市场。不过区块链的确和“币”息息相关，我们很快会看到：几乎每个区块链项目都至少有一个自己的“币种”，所以除了理论知识，恐怕大家最好还要学习必要的投资理财知识。推荐我的另一个教程（:\)）：
 
 {% embed url="https://www.bcinvest.me" %}
 
-重要的区块链资源：
+## 重要的区块链资源
 
 以太坊官网：[https://ethereum.org/](https://ethereum.org/)
 
