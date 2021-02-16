@@ -20,7 +20,7 @@
 * [2.3 交易手续费](chapter-2/wallet-trasaction-fee.md)
 * [2.4 双重支付（双花）](chapter-2/2.3-shuang-zhong-zhi-fu-shuang-hua.md)
 * [2.5 钱包的类型与特色](chapter-2/2.4-qian-bao-de-lei-xing-yu-te-se.md)
-* [2.6 MyEtherWallet钱包的使用](chapter-2/myetherwallet-yi-tai-bi-qian-bao-de-shi-yong.md)
+* [2.6 钱包知识](chapter-2/myetherwallet-yi-tai-bi-qian-bao-de-shi-yong.md)
 * [2.7 讨论与练习](chapter-2/tao-lun-yu-lian-xi.md)
 
 ## 第三章 区块链1.0：数字加密货币 <a id="chapter-3"></a>
