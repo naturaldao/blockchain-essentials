@@ -8,9 +8,11 @@
 
 请点击以下我的教程：
 
-[《钱包知识与推荐（强烈推荐）》](https://bcinvest.me/course/49-wallet.html)
-
 [《手机钱包Trust Wallet的安装及重要操作》](https://bcinvest.me/course/54-trust-wallet.html)
 
 [《电脑浏览器钱包MetaMask的安装教程》](https://bcinvest.me/course/51-metamask.html)
+
+这里也有一点钱包使用的技巧：
+
+[《钱包知识与推荐（强烈推荐）》](https://bcinvest.me/course/49-wallet.html)
 
