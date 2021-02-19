@@ -8,17 +8,19 @@ description: 百年难遇的变革
 
 我们强烈建议九零之后的年轻人积极拥抱它，因为“区块链时代”是属于你们的时代，当仁不让，就应该是你们的态度——其实也是你们应该担负起来的职责！
 
-![Elon Musk&apos;s love show](.gitbook/assets/2021-02-16_elon-must-dogecoin.png)
+![Elon Musk&apos;s favorite: Dogecoin](.gitbook/assets/2021-02-16_elon-must-dogecoin.png)
 
-![](.gitbook/assets/bitcoin-price-news-btc-spike-elon-musk-twitter-bio-gamestop-1390940.jpg)
+![Elon Musk adds \#bitcoin to his Twitter bio](.gitbook/assets/bitcoin-price-news-btc-spike-elon-musk-twitter-bio-gamestop-1390940.jpg)
 
-\*\*\*\*[**Bitcoin price news: BTC spikes 20% after Elon Musk adds \#bitcoin to Twitter bio**](https://www.express.co.uk/finance/city/1390940/bitcoin-price-news-btc-spike-elon-musk-twitter-bio-gamestop-evg)\*\*\*\*
+马斯克一轮操作之后：[Bitcoin price news: BTC spikes 20% after Elon Musk adds \#bitcoin to Twitter bi](https://www.express.co.uk/finance/city/1390940/bitcoin-price-news-btc-spike-elon-musk-twitter-bio-gamestop-evg)。
 
-我并不建议大家去买比特币或者狗狗币，他们的使命已经完成并且未来也很难进入区块链主流市场。不过区块链的确和“币”息息相关，我们很快会看到：几乎每个区块链项目都至少有一个自己的“币种”，所以除了理论知识，恐怕大家最好还要学习必要的投资理财知识。推荐我的另一个教程（:\)）：
+紧接着就是新闻[Tesla buys $1.5 billion in bitcoin, plans to accept it as paymen](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)，人们这才发现特斯拉已经在一个多月前就投资了比特币。丰田、大众、戴姆勒（奔驰的母公司）、宝马、福特……会不会都慌了？
+
+我并不建议大家去买比特币或者狗狗币，他们的使命已经完成并且未来也很难进入区块链主流市场。不过区块链的确和“币”息息相关，我们很快会看到：几乎每个区块链项目都至少有一个自己的“币种”，所以除了理论知识，恐怕大家最好还要注意学习必要的投资理财知识。推荐我的另一个教程（:\)）：
 
 {% embed url="https://www.bcinvest.me" %}
 
-## 重要的区块链资源
+## 重要的区块链学习资源
 
 以太坊官网：[https://ethereum.org/](https://ethereum.org/)
 
