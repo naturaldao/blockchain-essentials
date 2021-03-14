@@ -62,11 +62,13 @@ description: 通证乃区块链的两大硬核之一
 
 ## IT男絮语：
 
-token在程序中的应用非常基础也非常普遍——在编程语言里，token有多种代表不同功能的可辨识的最小独特单位，都是从令牌衍生而来。譬如C++语言中有五种令牌：标点符（Punctuators）、运算符（Operators）、关键词（Keywords）、变量（Variables/Identifiers）、常量（Constants/Literals）。另外程序中广泛应用的还有访问令牌（Access token）、安全令牌（Security token）、效期令牌（Session token，建议都接受我这个翻译）、邀请码（Invitation token）以及下面马上要说的token ring。
+token在程序中的应用非常基础也非常普遍——在编程语言里，token有多种代表不同功能的可辨识的最小独特单位，都是从令牌衍生而来。譬如C++语言中有五种令牌：标点符（Punctuators）、运算符（Operators）、关键词（Keywords）、变量（Variables/Identifiers）、常量（Constants/Literals）。另外程序中广泛应用的还有访问令牌（Access token）、安全令牌（Security token）、效期令牌（Session token，建议都接受我这个翻译）、邀请码（Invitation token）以及前面刚介绍过的token ring。
+
+但请IT男注意：在编程语言里，我们将token翻译为令牌，而从来没有将它翻译为通证。这就是说，token在编程语言里只应用了它的部分属性！当我们说到通证，指的就必然是区块链里的token而非编程语言里的令牌！
 
 你知道吗：有了token，一台设备就可以通过Access token机制访问网络里的另一台设备，甚至在允许的情况下，调取后者的数据！Google二次验证就采用了这一原理！这还可以理解为一个区块链DApp里面授权产生的token，日后可以在另一个DApp里用作通行证或其它。好神奇呀对不对？！想象空间很大的对不对？
 
-花样男絮语：
+### 花样男絮语：
 
 由于近一个世纪以来缺乏国际开放性的合作，八零后之前的国人对通证（token）一词的理解可能更为不易。但对八五后应该简单：因为在网络游戏里没有代币就没有好装备、好战友、甚至好“老婆”！
 
