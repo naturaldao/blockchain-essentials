@@ -2,7 +2,7 @@
 description: 'https://www.pooltogether.us/'
 ---
 
-# 5.10 DeFi 里程碑：Pool Together
+# 5.10 DeFi 小小里程碑：Pool Together
 
 Pool Together是调用了 MarkerDAO+Compound+Uniswap+Aragon 四大DeFi项目的协议接口。它是DeFi技术层层叠加的第三层，2019年下半年一上线，就为我们带来了巨大的惊喜。
 

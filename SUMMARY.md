@@ -57,7 +57,7 @@
 * [5.7 NaturalDAO](chapter-5/6.7-naturaldao.md)
 * [5.8 去中心化稳定币DAI](chapter-5/dai.md)
 * [5.9 DeFi 借贷平台 Compound](chapter-5/compound.md)
-* [5.10 DeFi 里程碑：Pool Together](chapter-5/pooltogether.md)
+* [5.10 DeFi 小小里程碑：Pool Together](chapter-5/pooltogether.md)
 * [5.11启发](chapter-5/inspiration.md)
 * [5.12 参考资料与讨论](chapter-5/discussion.md)
 
