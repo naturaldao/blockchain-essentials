@@ -157,6 +157,7 @@ It is therefore the use value that defines the fungible or non-fungible characte
 | ERC-1238 | 不可转账代币标准，代表“徽章”的不可转账代币 |
 | ERC-1400 | 证券通证标准，部分可互换代币，该EIP标准具有能力进行强制转移 |
 | ERC-1404 | 为证券通证、通证化证券以及其它携带复杂要求的其它通证而准备 |
+| ERC-2612 | 该标准可以取消ERC-20的approve + transferFrom，同时还允许无 gas 通证转账。 |
 | Minime Token | 带更多功能的 ERC-20 代币（易克隆），获得余额转账历史及代币控制 |
 
 \*\*\*\*
