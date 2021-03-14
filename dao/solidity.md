@@ -4,7 +4,9 @@ description: 智能合约是以太坊的灵魂
 
 # 第八章 智能合约与Solidity语言
 
-请阅读谭粤飞老师编写的[《Solidity智能合约开发》](https://u.naturaldao.io/solidity/)。如果你不想编程，那么可以只看这些内容即可：
+如果你想开发智能合约，那么请看[Solidity官方推荐中文版](https://learnblockchain.cn/docs/solidity/)。
+
+如果你不想编程，只是想了解下其中的主要原理和工作，阅读谭粤飞老师编写的[《Solidity智能合约开发》](https://u.naturaldao.io/solidity/)即可：
 
 [1.1 智能合约简介](https://u.naturaldao.io/solidity/intro)
 
