@@ -12,7 +12,7 @@
 
    纸钱包Ethaddress 
 
-   奇葩钱包Argent（[https://www.argent.xyz/）](https://www.argent.xyz/）) 
+   奇葩钱包（官方自称为智能钱包Smart Wallet）Argent（[https://www.argent.xyz/）](https://www.argent.xyz/）) 
 
    多币种钱包Coinomi或Jaxx Liberty
 
