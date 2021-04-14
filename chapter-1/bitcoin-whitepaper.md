@@ -8,6 +8,10 @@ description: 区块链源于比特币技术。但比特币已经被以太坊超�
 
 {% embed url="https://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system" caption="（白皮书中文翻译版）" %}
 
+你也可以到这里阅读或下载比特币白皮书：
+
+[https://bitcoin.org/files/bitcoin-paper/bitcoin\_zh\_cn.pdf](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)
+
 ### 花絮
 
 中本聪（Satoshi Nakamoto）失踪八年了！最近最像中本聪的人是James Bilal Khalid Caan :\(
