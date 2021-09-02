@@ -28,11 +28,11 @@ description: 百年难遇的变革
 
 Fellowship of Ethereum Magicians：[https://ethereum-magicians.org/](https://ethereum-magicians.org/)
 
-以太坊爱好者：[https://ethfans.org/](https://ethfans.org/)
+以太坊爱好者：[https://ethfans.org/](https://ethfans.org/) \(有微信公众号）
 
 ## 教材开源协作
 
-* 这本教材，也是深圳大学的相关公开选修课的教材。我们这次还同时开源了[《Solidity智能合约开发》](https://u.naturaldao.io/solidity/)课程教材。
+* 这本教材，也是深圳大学的相关课程的教材。同时开源的还有[《Solidity智能合约开发》](https://u.naturaldao.io/solidity/)课程教材（2018~2019年版）。
 * 欢迎协作（包括评论、提问、建议等等）。点击页面左下角的Gitbook链接，登陆后（建议先注册个Github账号，这样本书的所有资源都可以通过它直接授权注册登录），即可参与协作。协作完全是开源的，协议请查阅本文尾部的声明。
 * 同时也欢迎读者有任何想法，随时点击下面的图标链接，与我们分享和讨论：
 
@@ -45,8 +45,8 @@ Fellowship of Ethereum Magicians：[https://ethereum-magicians.org/](https://eth
 **特别感谢：**
 
 * 黄烁萍
-* [谭粤飞](https://naturaldao.io/cn/about-cn/23-core-team-cn/53-%E8%B0%AD%E7%B2%A4%E9%A3%9E.html)
-* [张华](https://naturaldao.io/cn/about-cn/23-core-team-cn/52-hua-zhang.html)
+* 谭粤飞（《Solidity智能合约开发》课程老师）
+* 张华
 
 ## 协议声明
 
