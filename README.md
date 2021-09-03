@@ -6,15 +6,23 @@ description: 百年难遇的变革
 
 毫无疑问的是：区块链是一场革命。 你可以拥抱它，也可以让道与它。它会像上个世纪九十年代的互联网一样蓬勃发展，终有一天成为你生活的必需。 
 
+毫无疑问的是：区块链是一场革命。 你可以拥抱它，也可以让道与它。它会像上个世纪九十年代的互联网一样蓬勃发展，终有一天成为你生活的必需。 
+
 我们强烈建议九零之后的年轻人积极拥抱它，因为“区块链时代”是属于你们的时代，当仁不让，就应该是你们的态度——其实也是你们应该担负起来的职责！
 
-## **Doggie King...**
+**花边：**
+
+**花边：**
+
+![Elon Musk&apos;s favorite: Dogecoin](.gitbook/assets/2021-02-16_elon-must-dogecoin.png)
 
 ![Elon Musk&apos;s favorite: Dogecoin](.gitbook/assets/2021-02-16_elon-must-dogecoin.png)
 
 ![Elon Musk adds \#bitcoin to his Twitter bio](.gitbook/assets/bitcoin-price-news-btc-spike-elon-musk-twitter-bio-gamestop-1390940.jpg)
 
 马斯克一轮操作之后：[Bitcoin price news: BTC spikes 20% after Elon Musk adds \#bitcoin to Twitter bio](https://www.express.co.uk/finance/city/1390940/bitcoin-price-news-btc-spike-elon-musk-twitter-bio-gamestop-evg)。
+
+紧接着就是新闻 [Tesla buys $1.5 billion in bitcoin, plans to accept it as paymen](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)，人们这才发现特斯拉已经在一个多月前就投资了比特币。丰田、大众、戴姆勒（奔驰的母公司）、宝马、福特……会不会都慌了？
 
 紧接着就是新闻 [Tesla buys $1.5 billion in bitcoin, plans to accept it as paymen](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)，人们这才发现特斯拉已经在一个多月前就投资了比特币。丰田、大众、戴姆勒（奔驰的母公司）、宝马、福特……会不会都慌了？
 
