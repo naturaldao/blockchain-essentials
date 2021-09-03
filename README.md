@@ -12,10 +12,6 @@ description: 百年难遇的变革
 
 **花边：**
 
-**花边：**
-
-![Elon Musk&apos;s favorite: Dogecoin](.gitbook/assets/2021-02-16_elon-must-dogecoin.png)
-
 ![Elon Musk&apos;s favorite: Dogecoin](.gitbook/assets/2021-02-16_elon-must-dogecoin.png)
 
 ![Elon Musk adds \#bitcoin to his Twitter bio](.gitbook/assets/bitcoin-price-news-btc-spike-elon-musk-twitter-bio-gamestop-1390940.jpg)
