@@ -8,7 +8,7 @@ description: 百年难遇的变革
 
 我们强烈建议九零之后的年轻人积极拥抱它，因为“区块链时代”是属于你们的时代，当仁不让，就应该是你们的态度——其实也是你们应该担负起来的职责！
 
-**花边：**
+## **Doggie King...**
 
 ![Elon Musk&apos;s favorite: Dogecoin](.gitbook/assets/2021-02-16_elon-must-dogecoin.png)
 
