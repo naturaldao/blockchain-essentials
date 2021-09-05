@@ -18,7 +18,7 @@ description: 百年难遇的变革
 
 马斯克一轮操作之后：[Bitcoin price news: BTC spikes 20% after Elon Musk adds \#bitcoin to Twitter bio](https://www.express.co.uk/finance/city/1390940/bitcoin-price-news-btc-spike-elon-musk-twitter-bio-gamestop-evg)。
 
-紧接着就是新闻 [Tesla buys $1.5 billion in bitcoin, plans to accept it as paymen](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)，人们这才发现特斯拉已经在一个多月前就投资了比特币。丰田、大众、戴姆勒（奔驰的母公司）、宝马、福特……会不会都慌了？
+紧接着就是新闻 [Tesla buys $1.5 billion in bitcoin, plans to accept it as paymen](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)，人们这才发现特斯拉已经在一个多月前就投资了比特币。丰田、大众、戴姆勒（奔驰的母公司）、宝马、福特……心不慌吗？
 
 紧接着就是新闻 [Tesla buys $1.5 billion in bitcoin, plans to accept it as paymen](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)，人们这才发现特斯拉已经在一个多月前就投资了比特币。丰田、大众、戴姆勒（奔驰的母公司）、宝马、福特……会不会都慌了？
 
