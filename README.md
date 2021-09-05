@@ -26,7 +26,7 @@ description: 百年难遇的变革
 
 {% embed url="https://www.blockchaincenter.net/ethereum-rainbow-chart/" %}
 
-所以除了区块链的理论，建议大家学点投资理财知识，对你未来发展一定能起到如虎添翼的作用。我2020年甚至做了个校外的小教程教大家学习DeFi借贷（:\)）：
+所以除了区块链的理论，建议大家学点投资理财知识（Youtube或者自主式学习平台上很容易找到学习课程），对你未来发展一定能起到如虎添翼的作用。我2020年甚至做了个校外的小教程教大家学习DeFi借贷（:\)）：
 
 {% embed url="https://www.bcinvest.me" %}
 
