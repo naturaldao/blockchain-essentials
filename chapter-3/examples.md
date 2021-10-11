@@ -1,6 +1,6 @@
 # 3.3 几个竞争币的简介
 
-### ![](../.gitbook/assets/0%20%284%29.png)狗狗币（Dogecoin）
+### ![](<../.gitbook/assets/0 (4).png>)狗狗币（Dogecoin）
 
 **创新：**
 
@@ -12,7 +12,7 @@
 
 打赏——从打赏文章编辑或分享优秀内容、优秀软件作品等的人开始，通过表达感激、欣赏、友好和激励之心，给这个世界带来积极的影响。
 
-### ![](../.gitbook/assets/1%20%289%29.png)达世币（Dash）
+### ![](<../.gitbook/assets/1 (9).png>)达世币（Dash）
 
 **创新：**
 
@@ -34,7 +34,7 @@
 
 达世币是众多竞争币中首个进入比特币ATM机市场的加密数字货币。
 
-### ![](../.gitbook/assets/2%20%282%29.png)点点币（Peercoin）
+### ![](<../.gitbook/assets/2 (2).png>)点点币（Peercoin）
 
 点点币（Peercoin）2012年8月19日正式发布。点点币的名称取自P2P货币的意思，即点对点货币，因此被翻译为点点币。点点币的研发团队和质数币XPM的研发团队为同一团队，技术实力强劲。
 
@@ -44,7 +44,7 @@
 
 节能：可在任何设备上进行点点币的挖矿。
 
-### ![](../.gitbook/assets/3%20%283%29.png)合约币（CounterParty）及Dogeparty
+### ![](<../.gitbook/assets/3 (3).png>)合约币（CounterParty）及Dogeparty
 
 合约币（CounterParty）是建立在比特币协议上的创新传输层，用于实现去中心化的货币发行、资产管理、交易、下注和分红等财务功能。合约币初期通过烧毁比特币（Proof of Burn）的方式产生和分发。
 
@@ -56,7 +56,7 @@
 
 在合约币基础上开发的应用（Dapp）有Storj、Swarm、FoldingCoin、GetGems、Scotcoin和Spells of Genesis等等。
 
-### ![](../.gitbook/assets/4%20%281%29.png)未来币（NXT）
+### ![](<../.gitbook/assets/4 (1).png>)未来币（NXT）
 
 **创新：**
 
@@ -90,7 +90,7 @@
 
 未来币完全使用脑钱包，难以在安全性和易用性上取得平衡。
 
-### ![](../.gitbook/assets/5%20%282%29.png)瑞波币（Ripple）
+### ![](<../.gitbook/assets/5 (2).png>)瑞波币（Ripple）
 
 **创新：**
 
@@ -117,34 +117,11 @@ Ripple由谷歌投资10亿美元，福特汽车投资2亿美元，洛克菲勒�
 
 当麦卡勒布离开瑞波时，人们担心他会否把他持有的 XRP 砸入市场，使其价格崩盘。 麦卡勒布和瑞波达成了限制销售 XRP 的协议，来防止上述情况发生。瑞波指责麦卡勒布违反了最初约定的条款后，在2016年又重修订了该协议。
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>2014&#x5E74;&#x534F;&#x8BAE;</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <ul>
-          <li>&#x7B2C;&#x4E00;&#x5E74;&#x9EA6;&#x5361;&#x52D2;&#x5E03;&#x7684;&#x6BCF;&#x5468;&#x9500;&#x552E;&#x989D;&#x4E0A;&#x9650;&#x4E3A;
-            1 &#x4E07;&#x7F8E;&#x5143;&#x3002;</li>
-          <li>&#x7B2C;&#x4E8C;&#x5E74;&#xFF0C;&#x7B2C;&#x4E09;&#x5E74;&#x548C;&#x7B2C;&#x56DB;&#x5E74;&#xFF0C;&#x6BCF;&#x5468;&#x7684;&#x9500;&#x552E;&#x989D;&#x4E0A;&#x9650;&#x4E3A;
-            2 &#x4E07;&#x7F8E;&#x5143;&#x3002;</li>
-          <li>&#x7B2C;&#x4E94;&#x548C;&#x7B2C;&#x516D;&#x5E74;&#x7684;&#x9500;&#x552E;&#x989D;&#x6BCF;&#x5E74;&#x4E0A;&#x9650;&#x4E3A;
-            7.5 &#x4EBF; XRP &#x3002;</li>
-          <li>&#x7B2C;&#x4E03;&#x5E74;&#x7684;&#x9500;&#x552E;&#x989D;&#x6BCF;&#x5E74;&#x4E0A;&#x9650;&#x4E3A;
-            10 &#x4EBF; XRP &#x3002;</li>
-          <li>&#x7B2C;&#x4E03;&#x5E74;&#x4EE5;&#x540E;&#x6BCF;&#x5E74;&#x7684;&#x9500;&#x552E;&#x989D;&#x4E0A;&#x9650;&#x4E3A;
-            20 &#x4EBF; XRP &#x3002;</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **2014年协议**                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>第一年麦卡勒布的每周销售额上限为 1 万美元。</li><li>第二年，第三年和第四年，每周的销售额上限为 2 万美元。</li><li>第五和第六年的销售额每年上限为 7.5 亿 XRP 。</li><li>第七年的销售额每年上限为 10 亿 XRP 。</li><li>第七年以后每年的销售额上限为 20 亿 XRP 。</li></ul> |
 
-**\(资料来源:** [**http://archive.is/cuEoz**](http://archive.is/cuEoz)**\)**
+**(资料来源: **[**http://archive.is/cuEoz**](http://archive.is/cuEoz)**)**
 
 2018年1月，为了调查，BitMEX 研究团队安装并运行了一份 Rippled 。他们通过从服务器 v1.ripple.com 下载了五个公钥列表来操作节点，结果发现所有五个密钥都被分配给 Ripple.com 。该软件指出，需要五个密钥中的四个来支持提案才能被接受。由于密钥都是从 Ripple.com 服务器上下载的，因此瑞波基本上完全控制了账本记录，Ripple是一个中央控制（集中式）系统！
 
@@ -154,7 +131,7 @@ Ripple由谷歌投资10亿美元，福特汽车投资2亿美元，洛克菲勒�
 
 直接使用去中心化的区块链技术，来改进中心化组织的产品或服务或平台，往往会面临这个问题：“以子之矛陷子之盾，何如？”
 
-### ![](../.gitbook/assets/6%20%282%29.png)崛起币（emercoin，EMC）
+### ![](<../.gitbook/assets/6 (2).png>)崛起币（emercoin，EMC）
 
 崛起币EMC是一个于2013年12月发布的老币，总量10亿。这个币种是一个非常低调的技术流派数字货币。曾获得微软Azure支持。
 
@@ -193,9 +170,8 @@ Shell管理的去中心化解决方案（EMCSSH）。
 ## 参考资料
 
 1. 《如何投资数字货币》，王博、周朝晖主编，电子工业出版社，2017年1月第一版
-2. 瑞波（Ripple）的故事：[https://blog.bitmex.com/zh\_cn-the-ripple-story/](https://blog.bitmex.com/zh_cn-the-ripple-story/)
+2. 瑞波（Ripple）的故事：[https://blog.bitmex.com/zh_cn-the-ripple-story/](https://blog.bitmex.com/zh_cn-the-ripple-story/)
 3. STARKs, Part I: 多项式证明：[https://www.unitimes.io/knowledge/2587/?lang=zh](https://www.unitimes.io/knowledge/2587/?lang=zh)
 4. STARKs, Part II: 核心证明终问世：[https://www.unitimes.io/knowledge/2566/?lang=zh](https://www.unitimes.io/knowledge/2566/?lang=zh)
 5. STARKs III：攻坚（上）：[https://www.unitimes.io/knowledge/11722/?lang=zh](https://www.unitimes.io/knowledge/11722/?lang=zh)
 6. STARKSIII：攻坚（下）：[https://www.unitimes.io/knowledge/11733/?lang=zh](https://www.unitimes.io/knowledge/11733/?lang=zh)
-

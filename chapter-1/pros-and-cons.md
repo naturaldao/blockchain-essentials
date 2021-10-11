@@ -60,15 +60,15 @@ _In **blockchain** we trust._
 
 _In **the future** we trust_
 
-_In **freedom** we trust_
+_In **freedom **we trust_
 
-_In **Satoshi** we trust_
+_In **Satoshi **we trust_
 
-_In **Bitcoin** we trust_
+_In **Bitcoin **we trust_
 
-_In **crypto** we trust_
+_In **crypto **we trust_
 
-_In **math** we trust_
+_In **math **we trust_
 
 _In **you** we trust_
 
@@ -114,13 +114,13 @@ _如果In Coinbase you trust，那就大错特错了！_
 
 1. 对于比特币而言，PoW的收益取决于所拥有的算力（或者说矿机的性能）。算力越高，抢得记账机会就越多。这毫无疑问，会带来长期激烈的竞争，其结果必然是一两家矿机垄断市场。全球最大的矿机制造商、成立于2013年底的比特大陆目前垄断70%～80%的硬件，提供约50%的算力。除此之外比特大陆的主营业务还包括矿场、矿池及云挖矿服务。
 
-![Figure 2&#x77FF;&#x6C60;&#x4E2D;&#x5FC3;&#x5316;](../.gitbook/assets/0%20%282%29.png)
+![Figure 2矿池中心化](<../.gitbook/assets/0 (2).png>)
 
 公地悲剧——PoW造成恶性竞争。
 
-![Figure 3&#xFF1A;&#x4E3B;&#x8981;&#x7F51;&#x7EDC;&#x7EDF;&#x8BA1;&#x7684;&#x6BD4;&#x7279;&#x5E01;&#x80FD;&#x8017;&#x6570;&#x636E;](../.gitbook/assets/1%20%287%29.png)
+![Figure 3：主要网络统计的比特币能耗数据](<../.gitbook/assets/1 (7).png>)
 
-![Figure 4&#xFF1A;&#x622A;&#x6B62;2018.09.16&#x6BD4;&#x7279;&#x5E01;&#x80FD;&#x8017;&#x6307;&#x6570;](../.gitbook/assets/2%20%284%29.png)
+![Figure 4：截止2018.09.16比特币能耗指数](<../.gitbook/assets/2 (4).png>)
 
 2018年比特币挖矿的用电量，即远远超过全球所有电动汽车的用电量。并先后赶上阿根廷、奥地利等国家全国一年的电力需求。比特币矿业消耗掉的电力能源将无止境！
 
@@ -137,7 +137,6 @@ NiceHash是一个大型加密货币算力市场，通过它你可以买到超过
 
 总结起来，比特币创造性地带来了去中心化和去审查的激励机制，它让人类发现了一种新的基于互联网的合作机制，但可惜的是它最终带来的仍旧是非合作博弈。
 
-![Figure 5 2018&#x5E74;9&#x6708;17&#x65E5;&#x7684;&#x6570;&#x636E;](../.gitbook/assets/3%20%282%29.png)
+![Figure 5 2018年9月17日的数据](<../.gitbook/assets/3 (2).png>)
 
-[![Gitter](https://badges.gitter.im/naturaldao/区块链概论.svg)](https://gitter.im/naturaldao/区块链概论?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
+[![Gitter](https://badges.gitter.im/naturaldao/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%A6%82%E8%AE%BA.svg)](https://gitter.im/naturaldao/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%A6%82%E8%AE%BA)

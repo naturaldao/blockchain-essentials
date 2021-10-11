@@ -15,111 +15,107 @@ ERC20让开发者能够基于智能合约执行以下操作：
 
 以下内容翻译自：[https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)
 
-1. **概述**
+1.  **概述**
 
-   ERC20是token的一种标准接口。
+    ERC20是token的一种标准接口。
+2.  **摘要**
 
-2. **摘要**
+    本标准允许在智能合约中部署token的标准API。 该标准提供了转移token的基本功能，并允许token被批准，以便链上其它第三方可以使用它们。
+3.  **动机**
 
-   本标准允许在智能合约中部署token的标准API。 该标准提供了转移token的基本功能，并允许token被批准，以便链上其它第三方可以使用它们。
+    这一标准接口可以让以太网上的任何token可以被其他应用程序再利用：从钱包到去中心化的交易所。
+4.  **技术参数**
 
-3. **动机**
+    **1）token**
 
-   这一标准接口可以让以太网上的任何token可以被其他应用程序再利用：从钱包到去中心化的交易所。
+    1.1. 方法
 
-4. **技术参数**
+    **注意：**调用者必须处理returns（bool success）返回的false。调用者绝对不能假设永远不会返回false。
 
-   **1）token**
+    **name**：返回令牌的名字，例如“MyToken”。\
+    可选——这个方法可以用来提高可用性，但接口和其它合约不能依赖该值的存在。
 
-   1.1. 方法
+    function name() view returns (string name)
 
-   **注意：**调用者必须处理returns（bool success）返回的false。调用者绝对不能假设永远不会返回false。
+    **symbol**：返回令牌的符号，例如“HIX”。\
+    可选——这个方法可以用来提高可用性，但接口和其它合约不能依赖该值的存在。
 
-   **name**：返回令牌的名字，例如“MyToken”。  
-   可选——这个方法可以用来提高可用性，但接口和其它合约不能依赖该值的存在。
+    function symbol() view returns (string symbol)
 
-   function name\(\) view returns \(string name\)
+    **decimals**：返回token使用的小数位数，比如 8，表示将记录在链上的token数除以100000000后显示给用户。\
+    可选——这个方法可以用来提高可用性，但接口和其它合约不能依赖该值的存在。
 
-   **symbol**：返回令牌的符号，例如“HIX”。  
-   可选——这个方法可以用来提高可用性，但接口和其它合约不能依赖该值的存在。
+    function decimals() view returns (uint8 decimals)
 
-   function symbol\(\) view returns \(string symbol\)
+    **totalSupply**：返回token的总供应量。
 
-   **decimals**：返回token使用的小数位数，比如 8，表示将记录在链上的token数除以100000000后显示给用户。  
-   可选——这个方法可以用来提高可用性，但接口和其它合约不能依赖该值的存在。
+    function totalSupply() view returns (uint256 totalSupply)
 
-   function decimals\(\) view returns \(uint8 decimals\)
+    **balanceOf**：返回另一个账户地址\_owner的账户余额。
 
-   **totalSupply**：返回token的总供应量。
+    function balanceOf(address \_owner) view returns (uint256 balance)
 
-   function totalSupply\(\) view returns \(uint256 totalSupply\)
+    **transfer**：转移\_value数量的token到地址\_to，并且必须触发Transfer事件。 如果\_from帐户余额没有足够的token来支出，该方法应该throw。\
+    **注意**：\_value=0必须被视为正常转账并触发Transfer事件。
 
-   **balanceOf**：返回另一个账户地址\_owner的账户余额。
+    function transfer(address \_to, uint256 \_value) returns (bool success)
 
-   function balanceOf\(address \_owner\) view returns \(uint256 balance\)
+    **transferFrom**：从地址\_from发送\_value个token到地址\_to，必须触发Transfer事件。\
+    transferFrom方法用于提现流程，允许合约为你转移token。这可以用于允许合约为你转让代币或收取费用。除非帐户\_from有意通过某种机制授权消息的发送者，否则该方法应该throw。
 
-   **transfer**：转移\_value数量的token到地址\_to，并且必须触发Transfer事件。 如果\_from帐户余额没有足够的token来支出，该方法应该throw。  
-   **注意**：\_value=0必须被视为正常转账并触发Transfer事件。
+    **注意**：\_value=0必须被视为正常转账并触发Transfer事件。
 
-   function transfer\(address \_to, uint256 \_value\) returns \(bool success\)
+    function transferFrom(address \_from, address \_to, uint256 \_value) returns (bool success)
 
-   **transferFrom**：从地址\_from发送\_value个token到地址\_to，必须触发Transfer事件。  
-   transferFrom方法用于提现流程，允许合约为你转移token。这可以用于允许合约为你转让代币或收取费用。除非帐户\_from有意通过某种机制授权消息的发送者，否则该方法应该throw。
+    **approve**：允许\_spender多次从你的帐户提现，最高数量是\_value。 如果再次调用此函数，它将以\_value覆盖当前的值。
 
-   **注意**：\_value=0必须被视为正常转账并触发Transfer事件。
+    注意：为了防止向量攻击，客户端需要确认以这样的方式创建用户接口，即在为同一个花费者设置另一个值之前，先将它的值设置为0。虽然合约本身不应该强制执行，以前部署的合同允许向后兼容。
 
-   function transferFrom\(address \_from, address \_to, uint256 \_value\) returns \(bool success\)
+    function approve(address \_spender, uint256 \_value) returns (bool success)
 
-   **approve**：允许\_spender多次从你的帐户提现，最高数量是\_value。 如果再次调用此函数，它将以\_value覆盖当前的值。
+    **allowance**：返回被允许从\_owner提取到\_spender余额。
 
-   注意：为了防止向量攻击，客户端需要确认以这样的方式创建用户接口，即在为同一个花费者设置另一个值之前，先将它的值设置为0。虽然合约本身不应该强制执行，以前部署的合同允许向后兼容。
-
-   function approve\(address \_spender, uint256 \_value\) returns \(bool success\)
-
-   **allowance**：返回被允许从\_owner提取到\_spender余额。
-
-   function allowance\(address \_owner, address \_spender\) view returns \(uint256 remaining\)
+    function allowance(address \_owner, address \_spender) view returns (uint256 remaining)
 
 
 
-   **2）event**
+    **2）event**
 
-   **Transfer**：当token被转移\(即使是0值\)时必须被触发。
+    **Transfer**：当token被转移(即使是0值)时必须被触发。
 
-   event Transfer\(address indexed \_from, address indexed \_to, uint256 \_value\)
+    event Transfer(address indexed \_from, address indexed \_to, uint256 \_value)
 
-   **Approval**：当成功调用approve\(address \_spender, uint256 \_value\)后必须被触发。
+    **Approval**：当成功调用approve(address \_spender, uint256 \_value)后必须被触发。
 
-   event Approval\(address indexed \_owner, address indexed \_spender, uint256 \_value\)
+    event Approval(address indexed \_owner, address indexed \_spender, uint256 \_value)
 
-5. **实施**
 
-   在以太坊网络上已经部署了大量符合ERC20标准的代币。从节省gas到提高安全性，不同权衡的团队已经编写了各种不同的合约方案。
+5.  **实施**
 
-   合约实例：
+    在以太坊网络上已经部署了大量符合ERC20标准的代币。从节省gas到提高安全性，不同权衡的团队已经编写了各种不同的合约方案。
 
-   [StandardToken](https://link.jianshu.com?t=https%3A%2F%2Fgithub.com%2FOpenZeppelin%2Fzeppelin-solidity%2Fblob%2Fmaster%2Fcontracts%2Ftoken%2FERC20%2FStandardToken.sol)
+    合约实例：
 
-   [EIP20](https://link.jianshu.com?t=https%3A%2F%2Fgithub.com%2FConsenSys%2FTokens%2Fblob%2Fmaster%2Fcontracts%2Feip20%2FEIP20.sol)
+    [StandardToken](https://link.jianshu.com/?t=https%3A%2F%2Fgithub.com%2FOpenZeppelin%2Fzeppelin-solidity%2Fblob%2Fmaster%2Fcontracts%2Ftoken%2FERC20%2FStandardToken.sol)
 
-  
-   在调用approve 之前强制设为0的实例：
+    [EIP20](https://link.jianshu.com/?t=https%3A%2F%2Fgithub.com%2FConsenSys%2FTokens%2Fblob%2Fmaster%2Fcontracts%2Feip20%2FEIP20.sol)
 
-   [MiniMeToken](https://link.jianshu.com?t=https%3A%2F%2Fgithub.com%2FGiveth%2Fminime%2Fblob%2Fmaster%2Fcontracts%2FMiniMeToken.sol)
+    \
+    在调用approve 之前强制设为0的实例：
 
-   \*\*\*\*
+    [MiniMeToken](https://link.jianshu.com/?t=https%3A%2F%2Fgithub.com%2FGiveth%2Fminime%2Fblob%2Fmaster%2Fcontracts%2FMiniMeToken.sol)
 
-6. **历史**
+    ****
+6.  **历史**
 
-   本标准的相关历史链接：
+    本标准的相关历史链接：
 
-   * [Vitalik Buterin的最初提议](https://link.jianshu.com/?t=%255Bhttps%3A%2F%2Fgithub.com%2Fethereum%2Fwiki%2Fwiki%2FStandardized_Contract_APIs%2F499c882f3ec123537fc2fccd57eaa29e6032fe4a%255D%28https%3A%2F%2Fgithub.com%2Fethereum%2Fwiki%2Fwiki%2FStandardized_Contract_APIs%2F499c882f3ec123537fc2fccd57eaa29e6032fe4a%29)
-   * [Reddit讨论](https://link.jianshu.com/?t=%255Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F3n8fkn%2Flets_talk_about_the_coin_standard%2F%255D%28https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F3n8fkn%2Flets_talk_about_the_coin_standard%2F%29)
-   * [原Issue \#20](https://link.jianshu.com/?t=%255Bhttps%3A%2F%2Fgithub.com%2Fethereum%2FEIPs%2Fissues%2F20%255D%28https%3A%2F%2Fgithub.com%2Fethereum%2FEIPs%2Fissues%2F20%29)
+    * [Vitalik Buterin的最初提议](https://link.jianshu.com/?t=%255Bhttps%3A%2F%2Fgithub.com%2Fethereum%2Fwiki%2Fwiki%2FStandardized_Contract_APIs%2F499c882f3ec123537fc2fccd57eaa29e6032fe4a%255D%28https%3A%2F%2Fgithub.com%2Fethereum%2Fwiki%2Fwiki%2FStandardized_Contract_APIs%2F499c882f3ec123537fc2fccd57eaa29e6032fe4a%29)
+    * [Reddit讨论](https://link.jianshu.com/?t=%255Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F3n8fkn%2Flets_talk_about_the_coin_standard%2F%255D%28https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F3n8fkn%2Flets_talk_about_the_coin_standard%2F%29)
+    * [原Issue #20](https://link.jianshu.com/?t=%255Bhttps%3A%2F%2Fgithub.com%2Fethereum%2FEIPs%2Fissues%2F20%255D%28https%3A%2F%2Fgithub.com%2Fethereum%2FEIPs%2Fissues%2F20%29)
+7.  **版权**
 
-7. **版权**
-
-   版权和相关权利通过[CC0](https://link.jianshu.com/?t=https%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fzero%2F1.0%2F)许可协议放弃。
+    版权和相关权利通过[CC0](https://link.jianshu.com/?t=https%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fzero%2F1.0%2F)许可协议放弃。
 
 ## ICO爆发：ERC-20通证标准的应用
 
@@ -151,13 +147,13 @@ ICO在很大程度上借鉴了证券业的Initial Public Offering（首次公开
 
 以下为各种投融资手段的对比：
 
-|  | ICO | IPO | 众筹 | VC风投 |
-| :--- | :--- | :--- | :--- | :--- |
-| 投融资门槛 | 非常低 | 极高 | 低 | 高 |
-| 透明程度 | 高 | 高 | 高 | 低 |
-| 资金退出 | 非常容易 | 容易 | 难 | 难 |
-| 流动性 | 非常好 | 好 | 差 | 差 |
-| 监 管 | 目前很低 | 极高 | 低 | 低 |
+|       | ICO  | IPO | 众筹 | VC风投 |
+| ----- | ---- | --- | -- | ---- |
+| 投融资门槛 | 非常低  | 极高  | 低  | 高    |
+| 透明程度  | 高    | 高   | 高  | 低    |
+| 资金退出  | 非常容易 | 容易  | 难  | 难    |
+| 流动性   | 非常好  | 好   | 差  | 差    |
+| 监 管   | 目前很低 | 极高  | 低  | 低    |
 
 前面我们提过，以太坊早在2014年就通过ICO筹集了发展基金，为什么是2017年ICO才大爆发？
 
@@ -166,4 +162,3 @@ ICO在很大程度上借鉴了证券业的Initial Public Offering（首次公开
 ICO的爆发，归功于ERC20通证标准，也是智能合约的第一个爆点！
 
 数据表明：ICO的爆发已经在区块链领域拔除风险投资VC在投融资领域的霸主地位！因此，它本身已经是一场金融革命的第一场胜利之战。
-

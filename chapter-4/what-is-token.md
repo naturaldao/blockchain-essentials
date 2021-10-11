@@ -96,7 +96,7 @@ _（尤其是商品）具有某种特质或属于某个种类，使之可以全�
 
 最常见的应用案例：
 
-同质物品：法币、比特币、便利贴、几页同品牌打印纸……  
+同质物品：法币、比特币、便利贴、几页同品牌打印纸……\
 非同质物品：艺术作品、人、游戏角色、房产、地产……
 
 故宫博物馆的每件藏品，则都属于非同质性物品，哪怕两件藏品都是仕女图，保存完好度，制作年份，风格特色，甚至曾经的收藏者的身份，等等，对它们的价值都有影响。
@@ -105,7 +105,7 @@ _（尤其是商品）具有某种特质或属于某个种类，使之可以全�
 
 Technically speaking each Bitcoin is definitely unique. This is why it is possible to trace the origin of a Bitcoin, and whether or not it participated in transactions in the “darknet”.
 
-Some people treat NFTs as fungible assets, totally ignoring the use behind them, considering only the financial value of the asset. Two parcels of LAND on the [Decentraland Marketplace](https://market.decentraland.org/) worth 10,000 MANA may seem totally fungible to an unscrupulous speculator.
+Some people treat NFTs as fungible assets, totally ignoring the use behind them, considering only the financial value of the asset. Two parcels of LAND on the [Decentraland Marketplace](https://market.decentraland.org) worth 10,000 MANA may seem totally fungible to an unscrupulous speculator.
 
 It is therefore the use value that defines the fungible or non-fungible character of the asset. And not its technical characteristics. The main use of an asset and the perception that one can have of it define fundamentally if the asset is fungible or not.
 
@@ -132,33 +132,32 @@ It is therefore the use value that defines the fungible or non-fungible characte
 
 **以太坊正在探索中的通证标准：**
 
-| ERC-20 | 可替换资产的原始代币合约 |
-| :--- | :--- |
-| ERC-165 | 创建标准方法以发布和检测智能合约实现的接口 |
-| ERC-173 | 合同所有权的标准接口 |
-| ERC-223 | 向后兼容ERC-20,保护投资者以防意外的合约转账 |
-| ERC-721 | 非同质代币（NFTs）标准，可作为产权进行交易 |
-| ERC-725 | 密钥管理和执行的代理合同，建立区块链身份 |
-| ERC-777 | 基于操作者的代币标准，具有高度可定制性 |
-| ERC-809 | 非同质代币的租赁标准,用户可使用一系列指令来出租NTFs |
-| ERC-827 | 允许转让通证并允许持有人允许第三方使用通证（不安全） |
-| ERC-864 | NFTs 共有产权，旨在 NFT 合约中分享 NTF 的所有权 |
-| ERC-865 | 此项标准允许用户委托第三方帮忙转账，并以代币形式支付Gas费用 |
-| ERC-918 | 可开采性代币，允许加入挖矿算法 |
-| ERC-874 | 加权的不可替代代币，便于了解到独特资产拥有的价值 |
-| ERC-888 | 多维代币标准，使用标识符代表余额和数据 |
-| ERC-998 | 可拆解非同质化代币，可包含多个ERC-721和ERC-20形式 |
-| ERC-1067 | 可升级代币合约的标准，描述了更加分布式的代币合约架构 |
-| ERC-1132 | 代币锁定能力的标准，提供代币在合约内多种用途的时间锁仓功能 |
-| ERC-1155 | 多代币标准，可追踪多个代币余额和所有权的合约，及定义多个物品 |
-| ERC-1178 | 多级别代币的标准，为多个级别代币的合约提供标准接口 |
-| ERC-1190 | 非同质版税代币的标准，可向创造者以及/或者所有者支付版税 |
-| ERC-1203 | 多层级代币标准，提供多层级代币合约的标准接口 |
-| ERC-1238 | 不可转账代币标准，代表“徽章”的不可转账代币 |
-| ERC-1400 | 证券通证标准，部分可互换代币，该EIP标准具有能力进行强制转移 |
-| ERC-1404 | 为证券通证、通证化证券以及其它携带复杂要求的其它通证而准备 |
-| ERC-2612 | 该标准可以取消ERC-20的approve + transferFrom，同时还允许无 gas 通证转账。 |
-| Minime Token | 带更多功能的 ERC-20 代币（易克隆），获得余额转账历史及代币控制 |
+| ERC-20       | 可替换资产的原始代币合约                                          |
+| ------------ | ----------------------------------------------------- |
+| ERC-165      | 创建标准方法以发布和检测智能合约实现的接口                                 |
+| ERC-173      | 合同所有权的标准接口                                            |
+| ERC-223      | 向后兼容ERC-20,保护投资者以防意外的合约转账                             |
+| ERC-721      | 非同质代币（NFTs）标准，可作为产权进行交易                               |
+| ERC-725      | 密钥管理和执行的代理合同，建立区块链身份                                  |
+| ERC-777      | 基于操作者的代币标准，具有高度可定制性                                   |
+| ERC-809      | 非同质代币的租赁标准,用户可使用一系列指令来出租NTFs                          |
+| ERC-827      | 允许转让通证并允许持有人允许第三方使用通证（不安全）                            |
+| ERC-864      | NFTs 共有产权，旨在 NFT 合约中分享 NTF 的所有权                       |
+| ERC-865      | 此项标准允许用户委托第三方帮忙转账，并以代币形式支付Gas费用                       |
+| ERC-918      | 可开采性代币，允许加入挖矿算法                                       |
+| ERC-874      | 加权的不可替代代币，便于了解到独特资产拥有的价值                              |
+| ERC-888      | 多维代币标准，使用标识符代表余额和数据                                   |
+| ERC-998      | 可拆解非同质化代币，可包含多个ERC-721和ERC-20形式                       |
+| ERC-1067     | 可升级代币合约的标准，描述了更加分布式的代币合约架构                            |
+| ERC-1132     | 代币锁定能力的标准，提供代币在合约内多种用途的时间锁仓功能                         |
+| ERC-1155     | 多代币标准，可追踪多个代币余额和所有权的合约，及定义多个物品                        |
+| ERC-1178     | 多级别代币的标准，为多个级别代币的合约提供标准接口                             |
+| ERC-1190     | 非同质版税代币的标准，可向创造者以及/或者所有者支付版税                          |
+| ERC-1203     | 多层级代币标准，提供多层级代币合约的标准接口                                |
+| ERC-1238     | 不可转账代币标准，代表“徽章”的不可转账代币                                |
+| ERC-1400     | 证券通证标准，部分可互换代币，该EIP标准具有能力进行强制转移                       |
+| ERC-1404     | 为证券通证、通证化证券以及其它携带复杂要求的其它通证而准备                         |
+| ERC-2612     | 该标准可以取消ERC-20的approve + transferFrom，同时还允许无 gas 通证转账。 |
+| Minime Token | 带更多功能的 ERC-20 代币（易克隆），获得余额转账历史及代币控制                   |
 
-\*\*\*\*
-
+****
