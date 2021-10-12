@@ -40,12 +40,12 @@
 * [4.6 ERC-721非同质通证标准及其爆发性应用](chapter-4/erc721.md)
 * [4.7 EIP-1155 多重通证标准](chapter-4/eip1155.md)
 * [4.8 ERC-1155：为区块链游戏而生](chapter-4/erc1155-for-game.md)
-* [4.9 EIP-3712](chapter-4/eip3712.md)
+* [4.9 EIP-3712：多重同质化通证标准](chapter-4/eip3712.md)
 * [4.10 EIP-2938：账户抽象化](chapter-4/eip2938.md)
-* [4.10 ERC-792仲裁标准及其特色](chapter-4/erc-792.md)
-* [4.11 以太坊EIPs](chapter-4/eips.md)
-* [4.12 智能合约和以太坊的价值](chapter-4/eips-1.md)
-* [4.13 课外阅读与参考资料](chapter-4/4.12-ke-wai-yue-du-yu-can-kao-zi-liao.md)
+* [4.11 ERC-792仲裁标准及其特色](chapter-4/erc-792.md)
+* [4.12 以太坊EIPs](chapter-4/eips.md)
+* [4.15 智能合约和以太坊的价值](chapter-4/eips-1.md)
+* [4.16 课外阅读与参考资料](chapter-4/4.12-ke-wai-yue-du-yu-can-kao-zi-liao.md)
 
 ## 第五章    区块链应用案例：DeFi <a href="chapter-5" id="chapter-5"></a>
 
