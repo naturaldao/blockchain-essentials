@@ -68,4 +68,4 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 **捐助自然道大学:**
 
-[https://naturaldao.io/cn/blog-cn/59-donation-cn.html](https://naturaldao.io/cn/blog-cn/59-donation-cn.html)
+暂停
