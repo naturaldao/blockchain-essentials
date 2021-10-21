@@ -4,7 +4,7 @@ description: 百年难遇的变革
 
 # 前言
 
-毫无疑问的是：区块链是一场革命。 你可以拥抱它，也可以让道与它。它会像上个世纪九十年代的互联网一样蓬勃发展，终有一天成为你生活的必需。 
+毫无疑问的是：区块链是一场革命。 你可以拥抱它，也可以让道与它。它会像上个世纪九十年代的互联网一样蓬勃发展，终有一天成为你生活的必需。&#x20;
 
 我们强烈建议九零之后的年轻人积极拥抱它，因为“区块链时代”是属于你们的时代，当仁不让，就应该是你们的态度——其实也是你们应该担负起来的职责！
 
@@ -28,13 +28,17 @@ description: 百年难遇的变革
 
 {% embed url="https://www.bcinvest.me" %}
 
-## 重要的区块链学习资源
+## 重要的区块链学习和交流资源
 
 以太坊官网：[https://ethereum.org/](https://ethereum.org)
 
 Fellowship of Ethereum Magicians：[https://ethereum-magicians.org/](https://ethereum-magicians.org)
 
 以太坊爱好者：[https://ethfans.org/](https://ethfans.org) (有微信公众号）
+
+Vitalik Buterin（以太坊创始人）：[https://twitter.com/VitalikButerin](https://twitter.com/VitalikButerin)
+
+我：[https://twitter.com/Derek\_Joe\_China](https://twitter.com/Derek\_Joe\_China)
 
 ## 教材开源协作
 
