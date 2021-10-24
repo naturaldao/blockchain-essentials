@@ -16,8 +16,8 @@
 ## 第二章 区块链钱包 <a href="chapter-2" id="chapter-2"></a>
 
 * [2.1 钱包及其常见类别](chapter-2/2.1-qian-bao-ji-qi-chang-jian-lei-bie.md)
-* [2.2 钱包安装](chapter-2/2.2-qian-bao-an-zhuang.md)
-* [2.1 钱包基础知识](chapter-2/wallet-intro.md)
+* [2.2 电脑钱包安装](chapter-2/2.2-dian-nao-qian-bao-an-zhuang.md)
+* [2.1 手机钱包安装](chapter-2/wallet-intro.md)
 * [2.4 签名与多重签名](chapter-2/wallet-signature.md)
 * [2.5 交易手续费](chapter-2/wallet-trasaction-fee.md)
 * [2.6 双重支付（双花）](chapter-2/2.3-shuang-zhong-zhi-fu-shuang-hua.md)
