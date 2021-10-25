@@ -21,7 +21,7 @@
 * [2.4 签名与多重签名](chapter-2/wallet-signature.md)
 * [2.5 交易手续费](chapter-2/wallet-trasaction-fee.md)
 * [2.6 双重支付（双花）](chapter-2/2.3-shuang-zhong-zhi-fu-shuang-hua.md)
-* [2.7 钱包的存储方式与特色](chapter-2/2.4-qian-bao-de-lei-xing-yu-te-se.md)
+* [2.7 钱包的数据存储方式与特色](chapter-2/2.4-qian-bao-de-lei-xing-yu-te-se.md)
 * [2.8 钱包的安全性](chapter-2/myetherwallet-yi-tai-bi-qian-bao-de-shi-yong.md)
 * [2.9 讨论与练习](chapter-2/tao-lun-yu-lian-xi.md)
 
