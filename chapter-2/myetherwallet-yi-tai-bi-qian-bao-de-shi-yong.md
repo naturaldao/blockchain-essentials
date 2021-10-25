@@ -1,4 +1,4 @@
-# 2.6 钱包使用
+# 2.8 钱包的安全性
 
 ## 比特币钱包
 
@@ -14,7 +14,7 @@
 
 在钱包的推荐方面，做得最好的是bitcoin.com：
 
-[https://bitcoin.org/zh_CN/choose-your-wallet](https://bitcoin.org/zh_CN/choose-your-wallet)
+[https://bitcoin.org/zh\_CN/choose-your-wallet](https://bitcoin.org/zh\_CN/choose-your-wallet)
 
 现在已有下列钱包可供选择：
 
@@ -56,18 +56,33 @@ Bitcoin Core、Bitcoin Knots、MultiBit HD、Armory、Electrum、mSIGNA、Bitcoi
 
 ## 以太坊钱包
 
-和比特币不同，以太坊是以智能合约功能为核心的DAPP开发平台，因此以太坊钱包能实现的功能要远比比特币钱包丰富。譬如BIP44的规则使得以太坊多层确定钱包能以很小的工作，存储以太坊平台任何项目发行的代币。以太坊钱包还能让用户直接登陆Uniswap这样的以太坊去中心化应用。
+以太坊的数据存储和以上介绍的比特币钱包的数据存储没有本质差别。
 
-譬如如果某人参与一个区块链DAPP项目的投资，那他通过以太坊钱包，借助智能合约的合约地址，转账ETH就能直接获得它发行的代币。
+我想重点提醒大家的是安全保护。
 
-这个过程就像去ATM取款一样方便。不需要人工服务。
+### 助记词保管方法
 
-请点击以下我的教程：
+*   用纸抄写
 
-[《手机钱包Trust Wallet的安装及重要操作》](https://bcinvest.me/course/54-trust-wallet.html)
+    只要是抄写，就会有一定的错误率，所以建议抄写两遍
 
-[《电脑浏览器钱包MetaMask的安装教程》](https://bcinvest.me/course/51-metamask.html)
+    另外请注意墨和纸张的质量
 
-这里也有一点钱包使用的技巧：
+    多年后可能需要复抄，错误率又会上升
 
-[《钱包知识与推荐（强烈推荐）》](https://bcinvest.me/course/49-wallet.html)
+    抄写完一定要记得复核
+* 用纸抄写 + 防火保险柜
+* 专业防火设备抄写
+
+### &#x20;资产损失的可能
+
+* 助记词或私钥遗失（多因未备份）
+* 手机或电脑损坏
+* 被骗走助记词或私钥
+*   助记词或私钥暴露或被盗
+
+    云存储、软件传递、拷贝、中木马病毒、远程入侵、手机或电脑被回收、摄像头拍摄等等，都可能导致助记词或私钥被盗。
+* 误授权
+* 使用了假钱包
+* 在伪劣项目里被骗转账操作
+* 意外身亡
