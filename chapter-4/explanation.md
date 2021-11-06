@@ -44,9 +44,9 @@ _"从计算机科学的角度来看，以太坊是一个确定性但实际上无
 
 
 
-以太坊可用来创建无数的区块链应用，即智能合约、去中心化的程序（dapp）和自治组织，早期的应用尝试有：
+以太坊可用来创建无数的区块链应用，即智能合约、去中心化的程序（dapp）和自治组织，目前较知名的应用有：
 
-* 去中心化交易市场: [Bancor（班科）](https://bancor.network) 和 [Uniswap](https://uniswap.io)，其中 Bancor 的去中心化定价机制，是区块链发展的一个里程碑！
+* 去中心化交易市场: [Bancor（班科）](https://bancor.network) 和 [Uniswap](https://uniswap.io)，其中 Bancor 的去中心化定价机制，是区块链领域的一个里程碑！
 * 游戏：[CryptoKitties](https://www.cryptokitties.co)让玩家繁殖及交易虚拟猫，VR游戏[Decentraland](https://decentraland.org/cn)。
 * 虚拟宝物交易平台：[OpenSea](https://opensea.io)、[Rart Bits](https://rarebits.io)、[KnownOrigin](https://dapp.knownorigin.io)、[Emoon](https://www.emoon.io)。
 * 去中心化创业投资：The DAO（已挂）目标是去中心化投资，去中心化组织构建平台[Wings](https://www.wings.ai)。
