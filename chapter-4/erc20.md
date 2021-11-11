@@ -96,23 +96,22 @@ ERC20让开发者能够基于智能合约执行以下操作：
 
     合约实例：
 
-    [StandardToken](https://link.jianshu.com/?t=https%3A%2F%2Fgithub.com%2FOpenZeppelin%2Fzeppelin-solidity%2Fblob%2Fmaster%2Fcontracts%2Ftoken%2FERC20%2FStandardToken.sol)
+    [OpenZeppelin implementation](https://github.com/OpenZeppelin/openzeppelin-solidity/blob/9b3710465583284b8c4c5d2245749246bb2e0094/contracts/token/ERC20/ERC20.sol)
 
-    [EIP20](https://link.jianshu.com/?t=https%3A%2F%2Fgithub.com%2FConsenSys%2FTokens%2Fblob%2Fmaster%2Fcontracts%2Feip20%2FEIP20.sol)
+    （[对照一个新版本](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)）
 
-    \
-    在调用approve 之前强制设为0的实例：
+    [ConsenSys implementation](https://github.com/ConsenSys/Tokens/blob/fdf687c69d998266a95f15216b1955a4965a0a6d/contracts/eip20/EIP20.sol)
 
-    [MiniMeToken](https://link.jianshu.com/?t=https%3A%2F%2Fgithub.com%2FGiveth%2Fminime%2Fblob%2Fmaster%2Fcontracts%2FMiniMeToken.sol)
+
 
     ****
 6.  **历史**
 
     本标准的相关历史链接：
 
-    * [Vitalik Buterin的最初提议](https://link.jianshu.com/?t=%255Bhttps%3A%2F%2Fgithub.com%2Fethereum%2Fwiki%2Fwiki%2FStandardized_Contract_APIs%2F499c882f3ec123537fc2fccd57eaa29e6032fe4a%255D%28https%3A%2F%2Fgithub.com%2Fethereum%2Fwiki%2Fwiki%2FStandardized_Contract_APIs%2F499c882f3ec123537fc2fccd57eaa29e6032fe4a%29)
-    * [Reddit讨论](https://link.jianshu.com/?t=%255Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F3n8fkn%2Flets_talk_about_the_coin_standard%2F%255D%28https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F3n8fkn%2Flets_talk_about_the_coin_standard%2F%29)
-    * [原Issue #20](https://link.jianshu.com/?t=%255Bhttps%3A%2F%2Fgithub.com%2Fethereum%2FEIPs%2Fissues%2F20%255D%28https%3A%2F%2Fgithub.com%2Fethereum%2FEIPs%2Fissues%2F20%29)
+    * [Vitalik Buterin的最初提议](https://github.com/ethereum/wiki/wiki/Standardized\_Contract\_APIs/499c882f3ec123537fc2fccd57eaa29e6032fe4a)
+    * [Reddit讨论](https://www.reddit.com/r/ethereum/comments/3n8fkn/lets\_talk\_about\_the\_coin\_standard/)
+    * [原Issue #20](https://github.com/ethereum/EIPs/issues/20)
 7.  **版权**
 
     版权和相关权利通过[CC0](https://link.jianshu.com/?t=https%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fzero%2F1.0%2F)许可协议放弃。
