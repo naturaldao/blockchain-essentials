@@ -26,7 +26,7 @@ ERC20让开发者能够基于智能合约执行以下操作：
     这一标准接口可以让以太网上的任何token可以被其他应用程序再利用：从钱包到去中心化的交易所。
 4.  **技术参数**
 
-    **1）token**
+    **1）Token**
 
     1.1. 方法
 
@@ -35,47 +35,47 @@ ERC20让开发者能够基于智能合约执行以下操作：
     **name**：返回令牌的名字，例如“MyToken”。\
     可选——这个方法可以用来提高可用性，但接口和其它合约不能依赖该值的存在。
 
-    function name() view returns (string name)
+    function name() public view returns (string)
 
     **symbol**：返回令牌的符号，例如“HIX”。\
     可选——这个方法可以用来提高可用性，但接口和其它合约不能依赖该值的存在。
 
-    function symbol() view returns (string symbol)
+    function symbol() public view returns (string)
 
     **decimals**：返回token使用的小数位数，比如 8，表示将记录在链上的token数除以100000000后显示给用户。\
     可选——这个方法可以用来提高可用性，但接口和其它合约不能依赖该值的存在。
 
-    function decimals() view returns (uint8 decimals)
+    function decimals() public view returns (uint8)
 
     **totalSupply**：返回token的总供应量。
 
-    function totalSupply() view returns (uint256 totalSupply)
+    function totalSupply() public view returns (uint256)
 
     **balanceOf**：返回另一个账户地址\_owner的账户余额。
 
-    function balanceOf(address \_owner) view returns (uint256 balance)
+    function balanceOf(address \_owner) public view returns (uint256 balance)
 
     **transfer**：转移\_value数量的token到地址\_to，并且必须触发Transfer事件。 如果\_from帐户余额没有足够的token来支出，该方法应该throw。\
     **注意**：\_value=0必须被视为正常转账并触发Transfer事件。
 
-    function transfer(address \_to, uint256 \_value) returns (bool success)
+    function transfer(address \_to, uint256 \_value) public returns (bool success)
 
     **transferFrom**：从地址\_from发送\_value个token到地址\_to，必须触发Transfer事件。\
     transferFrom方法用于提现流程，允许合约为你转移token。这可以用于允许合约为你转让代币或收取费用。除非帐户\_from有意通过某种机制授权消息的发送者，否则该方法应该throw。
 
     **注意**：\_value=0必须被视为正常转账并触发Transfer事件。
 
-    function transferFrom(address \_from, address \_to, uint256 \_value) returns (bool success)
+    function transferFrom(address \_from, address \_to, uint256 \_value) public returns (bool success)
 
     **approve**：允许\_spender多次从你的帐户提现，最高数量是\_value。 如果再次调用此函数，它将以\_value覆盖当前的值。
 
     注意：为了防止向量攻击，客户端需要确认以这样的方式创建用户接口，即在为同一个花费者设置另一个值之前，先将它的值设置为0。虽然合约本身不应该强制执行，以前部署的合同允许向后兼容。
 
-    function approve(address \_spender, uint256 \_value) returns (bool success)
+    function approve(address \_spender, uint256 \_value) public returns (bool success)
 
     **allowance**：返回被允许从\_owner提取到\_spender余额。
 
-    function allowance(address \_owner, address \_spender) view returns (uint256 remaining)
+    function allowance(address \_owner, address \_spender) public view returns (uint256 remaining)
 
 
 
