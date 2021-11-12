@@ -6,7 +6,36 @@ description: 智能合约乃区块链的硬核之一。它和通证的账单一�
 
 **智能合约是一种运行在以太坊链上的程序。 它是位于以太坊区块链上一个特定地址的一系列代码（函数）和数据（状态）。智能合约也是一个**[**以太坊帐户**](https://ethereum.org/zh/developers/docs/accounts/)**，我们称之为合约账户。 这意味着它们有余额，它们可以通过网络进行交易。 但是，它们无法被人操控，它们是被部署在去中心化网络节点上作为程序运行着。 个人用户可以通过提交交易执行智能合约的某一个函数来与智能合约进行交互。 智能合约能像常规合同一样定义规则，并通过代码自动强制执行。**
 
-从应用层面来说：智能合约（Smart Contract）是用程序代码定义合约参与方的承诺，并能够完全抗干预地根据承诺自动执行包括转账通证在内的约定条款的协议。
+### 智能合约的特色 <a href="permissionless" id="permissionless"></a>
+
+#### 无需准入性 <a href="permissionless" id="permissionless"></a>
+
+任何人都可以编写智能合约并将其部署到区块链网络上。 你只需要学习如何用[智能合约语言编码](https://ethereum.org/zh/developers/docs/smart-contracts/languages/)，并有足够的 ETH 来部署你的合约。 在技术上，部署智能合约是一项交易，所以你需要支付你的[Gas](https://ethereum.org/zh/developers/docs/gas/)，就像你需要为简单的以太坊转账支付 gas 一样。 然而，部署合约所需要消耗的 gas 费要高得多。
+
+以太坊编写智能合约的语言，对开发者比较友好：
+
+* Solidity
+* Vyper
+
+[有关更多语言](https://ethereum.org/zh/developers/docs/smart-contracts/languages/)
+
+然而，它们必须要先编译才能部署，以便以太坊虚拟机可以解释并储存合约。 [更多关于编译的内容](https://ethereum.org/zh/developers/docs/smart-contracts/compiling/)
+
+#### 可组合性 <a href="composability" id="composability"></a>
+
+智能合约在以太坊上公开，并被认为是开放应用程序接口。 这意味着你可以在你自己的智能合约中调用其他智能合约以极大地扩展可能性。 合约甚至可以部署其他合约。
+
+了解更多关于[智能合约可组合性](https://ethereum.org/zh/developers/docs/smart-contracts/composability/)的内容。
+
+#### 局限性 <a href="limitations" id="limitations"></a>
+
+智能合约本身无法获取关于”真实世界“的事件信息，因为它们无法发送 HTTP 请求。 这样设计是因为依赖于外部信息可能会危及共识，这对安全性和去中心化而言十分重要。
+
+这可以通过 [预言机](https://ethereum.org/zh/developers/docs/oracles/) 来规避。
+
+
+
+从应用层面简单地说：智能合约（Smart Contract）是用程序代码定义合约参与方的承诺，并能够完全抗干预地根据承诺自动执行包括转账通证在内的约定条款的协议。
 
 智能合约允许在不同的匿名方之间进行可信交易和协议，而无需中央机构，法律系统或外部强制执行的机制。它们使得交易、状态和数据可追溯，透明且不可逆转。
 
@@ -24,7 +53,7 @@ description: 智能合约乃区块链的硬核之一。它和通证的账单一�
 
 智能合约是纯正且原生的区块链技术。它符合我们对于区块链价值观的所有期望。
 
-智能合约的特色：
+智能合约还有以下应用特色：
 
 * 和通证的账单一样部署在链上。
 * 去中心化——智能合约是严格按照甲乙双方已写入代码的约定，封闭式自动执行的。勿需也不允许第三方的介入（思考：现在的预言机、Amberdata等等是否有问题？）。
