@@ -10,8 +10,7 @@
 * [1.4 什么是挖矿](chapter-1/mining.md)
 * [1.5 什么是分叉](chapter-1/fork.md)
 * [1.6 比特币的特色和局限](chapter-1/pros-and-cons.md)
-* [1.7 区块链的定义与分类分歧](chapter-1/what-is-blockchain.md)
-* [1.8 小讨论](chapter-1/discussion.md)
+* [1.7 小讨论](chapter-1/discussion.md)
 
 ## 第二章 区块链钱包 <a href="chapter-2" id="chapter-2"></a>
 
@@ -47,7 +46,8 @@
 * [4.11 ERC-792仲裁标准及其特色](chapter-4/erc-792.md)
 * [4.12 以太坊EIPs](chapter-4/eips.md)
 * [4.15 智能合约和以太坊的价值](chapter-4/eips-1.md)
-* [4.16 课外阅读与参考资料](chapter-4/4.12-ke-wai-yue-du-yu-can-kao-zi-liao.md)
+* [4.16 区块链的定义与分类分歧](chapter-4/what-is-blockchain.md)
+* [4.17 课外阅读与参考资料](chapter-4/4.12-ke-wai-yue-du-yu-can-kao-zi-liao.md)
 
 ## 第五章    区块链应用案例：DeFi <a href="chapter-5" id="chapter-5"></a>
 
