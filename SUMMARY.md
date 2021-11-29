@@ -67,11 +67,12 @@
 ## 第六章 区块链发展：激励式开源协作 <a href="chapter6" id="chapter6"></a>
 
 * [6.1 基础概念](chapter6/6.1-ji-chu-gai-nian.md)
-* [6.2 区块链3.0：DAO](chapter6/6.2-qu-kuai-lian-3.0dao.md)
-* [6.3 开源的优势与必要](chapter6/untitled-1.md)
-* [6.4 区块链的激励式开放性协作](chapter6/untitled-2.md)
-* [6.5 如何保证项目安全](chapter6/6.5-ru-he-bao-zheng-xiang-mu-an-quan.md)
-* [6.6 参考资料与课后阅读](chapter6/6.6-can-kao-zi-liao-yu-ke-hou-yue-du.md)
+* [6.2 区块链3.0：DAO 1.0](chapter6/6.2-qu-kuai-lian-3.0dao.md)
+* [6.3 DAO 2.0](chapter6/6.3-dao-2.0.md)
+* [6.4 开源的优势与必要](chapter6/untitled-1.md)
+* [6.5 区块链的激励式开放性协作](chapter6/untitled-2.md)
+* [6.6 如何保证项目安全](chapter6/6.5-ru-he-bao-zheng-xiang-mu-an-quan.md)
+* [6.7 参考资料与课后阅读](chapter6/6.6-can-kao-zi-liao-yu-ke-hou-yue-du.md)
 
 ## 第七章 去中心化自治智能体（DAO） <a href="dao" id="dao"></a>
 
