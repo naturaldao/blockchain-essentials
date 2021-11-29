@@ -8,7 +8,7 @@ description: 智能合约乃区块链的硬核之一。它和通证的账单一�
 
 ### 智能合约的特色 <a href="permissionless" id="permissionless"></a>
 
-#### 无需准入性 <a href="permissionless" id="permissionless"></a>
+#### 无需准入性（无需许可） <a href="permissionless" id="permissionless"></a>
 
 任何人都可以编写智能合约并将其部署到区块链网络上。 你只需要学习如何用[智能合约语言编码](https://ethereum.org/zh/developers/docs/smart-contracts/languages/)，并有足够的 ETH 来部署你的合约。 在技术上，部署智能合约是一项交易，所以你需要支付你的[Gas](https://ethereum.org/zh/developers/docs/gas/)，就像你需要为简单的以太坊转账支付 gas 一样。 然而，部署合约所需要消耗的 gas 费要高得多。
 
@@ -21,7 +21,7 @@ description: 智能合约乃区块链的硬核之一。它和通证的账单一�
 
 然而，它们必须要先编译才能部署，以便以太坊虚拟机可以解释并储存合约。 [更多关于编译的内容](https://ethereum.org/zh/developers/docs/smart-contracts/compiling/)
 
-#### 可组合性 <a href="composability" id="composability"></a>
+#### 自由组合性 <a href="composability" id="composability"></a>
 
 智能合约在以太坊上公开，并被认为是开放应用程序接口。 这意味着你可以在你自己的智能合约中调用其他智能合约以极大地扩展可能性。 合约甚至可以部署其他合约。
 
@@ -60,8 +60,8 @@ description: 智能合约乃区块链的硬核之一。它和通证的账单一�
 * 勿需信用中介——勿需第三方的信用背书，智能合约本身以及区块链即可以提供可靠的保障。
 * 不可篡改——通过区块链加密技术，它可以防范人为作弊等干扰，从而具体抗审查的能力。
 * 透明可追踪——任何人都可以在链上查阅智能合约代码，从而彻彻底底了解它的所有细节。
-* 匿名——智能合约是自主运行的，它不需要有人去启动或终止。也不需要知道你是谁。
 * 精准——智能合约是用代码写出来的，它不存在任何语言上的歧义的可能。
+* 匿名——智能合约是自主运行的，它不需要有人去启动或终止。也不需要知道你是谁。
 
 请注意：除了区块链，其它任何技术都无法部署智能合约，如此则可以说，智能合约是区块链的独门秘技。
 
