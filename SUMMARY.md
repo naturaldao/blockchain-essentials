@@ -2,7 +2,7 @@
 
 * [前言](README.md)
 
-## 第一章 区块链底层概念 <a href="chapter-1" id="chapter-1"></a>
+## 第一章 区块链底层概念 <a href="#chapter-1" id="chapter-1"></a>
 
 * [1.1 比特币白皮书](chapter-1/bitcoin-whitepaper.md)
 * [1.2    区块链概念的学习路径](chapter-1/learning-path.md)
@@ -12,7 +12,7 @@
 * [1.6 比特币的特色和局限](chapter-1/pros-and-cons.md)
 * [1.7 小讨论](chapter-1/discussion.md)
 
-## 第二章 区块链钱包 <a href="chapter-2" id="chapter-2"></a>
+## 第二章 区块链钱包 <a href="#chapter-2" id="chapter-2"></a>
 
 * [2.1 钱包及账户](chapter-2/2.1-qian-bao-ji-zhang-hu.md)
 * [2.2 电脑钱包安装](chapter-2/2.2-dian-nao-qian-bao-an-zhuang.md)
@@ -24,14 +24,14 @@
 * [2.8 钱包的安全性](chapter-2/myetherwallet-yi-tai-bi-qian-bao-de-shi-yong.md)
 * [2.9 讨论与练习](chapter-2/tao-lun-yu-lian-xi.md)
 
-## 第三章 区块链1.0：数字加密货币 <a href="chapter-3" id="chapter-3"></a>
+## 第三章 区块链1.0：数字加密货币 <a href="#chapter-3" id="chapter-3"></a>
 
 * [3.1 数字加密货币的产生](chapter-3/creation.md)
 * [3.2 竞争币](chapter-3/altcoin.md)
 * [3.3 几个竞争币的简介](chapter-3/examples.md)
 * [3.3 课外阅读与思考](chapter-3/source-n-discussion.md)
 
-## 第四章 区块链2.0：智能合约 <a href="chapter-4" id="chapter-4"></a>
+## 第四章 区块链2.0：智能合约 <a href="#chapter-4" id="chapter-4"></a>
 
 * [4.1 以太坊白皮书](chapter-4/ethereum-whitepaper.md)
 * [4.2 解读以太坊](chapter-4/explanation.md)
@@ -49,7 +49,7 @@
 * [4.16 区块链的定义与分类分歧](chapter-4/what-is-blockchain.md)
 * [4.17 课外阅读与参考资料](chapter-4/4.12-ke-wai-yue-du-yu-can-kao-zi-liao.md)
 
-## 第五章    区块链应用案例：DeFi <a href="chapter-5" id="chapter-5"></a>
+## 第五章    区块链应用案例：DeFi <a href="#chapter-5" id="chapter-5"></a>
 
 * [5.1 小始祖彩色币](chapter-5/coloredcoins.md)
 * [5.2 去中心化交易所Bitshares](chapter-5/bitshares.md)
@@ -59,12 +59,12 @@
 * [5.6 通用的去中心化交易协议Uniswap](chapter-5/uniswap.md)
 * [5.7 去中心化稳定币DAI](chapter-5/dai.md)
 * [5.8 DeFi 借贷平台 Compound](chapter-5/compound.md)
-* [5.9 DeFi 小小里程碑：Pool Together](chapter-5/pooltogether.md)
+* [5.9 DeFi 小小闪光点：Pool Together](chapter-5/pooltogether.md)
 * [5.10 EIP-3156：一种闪电贷标准](chapter-5/6.7-naturaldao.md)
 * [5.11启发](chapter-5/inspiration.md)
 * [5.12 参考资料与讨论](chapter-5/discussion.md)
 
-## 第六章 区块链发展：激励式开源协作 <a href="chapter6" id="chapter6"></a>
+## 第六章 区块链发展：激励式开源协作 <a href="#chapter6" id="chapter6"></a>
 
 * [6.1 基础概念](chapter6/6.1-ji-chu-gai-nian.md)
 * [6.2 区块链3.0：DAO 1.0](chapter6/6.2-qu-kuai-lian-3.0dao.md)
@@ -74,7 +74,7 @@
 * [6.6 如何保证项目安全](chapter6/6.5-ru-he-bao-zheng-xiang-mu-an-quan.md)
 * [6.7 参考资料与课后阅读](chapter6/6.6-can-kao-zi-liao-yu-ke-hou-yue-du.md)
 
-## 第七章 去中心化自治智能体（DAO） <a href="dao" id="dao"></a>
+## 第七章 去中心化自治智能体（DAO） <a href="#dao" id="dao"></a>
 
 * [第八章 智能合约与Solidity语言](dao/solidity.md)
 * [参考文献](dao/can-kao-wen-xian.md)
