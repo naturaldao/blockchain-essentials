@@ -61,9 +61,9 @@
 * [5.8 DeFi 借贷平台 Compound](chapter-5/compound.md)
 * [5.9 DeFi 小小闪光点：Pool Together](chapter-5/pooltogether.md)
 * [5.10 去中心化借贷：Euler Finance](chapter-5/5.10-qu-zhong-xin-hua-jie-dai-euler-finance.md)
-* [5.10 EIP-3156：一种闪电贷标准](chapter-5/6.7-naturaldao.md)
-* [5.11启发](chapter-5/inspiration.md)
-* [5.12 参考资料与讨论](chapter-5/discussion.md)
+* [5.11 EIP-3156：一种闪电贷标准](chapter-5/6.7-naturaldao.md)
+* [5.12 启发](chapter-5/inspiration.md)
+* [5.13 参考资料与讨论](chapter-5/discussion.md)
 
 ## 第六章 区块链发展：激励式开源协作 <a href="#chapter6" id="chapter6"></a>
 
