@@ -60,15 +60,15 @@ _In **blockchain** we trust._
 
 _In **the future** we trust_
 
-_In **freedom **we trust_
+_In **freedom** we trust_
 
-_In **Satoshi **we trust_
+_In **Satoshi** we trust_
 
-_In **Bitcoin **we trust_
+_In **Bitcoin** we trust_
 
-_In **crypto **we trust_
+_In **crypto** we trust_
 
-_In **math **we trust_
+_In **math** we trust_
 
 _In **you** we trust_
 
