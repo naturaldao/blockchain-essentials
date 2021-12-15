@@ -1,8 +1,8 @@
-# 6.3 开源的优势与必要
+# 6.4 开源的优势与必要
 
 开源也已经成为当今软件开发的主流模式，内容的开源和硬件的开源（如树莓派Raspberry）也已经如火如荼地发展起来。相信未来开源摸索会渗入到各行各业中。开放源代码有很多优越于非开源的特性。它非常适合于去中心化协作。
 
-## 全球化服务
+## 践行区块链价值观，服务全人类
 
 本章开篇列出的“开放源代码应用实例”里的哪一个实例没有惠及全人类？
 
@@ -14,7 +14,7 @@
 
 Ethereum。
 
-## 基于智能合约的区块链监管
+## 践行良好的自我治理
 
 1999年Lawrence Lessig教授出版专著《Code》，提出Code is law。其思想发端，据教授本人介绍，是在伟大的1989年。直到今天，在中国接触过Code is law这个概念的人都还很少。可想而知，在1999年的很多人眼里，恐怕Lawrence Lessig教授当时跟个疯子似的。
 
@@ -73,7 +73,7 @@ Ethereum。
 
 知道以太坊在这些项目托管网站现在有多少个协作者吗？
 
-这个网站可以查询到：[CoinGecko （http://coingecko.com）](http://coingecko.com/)
+这个网站可以查询到：[CoinGecko （http://coingecko.com）](http://coingecko.com)
 
 2018年5月9日，我看到有5544个Fork，235个贡献者，过去四周递交了30份修改工作。
 
@@ -107,30 +107,12 @@ Google的reCaptcha验证码也许你用过吧：
 
 reCaptcha并非一个简单的项目，它是全自动区分计算机和人类的公开图灵测试——这个概念已经如雷贯耳了。现在它有三个分支技术。有图有真相：
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">
-        <p>reCAPTCHA</p>
-        <p>
-          <img src="../.gitbook/assets/0.png" alt/>
-        </p>
-      </th>
-      <th style="text-align:left">
-        <p>SQUIGL-PIX&#xFF08;&#x81EA;&#x52A8;&#x8BC6;&#x522B;&#x4F60;&#x662F;&#x4E0D;&#x662F;&#x4EBA;&#xFF09;</p>
-        <p>
-          <img src="../.gitbook/assets/1.gif" alt="&#x4E0E;&#x607C;&#x4EBA;&#x7684;&#x9A8C;&#x8BC1;&#x7801;&#x8BF4;&#x62DC;&#x62DC;&#xFF0C;Google&#x7528;&#x4E00;&#x6B21;&#x70B9;&#x51FB;&#x533A;&#x5206;&#x4EBA;&#x4E0E;&#x673A;&#x5668;"
-          />
-        </p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
+| <p>reCAPTCHA</p><p><img src="../.gitbook/assets/0.png" alt=""></p> | <p>SQUIGL-PIX（自动识别你是不是人）</p><p><img src="../.gitbook/assets/1.gif" alt="与恼人的验证码说拜拜，Google用一次点击区分人与机器"></p> |
+| ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
 
 ESP-PIX（通过做题判断你是不是人）
 
-![&#x4E0E;&#x607C;&#x4EBA;&#x7684;&#x9A8C;&#x8BC1;&#x7801;&#x8BF4;&#x62DC;&#x62DC;&#xFF0C;Google&#x7528;&#x4E00;&#x6B21;&#x70B9;&#x51FB;&#x533A;&#x5206;&#x4EBA;&#x4E0E;&#x673A;&#x5668;](../.gitbook/assets/2.jpeg)
+![与恼人的验证码说拜拜，Google用一次点击区分人与机器](../.gitbook/assets/2.jpeg)
 
 介绍下看上去不那么高科技的reCAPTCHA吧：
 
@@ -202,4 +184,3 @@ Windows成为霸主后商业软件WinZip趁机利用一张皮（它是调用DOS�
 * 任何人都可以提交开发/推广方案并申请相关预算，由主节点投票来决定该申请是否通过。若方案通过，预算将从区块奖励最后的那10%不断积累出的项目资金中拨出——代表官方的技术开发团队也不例外，其开发预算一视同仁，也要经过主节点投票来决定。
 
 但达世币的DAO，还实在太低级了。目前已经有Wings、Colony、Giveth、ARES protocol、Boardroom、Aragon （District0x）、RootProject等等项目在摸索。
-
