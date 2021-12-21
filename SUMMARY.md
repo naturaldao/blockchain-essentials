@@ -2,80 +2,80 @@
 
 * [前言(ver 2021.12)](README.md)
 
-## 第一章 区块链底层概念 <a href="#区块链底层概念" id="区块链底层概念"></a>
+## 第一章 区块链底层概念 <a href="#chapt-1 区块链底层概念" id="chapt-1 区块链底层概念"></a>
 
-* [1.1 比特币白皮书](区块链底层概念/比特币白皮书.md)
-* [1.2 区块链概念的学习路径](区块链底层概念/区块链概念的学习路径.md)
-* [1.3 区块链的共识与共识机制](区块链底层概念/区块链的共识与共识机制.md)
-* [1.4 什么是挖矿](区块链底层概念/什么是挖矿.md)
-* [1.5 什么是分叉](区块链底层概念/什么是分叉.md)
-* [1.6 比特币的特色和局限](区块链底层概念/比特币的特色和局限.md)
-* [1.7 小讨论](区块链底层概念/小讨论.md)
+* [1.1 比特币白皮书](<chapt-1 区块链底层概念/1.1 比特币白皮书.md>)
+* [1.2 区块链概念的学习路径](<chapt-1 区块链底层概念/1.2 区块链概念的学习路径.md>)
+* [1.3 区块链的共识与共识机制](<chapt-1 区块链底层概念/1.3 区块链的共识与共识机制.md>)
+* [1.4 什么是挖矿](<chapt-1 区块链底层概念/1.4 什么是挖矿.md>)
+* [1.5 什么是分叉](<chapt-1 区块链底层概念/1.5 什么是分叉.md>)
+* [1.6 比特币的特色和局限](<chapt-1 区块链底层概念/1.6 比特币的特色和局限.md>)
+* [1.7 小讨论](<chapt-1 区块链底层概念/1.7 小讨论.md>)
 
-## 第二章 区块链钱包 <a href="#chapter-2" id="chapter-2"></a>
+## 第二章 区块链钱包 <a href="#chapter-2 区块链钱包" id="chapter-2 区块链钱包"></a>
 
-* [2.1 钱包及账户](chapter-2/2.1-qian-bao-ji-zhang-hu.md)
-* [2.2 电脑钱包安装](chapter-2/2.2-dian-nao-qian-bao-an-zhuang.md)
-* [2.1 手机钱包安装](chapter-2/wallet-intro.md)
-* [2.4 签名与多重签名](chapter-2/wallet-signature.md)
-* [2.5 交易手续费](chapter-2/wallet-trasaction-fee.md)
-* [2.6 双重支付（双花）](chapter-2/2.3-shuang-zhong-zhi-fu-shuang-hua.md)
-* [2.7 钱包的数据存储方式与特色](chapter-2/2.4-qian-bao-de-lei-xing-yu-te-se.md)
-* [2.8 钱包的安全性](chapter-2/myetherwallet-yi-tai-bi-qian-bao-de-shi-yong.md)
-* [2.9 讨论与练习](chapter-2/tao-lun-yu-lian-xi.md)
+* [2.1 钱包及账户](<chapter-2 区块链钱包/2.1 钱包及账户.md>)
+* [2.2 电脑钱包安装](<chapter-2 区块链钱包/2.2 电脑钱包安装.md>)
+* [2.1 手机钱包安装](<chapter-2 区块链钱包/2.1 手机钱包安装.md>)
+* [2.4 签名与多重签名](<chapter-2 区块链钱包/2.4 签名与多重签名.md>)
+* [2.5 交易手续费](<chapter-2 区块链钱包/2.5 交易手续费.md>)
+* [2.6 双重支付（双花）](<chapter-2 区块链钱包/2.6 双重支付（双花）.md>)
+* [2.7 钱包的数据存储方式与特色](<chapter-2 区块链钱包/2.7 钱包的数据存储方式与特色.md>)
+* [2.8 钱包的安全性](<chapter-2 区块链钱包/2.8 钱包的安全性.md>)
+* [2.9 讨论与练习](<chapter-2 区块链钱包/2.9 讨论与练习.md>)
 
-## 第三章 区块链1.0：数字加密货币 <a href="#chapter-3" id="chapter-3"></a>
+## 第三章 区块链1.0：数字加密货币 <a href="#chapter-3 区块链1.0：数字加密货币" id="chapter-3 区块链1.0：数字加密货币"></a>
 
-* [3.1 数字加密货币的产生](chapter-3/creation.md)
-* [3.2 竞争币](chapter-3/altcoin.md)
-* [3.3 几个竞争币的简介](chapter-3/examples.md)
-* [3.3 课外阅读与思考](chapter-3/source-n-discussion.md)
+* [3.1 数字加密货币的产生](<chapter-3 区块链1.0：数字加密货币/3.1 数字加密货币的产生.md>)
+* [3.2 竞争币](<chapter-3 区块链1.0：数字加密货币/3.2 竞争币.md>)
+* [3.3 几个竞争币的简介](<chapter-3 区块链1.0：数字加密货币/3.3 几个竞争币的简介.md>)
+* [3.4 课外阅读与思考](<chapter-3 区块链1.0：数字加密货币/3.4 课外阅读与思考.md>)
 
-## 第四章 区块链2.0：智能合约 <a href="#chapter-4" id="chapter-4"></a>
+## 第四章 区块链2.0：智能合约 <a href="#chapter-4 区块链2.0：智能合约" id="chapter-4 区块链2.0：智能合约"></a>
 
-* [4.1 以太坊白皮书](chapter-4/ethereum-whitepaper.md)
-* [4.2 解读以太坊](chapter-4/explanation.md)
-* [4.3 通证（token）及其多样性](chapter-4/what-is-token.md)
-* [4.4 智能合约（Smart Contract）](chapter-4/smart-contract.md)
-* [4.5 ERC-20通证标准及其爆发性应用](chapter-4/erc20.md)
-* [4.6 ERC-721非同质通证标准及其爆发性应用](chapter-4/erc721.md)
-* [4.7 EIP-1155 多重通证标准](chapter-4/eip1155.md)
-* [4.8 ERC-1155：为区块链游戏而生](chapter-4/erc1155-for-game.md)
-* [4.9 EIP-3712：多重同质化通证标准](chapter-4/eip3712.md)
-* [4.10 EIP-2938：账户抽象化](chapter-4/eip2938.md)
-* [4.11 ERC-792仲裁标准及其特色](chapter-4/erc-792.md)
-* [4.12 以太坊EIPs](chapter-4/eips.md)
-* [4.15 智能合约和以太坊的价值](chapter-4/eips-1.md)
-* [4.16 区块链的定义与分类分歧](chapter-4/what-is-blockchain.md)
-* [4.17 课外阅读与参考资料](chapter-4/4.12-ke-wai-yue-du-yu-can-kao-zi-liao.md)
+* [4.1 以太坊白皮书](<chapter-4 区块链2.0：智能合约/4.1 以太坊白皮书.md>)
+* [4.2 解读以太坊](<chapter-4 区块链2.0：智能合约/4.2 解读以太坊.md>)
+* [4.3 通证（token）及其多样性](<chapter-4 区块链2.0：智能合约/4.3 通证（token）及其多样性.md>)
+* [4.4 智能合约（Smart Contract）](<chapter-4 区块链2.0：智能合约/4.4 智能合约（Smart Contract）.md>)
+* [4.5 ERC-20通证标准及其爆发性应用](<chapter-4 区块链2.0：智能合约/4.5 ERC-20通证标准及其爆发性应用.md>)
+* [4.6 ERC-721非同质通证标准及其爆发性应用](<chapter-4 区块链2.0：智能合约/4.6 ERC-721非同质通证标准及其爆发性应用.md>)
+* [4.7 EIP-1155 多重通证标准](<chapter-4 区块链2.0：智能合约/4.7 EIP-1155 多重通证标准.md>)
+* [4.8 ERC-1155：为区块链游戏而生](<chapter-4 区块链2.0：智能合约/4.8 ERC-1155：为区块链游戏而生.md>)
+* [4.9 EIP-3712：多重同质化通证标准](<chapter-4 区块链2.0：智能合约/4.9 EIP-3712：多重同质化通证标准.md>)
+* [4.10 EIP-2938：账户抽象化](<chapter-4 区块链2.0：智能合约/4.10 EIP-2938：账户抽象化.md>)
+* [4.11 ERC-792仲裁标准及其特色](<chapter-4 区块链2.0：智能合约/4.11 ERC-792仲裁标准及其特色.md>)
+* [4.12 以太坊EIPs](<chapter-4 区块链2.0：智能合约/4.12 以太坊EIPs.md>)
+* [4.15 智能合约和以太坊的价值](<chapter-4 区块链2.0：智能合约/4.15 智能合约和以太坊的价值.md>)
+* [4.16 区块链的定义与分类分歧](<chapter-4 区块链2.0：智能合约/4.16 区块链的定义与分类分歧.md>)
+* [4.17 课外阅读与参考资料](<chapter-4 区块链2.0：智能合约/4.17 课外阅读与参考资料.md>)
 
-## 第五章 区块链应用案例：DeFi <a href="#chapter-5" id="chapter-5"></a>
+## 第五章 区块链应用案例 <a href="#chapter-5 区块链应用案例" id="chapter-5 区块链应用案例"></a>
 
-* [5.1 小始祖彩色币](chapter-5/coloredcoins.md)
-* [5.2 去中心化交易所Bitshares](chapter-5/bitshares.md)
-* [5.3 去中心化交易所Kyber Network](chapter-5/kyber.md)
-* [5.4 去中心化交易协议0x Protocol](chapter-5/0xprotocol.md)
-* [5.5 去中心化币币交易网络Bancor Network](chapter-5/bancor.md)
-* [5.6 通用的去中心化交易协议Uniswap](chapter-5/uniswap.md)
-* [5.7 去中心化稳定币DAI](chapter-5/dai.md)
-* [5.8 DeFi 借贷平台 Compound](chapter-5/compound.md)
-* [5.9 DeFi 小小闪光点：Pool Together](chapter-5/pooltogether.md)
-* [5.10 去中心化借贷：Euler Finance](chapter-5/5.10-qu-zhong-xin-hua-jie-dai-euler-finance.md)
-* [5.11 闪电贷及EIP-3156](chapter-5/5.11-shan-dian-dai-ji-eip3156.md)
-* [5.12 去中心化借贷：Euler Finance](chapter-5/5.12-qu-zhong-xin-hua-jie-dai-euler-finance.md)
-* [5.13 EIP-3156：一种闪电贷标准](chapter-5/6.7-naturaldao.md)
-* [5.14 启发](chapter-5/inspiration.md)
-* [5.15 参考资料与讨论](chapter-5/discussion.md)
+* [5.1 小始祖彩色币](<chapter-5 区块链应用案例/5.1 小始祖彩色币.md>)
+* [5.2 去中心化交易所Bitshares](<chapter-5 区块链应用案例/5.2 去中心化交易所Bitshares.md>)
+* [5.3 去中心化交易所Kyber Network](<chapter-5 区块链应用案例/5.3 去中心化交易所Kyber Network.md>)
+* [5.4 去中心化交易协议0x Protocol](<chapter-5 区块链应用案例/5.4 去中心化交易协议0x Protocol.md>)
+* [5.5 去中心化币币交易网络Bancor Network](<chapter-5 区块链应用案例/5.5 去中心化币币交易网络Bancor Network.md>)
+* [5.6 通用的去中心化交易协议Uniswap](<chapter-5 区块链应用案例/5.6 通用的去中心化交易协议Uniswap.md>)
+* [5.7 去中心化稳定币DAI](<chapter-5 区块链应用案例/5.7 去中心化稳定币DAI.md>)
+* [5.8 DeFi 借贷平台 Compound](<chapter-5 区块链应用案例/5.8 DeFi 借贷平台 Compound.md>)
+* [5.9 DeFi 小小闪光点：Pool Together](<chapter-5 区块链应用案例/5.9 DeFi 小小闪光点：Pool Together.md>)
+* [5.10 去中心化借贷：Euler Finance](<chapter-5 区块链应用案例/5.10 去中心化借贷：Euler Finance.md>)
+* [5.11 闪电贷及EIP-3156](<chapter-5 区块链应用案例/5.11 闪电贷及EIP-3156.md>)
+* [5.12 去中心化借贷：Euler Finance](<chapter-5 区块链应用案例/5.12-qu-zhong-xin-hua-jie-dai-euler-finance.md>)
+* [5.13 EIP-3156：一种闪电贷标准](<chapter-5 区块链应用案例/5.13 EIP-3156：一种闪电贷标准.md>)
+* [5.14 启发](<chapter-5 区块链应用案例/5.14 启发.md>)
+* [5.15 参考资料与讨论](<chapter-5 区块链应用案例/5.15 参考资料与讨论.md>)
 
-## 第六章 区块链发展：激励式开源协作 <a href="#chapter6" id="chapter6"></a>
+## 第六章 区块链协作 <a href="#chapter6 区块链协作" id="chapter6 区块链协作"></a>
 
-* [6.1 基础概念](chapter6/6.1-ji-chu-gai-nian.md)
-* [6.2 区块链3.0：DAO](chapter6/6.2-qu-kuai-lian-3.0dao.md)
-* [6.3 DAO 2.0](chapter6/6.3-dao-2.0.md)
-* [6.4 开源的优势与必要](chapter6/untitled-1.md)
-* [6.5 区块链的激励式开放性协作](chapter6/untitled-2.md)
-* [6.6 如何保证项目安全](chapter6/6.5-ru-he-bao-zheng-xiang-mu-an-quan.md)
-* [6.7 参考资料与课后阅读](chapter6/6.6-can-kao-zi-liao-yu-ke-hou-yue-du.md)
+* [6.1 基础概念](<chapter6 区块链协作/6.1 基础概念.md>)
+* [6.2 区块链3.0：DAO](<chapter6 区块链协作/6.2 区块链3.0：DAO.md>)
+* [6.3 DAO 2.0](<chapter6 区块链协作/6.3 DAO 2.0.md>)
+* [6.4 开源的优势与必要](<chapter6 区块链协作/6.4 开源的优势与必要.md>)
+* [6.5 区块链的激励式开放性协作](<chapter6 区块链协作/区块链的激励式开放性协作.md>)
+* [6.6 如何保证协作安全](<chapter6 区块链协作/6.6 如何保证协作安全.md>)
+* [6.7 参考资料与课后阅读](<chapter6 区块链协作/6.7 参考资料与课后阅读.md>)
 
 ## 第七章 去中心化自治智能体（DAO） <a href="#dao" id="dao"></a>
 
