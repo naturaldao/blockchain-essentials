@@ -123,19 +123,14 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 
 
-其它资源推荐
+**其它资源推荐**
 
-[《重要提示 - 面对奥密克戎我们应该做什么？》](https://zhous98.gitbook.io/mian-dui-ao-mi-ke-rong-wo-men-ying-gai-zuo-shen-me/)
+****[《重要提示 - 面对奥密克戎我们应该做什么？](https://zhous98.gitbook.io/mian-dui-ao-mi-ke-rong-wo-men-ying-gai-zuo-shen-me/)（周朝晖、Fiona）
 
-《一无所有》，崔健
+《一无所有》（崔健）
 
+《中国孩子》（周云蓬）
 
+《存在》（汪峰）
 
-《中国孩子》，周云蓬
-
-《存在》，汪峰
-
-《春天里》，春天里
-
-
-
+《春天里》（春天里）
