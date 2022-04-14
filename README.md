@@ -120,3 +120,22 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 **捐助自然道大学:**
 
 暂停
+
+
+
+其它资源推荐
+
+[《重要提示 - 面对奥密克戎我们应该做什么？》](https://zhous98.gitbook.io/mian-dui-ao-mi-ke-rong-wo-men-ying-gai-zuo-shen-me/)
+
+《一无所有》，崔健
+
+
+
+《中国孩子》，周云蓬
+
+《存在》，汪峰
+
+《春天里》，春天里
+
+
+
