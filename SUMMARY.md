@@ -62,7 +62,6 @@
 * [5.9 DeFi 小小闪光点：Pool Together](chapter-5/pooltogether.md)
 * [5.10 去中心化借贷：Euler Finance](chapter-5/5.10-qu-zhong-xin-hua-jie-dai-euler-finance.md)
 * [5.11 闪电贷及EIP-3156](chapter-5/5.11-shan-dian-dai-ji-eip3156.md)
-* [5.12 去中心化借贷：Euler Finance](chapter-5/5.12-qu-zhong-xin-hua-jie-dai-euler-finance.md)
 * [5.13 EIP-3156：一种闪电贷标准](chapter-5/6.7-naturaldao.md)
 * [5.14 启发](chapter-5/inspiration.md)
 * [5.15 参考资料与讨论](chapter-5/discussion.md)
