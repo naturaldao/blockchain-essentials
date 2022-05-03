@@ -4,8 +4,6 @@ description: 百年难遇的人类文明的革命
 
 # 前言(ver 2022.02)
 
-（[**《区块链概论》2021 PDF版**](https://naturaldao.io/forum/essentials/33-%E3%80%8A%E5%8C%BA%E5%9D%97%E9%93%BE%E6%A6%82%E8%AE%BA%E3%80%8B2021%E7%89%88.html)的下载链接）
-
 ## **什么是区块链？**
 
 ![Elon Musk's favorite: Dogecoin](.gitbook/assets/2021-02-16\_elon-must-dogecoin.png)
