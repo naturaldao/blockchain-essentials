@@ -129,6 +129,8 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 ****[《重要提示 - 面对奥密克戎我们应该做什么？](https://zhous98.gitbook.io/mian-dui-ao-mi-ke-rong-wo-men-ying-gai-zuo-shen-me/)》（周朝晖、Fiona）
 
+《苦难的时代：美国奴隶制经济学》\[美] 罗伯特·威廉·福格尔，等（Robert William Fogel）
+
 《一无所有》（崔健）
 
 《中国孩子》（周云蓬）
