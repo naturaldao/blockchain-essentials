@@ -101,7 +101,7 @@ Vitalik Buterin（以太坊创始人）：[https://twitter.com/VitalikButerin](h
 
 [　　![Gitter](https://badges.gitter.im/naturaldao/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%A6%82%E8%AE%BA.svg)](https://gitter.im/naturaldao/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%A6%82%E8%AE%BA)
 
-**作者（暨深大课程主讲老师、**[**道易程**](https://www.daism.io)**创始人）：**
+**作者（暨深大课程主讲老师、**[**道易程**](https://www.daism.io)**联合创始人）：**
 
 * [周朝晖](https://naturaldao.io/cn/about-cn/23-core-team-cn/33-zhou.html)
 
