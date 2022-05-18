@@ -4,6 +4,10 @@ description: 百年难遇的人类文明的革命
 
 # 前言(ver 2022.02)
 
+**2022年线上免费课程已经启动**
+
+ZOOM 会议号5月22日前公布
+
 ## **什么是区块链？**
 
 ![Elon Musk's favorite: Dogecoin](.gitbook/assets/2021-02-16\_elon-must-dogecoin.png)
