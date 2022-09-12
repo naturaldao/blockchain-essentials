@@ -4,9 +4,7 @@ description: 百年难遇的人类文明的革命
 
 # 前言(ver 2022.02)
 
-**2022年线上免费课程已经启动**
-
-ZOOM 会议号5月22日前公布
+**2022年网络公开课程已经结束。下半年深大见。**
 
 ## **什么是区块链？**
 
@@ -95,7 +93,7 @@ Fellowship of Ethereum Magicians：[https://ethereum-magicians.org/](https://eth
 
 Vitalik Buterin（以太坊创始人）：[https://twitter.com/VitalikButerin](https://twitter.com/VitalikButerin)
 
-我：[https://twitter.com/Derek\_Joe\_China](https://twitter.com/Derek\_Joe\_China)
+我：[https://twitter.com/zhous98](https://twitter.com/zhous98)
 
 ## 教材开源协作
 
