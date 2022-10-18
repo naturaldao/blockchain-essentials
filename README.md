@@ -131,7 +131,7 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 **其它资源推荐**
 
-****[《重要提示 - 面对奥密克戎我们应该做什么？](https://zhous98.gitbook.io/mian-dui-ao-mi-ke-rong-wo-men-ying-gai-zuo-shen-me/)》（周朝晖、Fiona）
+****[《重要提示 - 面对奥密克戎我们应该做什么？](https://zhous98.gitbook.io/mian-dui-ao-mi-ke-rong-wo-men-ying-gai-zuo-shen-me/)》（周朝晖、Fiona，2022年2月26日）
 
 [资本战争：普通人如何应对？——全球经济衰退（上）](https://www.youtube.com/watch?v=elxl5p0wDSg\&t=19s)
 
