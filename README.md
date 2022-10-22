@@ -123,13 +123,13 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 ***
 
-**捐助自然道大学:**
+**捐助自然道大学**
 
-暂停
+**（暂停）**
 
 ## **其它学习资源推荐**
 
-****[**《观念经济学》**](https://www.bilibili.com/cheese/play/ep43294)**课程（黄江南教授）**
+[《观念经济学》](https://www.bilibili.com/cheese/play/ep43294)课程（[黄江南教授的哔哩哔哩空间](https://space.bilibili.com/1432646173)、[YouTube频道](https://www.youtube.com/channel/UCsd7xYZzbCQrmjLwGLnps9w)）
 
 ****[《重要提示 - 面对奥密克戎我们应该做什么？](https://zhous98.gitbook.io/mian-dui-ao-mi-ke-rong-wo-men-ying-gai-zuo-shen-me/)》（周朝晖、Fiona，2022年2月26日）
 
