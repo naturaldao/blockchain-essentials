@@ -2,7 +2,7 @@
 description: 百年难遇的人类文明的革命
 ---
 
-# 前言(ver 2022.02)
+# 前言(ver 2022.10)
 
 **2022年网络公开课程已经结束。下半年深大见。**
 
@@ -127,9 +127,9 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 暂停
 
+## **其它学习资源推荐**
 
-
-**其它资源推荐**
+****[**《观念经济学》**](https://www.bilibili.com/cheese/play/ep43294)**课程（黄江南教授）**
 
 ****[《重要提示 - 面对奥密克戎我们应该做什么？](https://zhous98.gitbook.io/mian-dui-ao-mi-ke-rong-wo-men-ying-gai-zuo-shen-me/)》（周朝晖、Fiona，2022年2月26日）
 
