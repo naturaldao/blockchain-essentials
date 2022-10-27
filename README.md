@@ -139,6 +139,8 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 《千年金融史》（副标题：金融如何塑造文明 从5000年前到21世纪）【美】威廉·戈兹曼（William N.Goetzmann）著；张亚光、熊金武 译
 
+[Caught in Providence（YouTube）](https://www.youtube.com/c/CaughtInProvidence)
+
 《苦难的时代：美国奴隶制经济学》\[美] 罗伯特·威廉·福格尔，等（Robert William Fogel）
 
 《一无所有》（崔健）
