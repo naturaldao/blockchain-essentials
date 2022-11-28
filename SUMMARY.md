@@ -1,6 +1,6 @@
 # Table of contents
 
-* [前言(ver 2022.10)](README.md)
+* [前言(ver 2022.11)](README.md)
 
 ## 第一章 区块链底层概念 <a href="#chapt-1" id="chapt-1"></a>
 
