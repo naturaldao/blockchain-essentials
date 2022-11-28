@@ -4,7 +4,7 @@ description: 百年难遇的人类文明的革命
 
 # 前言(ver 2022.10)
 
-**2022年网络公开课程已经结束。下半年深大见。**
+## 致敬所有的中国大学生！
 
 ## **什么是区块链？**
 
@@ -92,6 +92,8 @@ _最朴素的解释是：区块链始于一场技术革命，将要引发覆盖�
 Fellowship of Ethereum Magicians：[https://ethereum-magicians.org/](https://ethereum-magicians.org)
 
 以太坊爱好者：[https://ethfans.org/](https://ethfans.org) (有微信公众号）
+
+登链社区：[https://learnblockchain.cn/](https://learnblockchain.cn/)
 
 Vitalik Buterin（以太坊创始人）：[https://twitter.com/VitalikButerin](https://twitter.com/VitalikButerin)
 
