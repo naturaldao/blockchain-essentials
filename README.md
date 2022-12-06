@@ -149,6 +149,8 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 [《观念经济学》](https://www.bilibili.com/cheese/play/ep43294)课程（[黄江南教授的哔哩哔哩空间](https://space.bilibili.com/1432646173)、[YouTube频道](https://www.youtube.com/channel/UCsd7xYZzbCQrmjLwGLnps9w)）
 
+[快樂營利社會企業 For-profit Social Enterprise](http://pingchu.com/?p=290)
+
 ****[《重要提示 - 面对奥密克戎我们应该做什么？](https://zhous98.gitbook.io/mian-dui-ao-mi-ke-rong-wo-men-ying-gai-zuo-shen-me/)》（周朝晖、Fiona，2022年2月26日）
 
 [资本战争：普通人如何应对？——全球经济衰退（上）](https://www.youtube.com/watch?v=elxl5p0wDSg\&t=19s)
