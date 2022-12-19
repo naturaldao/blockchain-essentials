@@ -26,7 +26,7 @@ description: 百年难遇的人类文明的革命
 
 ## **什么是区块链？**
 
-![Elon Musk's favorite: Dogecoin](.gitbook/assets/2021-02-16\_elon-must-dogecoin.png)
+![安利狗狗币捅穿美国的新衣的Elon Musk值得关注](.gitbook/assets/2021-02-16\_elon-must-dogecoin.png)
 
 如果你急于了解技术上的解释，[请点击此处](<chapter4/4.16 区块链的定义与分类分歧.md>)。
 
