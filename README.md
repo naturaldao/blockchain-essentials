@@ -10,19 +10,7 @@ description: 百年难遇的人类文明的革命
 
 **以下是深圳大学本课程的全部幻灯：**
 
-[第一讲](https://gamma.app/public/oug008jsizvdf6m)
-
-[第二讲](https://gamma.app/public/5oidxu6ccbl7058)
-
-[第三讲](https://gamma.app/public/isr1fufkvs2rs2a)
-
-[第四讲](https://gamma.app/public/xexkougwu8ri1ra)
-
-[第五讲](https://gamma.app/public/n5jvkm2l0kq1p86)
-
-[第六讲](https://gamma.app/public/pw00kzza9o3fw0b)
-
-[第七讲](https://gamma.app/public/wkj71uz00cwwux1)
+第一讲[第二讲](https://gamma.app/public/5oidxu6ccbl7058)钱包、[第三讲](https://gamma.app/public/isr1fufkvs2rs2a)以太坊、[第四讲](https://gamma.app/public/xexkougwu8ri1ra)通证标准的进化与应用、[第五讲](https://gamma.app/public/n5jvkm2l0kq1p86)去中心化交易与支付、[第六讲](https://gamma.app/public/pw00kzza9o3fw0b)激励式开源协作、[第七讲](https://gamma.app/public/wkj71uz00cwwux1)以太坊改进提案
 
 ## **什么是区块链？**
 
