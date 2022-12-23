@@ -34,7 +34,7 @@
 ## 第四章 区块链2.0：智能合约 <a href="#chapter4" id="chapter4"></a>
 
 * [4.1 以太坊白皮书及以太坊解读](<chapter4/4.2 解读以太坊.md>)
-* [4.2 连接钱包和Sign-In with Ethereum](<chapter4/4.1 以太坊白皮书.md>)
+* [4.2 连接钱包和使用以太坊登录](<chapter4/4.1 以太坊白皮书.md>)
 * [4.3 通证（token）及其多样性](<chapter4/4.3 通证（token）及其多样性.md>)
 * [4.4 智能合约（Smart Contract）](<chapter4/4.4 智能合约（Smart Contract）.md>)
 * [4.5 ERC-20通证标准及其爆发性应用](<chapter4/4.5 ERC-20通证标准及其爆发性应用.md>)
