@@ -12,6 +12,8 @@ description: 百年难遇的人类文明的革命
 
 [《第一讲：比特币》](https://gamma.app/public/oug008jsizvdf6m)、[《第二讲钱包》](https://gamma.app/public/5oidxu6ccbl7058)、[《第三讲以太坊》](https://gamma.app/public/isr1fufkvs2rs2a)、[《第四讲通证标准的进化与应用》](https://gamma.app/public/xexkougwu8ri1ra)、[《第五讲去中心化交易与支付》](https://gamma.app/public/n5jvkm2l0kq1p86)、[《第六讲激励式开源协作》](https://gamma.app/public/pw00kzza9o3fw0b)、[《第七讲以太坊改进提案》](https://gamma.app/public/wkj71uz00cwwux1)
 
+我本人发起的通证经济治理项目：[道易程](https://daism.io)。
+
 ## **什么是区块链？**
 
 ![安利狗狗币捅穿美国的新衣的Elon Musk值得关注](.gitbook/assets/2021-02-16\_elon-must-dogecoin.png)
@@ -145,7 +147,7 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 [快樂營利社會企業 For-profit Social Enterprise](http://pingchu.com/?p=290)
 
-****[《重要提示 - 面对奥密克戎我们应该做什么？](https://zhous98.gitbook.io/mian-dui-ao-mi-ke-rong-wo-men-ying-gai-zuo-shen-me/)》（周朝晖、Fiona，2022年2月26日）
+[《重要提示 - 面对奥密克戎我们应该做什么？](https://zhous98.gitbook.io/mian-dui-ao-mi-ke-rong-wo-men-ying-gai-zuo-shen-me/)》（周朝晖、Fiona，2022年2月26日）
 
 [资本战争：普通人如何应对？——全球经济衰退（上）](https://www.youtube.com/watch?v=elxl5p0wDSg\&t=19s)
 
