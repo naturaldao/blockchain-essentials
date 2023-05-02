@@ -8,7 +8,9 @@ description: 百年难遇的人类文明的革命
 
 最近我们达成的共识是：成功有个常被忽略的元素叫勇气。当我们有勇气时，我们就可以无惧面对落后的文明——这显然同样适用于区块链的学习与实践。
 
-**因Gitbook的中文编辑相当相当困难，且这是一个积重难返的技术问题，几无希望解决。因此本教材停止更新。新的学习基地我以后公布。以下是我深圳大学本课程里使用的全部幻灯：**
+**因Gitbook的中文编辑相当相当困难，且这是一个积重难返的技术问题，因此影响到本教材的更新。预期我会在今年下半年做一次全面的更新。**
+
+**以下是我深圳大学本课程里使用的全部幻灯：**
 
 [《第一讲：比特币》](https://gamma.app/public/oug008jsizvdf6m)、[《第二讲：钱包》](https://gamma.app/public/5oidxu6ccbl7058)、[《第三讲：以太坊》](https://gamma.app/public/isr1fufkvs2rs2a)、[《第四讲：通证标准的进化与应用》](https://gamma.app/public/xexkougwu8ri1ra)、[《第五讲：去中心化交易与支付》](https://gamma.app/public/n5jvkm2l0kq1p86)、[《第六讲：激励式开源协作》](https://gamma.app/public/pw00kzza9o3fw0b)、[《第七讲：以太坊改进提案》](https://gamma.app/public/wkj71uz00cwwux1)
 
