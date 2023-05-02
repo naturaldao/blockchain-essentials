@@ -14,7 +14,7 @@ description: 百年难遇的人类文明的革命
 
 [《第一讲：比特币》](https://gamma.app/public/oug008jsizvdf6m)、[《第二讲：钱包》](https://gamma.app/public/5oidxu6ccbl7058)、[《第三讲：以太坊》](https://gamma.app/public/isr1fufkvs2rs2a)、[《第四讲：通证标准的进化与应用》](https://gamma.app/public/xexkougwu8ri1ra)、[《第五讲：去中心化交易与支付》](https://gamma.app/public/n5jvkm2l0kq1p86)、[《第六讲：激励式开源协作》](https://gamma.app/public/pw00kzza9o3fw0b)、[《第七讲：以太坊改进提案》](https://gamma.app/public/wkj71uz00cwwux1)
 
-我本人发起的通证经济治理项目：[道易程](https://daism.io)。
+这是我本人发起的通证经济治理项目：[道易程](https://daism.io)。
 
 ## **什么是区块链？**
 
