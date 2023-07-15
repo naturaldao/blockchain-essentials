@@ -185,7 +185,7 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 [《我们都是比特币》](https://www.youtube.com/watch?v=C50-2WN-IRc)张张
 
-《孤勇者》
+《孤勇者》（陈奕迅）
 
 《一无所有》（崔健）
 
