@@ -149,7 +149,7 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 ## **其它学习资源推荐**
 
-[《写给大中华年轻人的公开信》](https://www.notion.so/daism/62912f3ea50840039db4356511a39899)）
+[《写给大中华年轻人的公开信》](https://www.notion.so/daism/62912f3ea50840039db4356511a39899)在热门话题山河大学爆发前几天动笔写的）
 
 [《观念经济学》](https://www.bilibili.com/cheese/play/ep43294)课程（[黄江南教授的哔哩哔哩空间](https://space.bilibili.com/1432646173)、[YouTube频道](https://www.youtube.com/channel/UCsd7xYZzbCQrmjLwGLnps9w)）
 
