@@ -149,6 +149,20 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 **（暂停）**
 
+## **重要参考资料**
+
+1. **Finance**
+
+{% embed url="https://en.wikipedia.org/wiki/Finance" %}
+以英文为准！
+{% endembed %}
+
+2. **Property**
+
+{% embed url="https://en.wikipedia.org/wiki/Property" %}
+以英文为准！
+{% endembed %}
+
 ## **其它学习资源推荐**
 
 [《观念经济学》](https://www.bilibili.com/cheese/play/ep43294)课程（[黄江南教授的哔哩哔哩空间](https://space.bilibili.com/1432646173)、[YouTube频道](https://www.youtube.com/channel/UCsd7xYZzbCQrmjLwGLnps9w)）
