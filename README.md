@@ -199,6 +199,8 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 [《重要提示 - 面对奥密克戎我们应该做什么？](https://zhous98.gitbook.io/mian-dui-ao-mi-ke-rong-wo-men-ying-gai-zuo-shen-me/)》（周朝晖、Fiona，2022年2月26日）
 
+[　　　　](https://lilaoshibushinilaoshi.com/category/%E7%99%BD%E7%BA%B8%E8%BF%90%E5%8A%A8/)
+
 [《我们都是比特币》](https://www.youtube.com/watch?v=C50-2WN-IRc)张张
 
 《孤勇者》（陈奕迅）
