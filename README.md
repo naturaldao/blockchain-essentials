@@ -14,7 +14,7 @@ description: 百年难遇的人类文明的革命
 
 [《第一讲：比特币》](https://gamma.app/public/oug008jsizvdf6m)、[《第二讲：钱包》](https://gamma.app/public/5oidxu6ccbl7058)、[《第三讲：以太坊》](https://gamma.app/public/isr1fufkvs2rs2a)、[《第四讲：通证标准的进化与应用》](https://gamma.app/public/xexkougwu8ri1ra)、[《第五讲：去中心化交易与支付》](https://gamma.app/public/n5jvkm2l0kq1p86)、[《第六讲：激励式开源协作》](https://gamma.app/public/pw00kzza9o3fw0b)、[《第七讲：以太坊改进提案》](https://gamma.app/public/wkj71uz00cwwux1)
 
-这是我本人发起的通证经济治理项目：[道易程](https://daism.io)。
+这是我本人发起的通证经济及DAO的价值体系的治理项目：[道易程](https://daism.io)。它将是区块链应用发展的基石！
 
 ## **什么是区块链？**
 
@@ -22,7 +22,7 @@ description: 百年难遇的人类文明的革命
 
 如果你急于了解技术上的解释，[请点击此处](<chapter4/4.16 区块链的定义与分类分歧.md>)。
 
-_最朴素的解释是：区块链始于一场技术革命，将要引发覆盖人类社会角角落落的一场声势浩大的全面的彻底的革命。并且区块链如同上个世纪九十年代的互联网一样，终有一天成为你生活的必需。_
+_最朴素的解释是：区块链始于一场技术革新，将要引发一场声势浩大的全面而彻底的人类社会革命。并且区块链如同上个世纪九十年代的互联网一样，终有一天成为你生活的必需。_
 
 ## 区块链革命
 
