@@ -166,6 +166,10 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 以英文为准！
 {% endembed %}
 
+2. **隋唐演义**
+
+{% embed url="https://www.youtube.com/playlist?list=PL4h8Ikxtal9T0jVPDdp3WmXN5yrH3kaJq" %}
+
 ## **其它学习资源推荐**
 
 [《观念经济学》](https://www.bilibili.com/cheese/play/ep43294)课程（[黄江南教授的哔哩哔哩空间](https://space.bilibili.com/1432646173)、[YouTube频道](https://www.youtube.com/channel/UCsd7xYZzbCQrmjLwGLnps9w)）
