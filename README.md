@@ -166,19 +166,9 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 以英文为准！
 {% endembed %}
 
-2. **隋唐演义**
-
-{% embed url="https://www.youtube.com/playlist?list=PL4h8Ikxtal9T0jVPDdp3WmXN5yrH3kaJq" %}
-
 ## **其它学习资源推荐**
 
 [《观念经济学》](https://www.bilibili.com/cheese/play/ep43294)课程（[黄江南教授的哔哩哔哩空间](https://space.bilibili.com/1432646173)、[YouTube频道](https://www.youtube.com/channel/UCsd7xYZzbCQrmjLwGLnps9w)）
-
-《区块链革命》——比特币底层技术如何改变货币、商业和世界
-
-{% embed url="https://item.jd.com/12033804.html" %}
-\[加] 唐塔普斯科特（Don Tapscott），亚力克斯·塔普斯科特
-{% endembed %}
 
 《千年金融史》（副标题：金融如何塑造文明 从5000年前到21世纪）
 
@@ -192,7 +182,7 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 【英】哈耶克（经济学家、政治哲学家，诺贝尔经济学奖得主）
 {% endembed %}
 
-[《写给大中华年轻人的公开信》](https://www.notion.so/daism/62912f3ea50840039db4356511a39899)我在热门话题山河大学爆发前几天动笔写的）
+[《写给大中华年轻人的公开信》](https://www.notion.so/daism/62912f3ea50840039db4356511a39899)我在热门话题山河大学爆发前几天动笔写的。
 
 [快樂營利社會企業 For-profit Social Enterprise](http://pingchu.com/?p=290)
 
@@ -206,7 +196,13 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 [《重要提示 - 面对奥密克戎我们应该做什么？](https://zhous98.gitbook.io/mian-dui-ao-mi-ke-rong-wo-men-ying-gai-zuo-shen-me/)》（周朝晖、Fiona，2022年2月26日）
 
-[　　　　](https://lilaoshibushinilaoshi.com/category/%E7%99%BD%E7%BA%B8%E8%BF%90%E5%8A%A8/)
+[白纸运动](https://lilaoshibushinilaoshi.com/category/%E7%99%BD%E7%BA%B8%E8%BF%90%E5%8A%A8/)
+
+《区块链革命》——比特币底层技术如何改变货币、商业和世界
+
+{% embed url="https://item.jd.com/12033804.html" %}
+\[加] 唐塔普斯科特（Don Tapscott），亚力克斯·塔普斯科特
+{% endembed %}
 
 [《我们都是比特币》](https://www.youtube.com/watch?v=C50-2WN-IRc)张张
 
@@ -221,3 +217,7 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 《春天里》（春天里）
 
 《父亲写的散文诗》（李健）
+
+{% embed url="https://www.youtube.com/playlist?list=PL4h8Ikxtal9T0jVPDdp3WmXN5yrH3kaJq" %}
+不听老人言，吃亏在眼前
+{% endembed %}
