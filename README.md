@@ -6,9 +6,9 @@ description: 百年难遇的人类文明的革命
 
 ## 致敬2022年在读的所有中国大学生！
 
-最近我们达成的共识是：成功有个常被忽略的元素叫勇气。当我们有勇气时，我们就可以无惧面对落后的文明——这显然同样适用于区块链的学习与实践。
+最近我们达成的共识是：成功有个常被忽略的元素叫勇气。当我们有勇气时，我们就可以无惧面对落后的文明——在当下这个大时代勇气也会令你做出正确的选择！
 
-**因Gitbook的中文编辑相当相当困难，且这是一个积重难返的技术问题，因此影响到本教材的更新。预期我会在2023年下半年做一次全面的更新。**
+**因Gitbook的中文编辑相当相当困难，且这是一个积重难返的技术问题，因此影响到本教材的更新。预期我会在2023年下半年做一次全面的校对。**
 
 **以下是我深圳大学本课程里使用的全部幻灯：**
 
@@ -114,8 +114,6 @@ _最朴素的解释是：区块链始于一场技术革新，将要引发一场�
 
 Fellowship of Ethereum Magicians：[https://ethereum-magicians.org/](https://ethereum-magicians.org)
 
-以太坊爱好者：[https://ethfans.org/](https://ethfans.org) (有微信公众号）
-
 登链社区：[https://learnblockchain.cn/](https://learnblockchain.cn/)
 
 Vitalik Buterin（以太坊创始人）：[https://twitter.com/VitalikButerin](https://twitter.com/VitalikButerin)
@@ -176,8 +174,6 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 【美】威廉·戈兹曼（William N.Goetzmann）
 {% endembed %}
 
-《货币的非国家化》
-
 {% embed url="https://item.jd.com/12528897.html" %}
 【英】哈耶克（经济学家、政治哲学家，诺贝尔经济学奖得主）
 {% endembed %}
@@ -197,8 +193,6 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 [《重要提示 - 面对奥密克戎我们应该做什么？](https://zhous98.gitbook.io/mian-dui-ao-mi-ke-rong-wo-men-ying-gai-zuo-shen-me/)》（周朝晖、Fiona，2022年2月26日）
 
 [白纸运动](https://lilaoshibushinilaoshi.com/category/%E7%99%BD%E7%BA%B8%E8%BF%90%E5%8A%A8/)
-
-《区块链革命》——比特币底层技术如何改变货币、商业和世界
 
 {% embed url="https://item.jd.com/12033804.html" %}
 \[加] 唐塔普斯科特（Don Tapscott），亚力克斯·塔普斯科特
