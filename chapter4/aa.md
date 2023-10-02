@@ -4,7 +4,7 @@ description: 偶尔你不能只考虑技术，你还得想想未来的人类社�
 
 # 4.10 EIP-86、EIP-2938、EIP-3074 与 ERC-4337：账户抽象化
 
-## 账户抽象化的**历史** <a href="#eip2938" id="eip2938"></a>
+## 账户抽象化（Account Abstraction）的**历史** <a href="#eip2938" id="eip2938"></a>
 
 ### EIP-86
 
