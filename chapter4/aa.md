@@ -121,10 +121,10 @@ EIP-2938可以让更多通用型钱包或者其它应用的智能合约执行复
 
 1. EIP-86、EIP-101、EIP-859、EIP-2718、EIP-2938、EIP-3074、EIP-3607、EIP-4337、EIP-5003、EIP-5189，创新不易！
 2.  <mark style="color:red;">**以太坊封装 ERC-4337？**</mark>\
-    这对于开发者来说，这是值得重视的动向！\
+    对于开发者来说，这是值得重视的动向！\
     请仔细阅读[以太坊是否应该封装更多功能？](https://mp.weixin.qq.com/s/Sshg-KP3sm7JLq7RgCvGqw)（注意“**封装 ERC-4337”一节** ）
 
-    （上文的原文：[Should Ethereum be okay with enshrining more things in the protocol?](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html)
+    （原文：[Should Ethereum be okay with enshrining more things in the protocol?](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html)
 3. 账户抽象化的出发点，是想要显著改善用户与dApp的交互体验。它客观上有个巨大的应用优点：去除外部账户也就是人类的缺陷和失误——考虑到合约运行的超高效率，我们甚至可以说它很可能让人类对dApp的影响降低到极小化。并且，未来肯定还会通过一次次创新持续降级外部账户的权限，而优化dApp的效率和安全性。
 4. 对使用 ERC-4337 达到社交恢复用户账户这样的应用，要特别小心！因为我们说的社交恢复，肯定就是几个人（太多人效率就可能太低，所以应该只设置几个外部账户）能够联合起来恢复某个用户的账户，或者赋予某个用户的一个新账户接收款项的权利——万一这几个人中有数人同时挂掉呢？万一他们联合起来作恶呢？\
    如果你这样设置，那意外就迟早会发生，而且大概率还是灾难级别越大发生的可能性越高。\
