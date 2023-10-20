@@ -60,7 +60,6 @@
 * [5.6 通用的去中心化交易协议Uniswap](<chapter5/5.6 通用的去中心化交易协议Uniswap.md>)
 * [5.7 去中心化稳定币DAI](<chapter5/5.7 去中心化稳定币DAI.md>)
 * [5.8 DeFi 借贷平台 Compound](<chapter5/5.8 DeFi 借贷平台 Compound.md>)
-* [5.9 去中心化借贷：Euler Finance](<chapter5/5.10 去中心化借贷：Euler Finance.md>)
 * [5.10 闪电贷及EIP-3156：一种闪电贷标准](<chapter5/5.13 EIP-3156：一种闪电贷标准.md>)
 * [5.11 DeFi 小小闪光点：Pool Together](<chapter5/5.9 DeFi 小小闪光点：Pool Together.md>)
 * [5.12 流支付](chapter5/5.12-liu-zhi-fu.md)
