@@ -43,7 +43,7 @@
 * [4.8 ERC-1155：为区块链游戏而生](<chapter4/4.8 ERC-1155：为区块链游戏而生.md>)
 * [4.9 挽救ERC-721纰漏的ERC-2569](chapter4/4.9-wan-jiu-erc721-pi-lou-de-erc2569.md)
 * [4.10 EIP-3712：多种批量同质化通证标准](<chapter4/4.9 EIP-3712：多重同质化通证标准.md>)
-* [4.11 EIP-86、EIP-2938、EIP-3074 与 ERC-4337：账户抽象化](chapter4/EIP-2938.md)
+* [4.11 EIP-86、EIP-2938、EIP-3074、ERC-4337与RIP-7560：账户抽象化](chapter4/EIP-2938.md)
 * [4.12 ERC-792仲裁标准及其特色](<chapter4/4.11 ERC-792仲裁标准及其特色.md>)
 * [4.13 以太坊EIPs](<chapter4/4.12 以太坊EIPs.md>)
 * [4.14 智能合约和以太坊的价值](<chapter4/4.15 智能合约和以太坊的价值.md>)
