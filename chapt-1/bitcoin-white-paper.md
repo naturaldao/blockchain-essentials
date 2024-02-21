@@ -13,7 +13,11 @@ description: >-
 
 这是早期翻译版本。我个人认为标题的翻译更为准确：
 
-{% embed url="https://github.com/vaquarkhan/awesome-blockchain-Guide/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6/%E6%AF%94%E7%89%B9%E5%B8%81%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%82%B9%E5%AF%B9%E7%82%B9%E7%9A%84%E7%94%B5%E5%AD%90%E7%8E%B0%E9%87%91%E7%B3%BB%E7%BB%9F.pdf" %}
+{% @github-files/github-code-block url="https://github.com/vaquarkhan/awesome-blockchain-Guide/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6/%E6%AF%94%E7%89%B9%E5%B8%81%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%82%B9%E5%AF%B9%E7%82%B9%E7%9A%84%E7%94%B5%E5%AD%90%E7%8E%B0%E9%87%91%E7%B3%BB%E7%BB%9F.pdf" %}
+
+链接：
+
+[https://github.com/vaquarkhan/awesome-blockchain-Guide/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6/%E6%AF%94%E7%89%B9%E5%B8%81%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%82%B9%E5%AF%B9%E7%82%B9%E7%9A%84%E7%94%B5%E5%AD%90%E7%8E%B0%E9%87%91%E7%B3%BB%E7%BB%9F.pdf](https://github.com/vaquarkhan/awesome-blockchain-Guide/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6/%E6%AF%94%E7%89%B9%E5%B8%81%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%82%B9%E5%AF%B9%E7%82%B9%E7%9A%84%E7%94%B5%E5%AD%90%E7%8E%B0%E9%87%91%E7%B3%BB%E7%BB%9F.pdf)
 
 ### 花絮一
 
