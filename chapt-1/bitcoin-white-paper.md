@@ -8,10 +8,12 @@ description: >-
 比特币白皮书（PDF）只有九页，真正一次就能看懂的人不多：
 
 {% embed url="https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf" %}
-比特币官网发布的白皮书中文版
-{% endembed %}
 
 如果白皮书没有显示出来，[请点击此处访问](https://bitcoin.org/files/bitcoin-paper/bitcoin\_zh\_cn.pdf)。
+
+这是早期翻译版本。我个人认为标题的翻译更为准确：
+
+{% embed url="https://github.com/vaquarkhan/awesome-blockchain-Guide/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6/%E6%AF%94%E7%89%B9%E5%B8%81%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%82%B9%E5%AF%B9%E7%82%B9%E7%9A%84%E7%94%B5%E5%AD%90%E7%8E%B0%E9%87%91%E7%B3%BB%E7%BB%9F.pdf" %}
 
 ### 花絮一
 
