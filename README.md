@@ -18,7 +18,7 @@ description: 百年难遇的人类文明的革命
 
 [《第一讲：比特币》](https://gamma.app/public/oug008jsizvdf6m)、[《第二讲：钱包》](https://gamma.app/public/5oidxu6ccbl7058)、[《第三讲：以太坊》](https://gamma.app/public/isr1fufkvs2rs2a)、[《第四讲：通证标准的进化与应用》](https://gamma.app/public/xexkougwu8ri1ra)、[《第五讲：去中心化交易与支付》](https://gamma.app/public/n5jvkm2l0kq1p86)、[《第六讲：激励式开源协作》](https://gamma.app/public/pw00kzza9o3fw0b)、[《第七讲：以太坊改进提案》](https://gamma.app/public/wkj71uz00cwwux1)
 
-这是我本人发起的通证经济及dApp的价值体系的治理项目：[道易程](https://daism.io)。道易程构建出一个类似比特币PoW工作量证明、以太坊PoS权益证明的新的治理共识：[PoV价值证明](https://gamma.app/docs/PoV-mbvisn3qnrx9ob0)。它将构建出一个良好的投资市场（我称之为“良好的通证经济”），同时它也是区块链应用发展的基石！道易程已经经历四轮智能合约代码审计，目前也启动了以大学生为核心的智能公器开发活动（如果你感兴趣，请联系微信：aranna\_0572、Telegram：Cintesy89164）。
+这是我本人发起的通证经济及dApp的价值体系的治理项目：[道易程](https://daism.io)。道易程构建出一个类似比特币PoW工作量证明、以太坊PoS权益证明的新的治理共识：[PoV价值证明](https://gamma.app/docs/PoV-mbvisn3qnrx9ob0)。它将构建出一个良好的投资市场（我称之为“良好的通证经济”），同时它也是区块链应用发展的基石！道易程已经经历四轮智能合约代码审计，目前也启动了以大学生为核心的智能公器开发活动（如果你感兴趣，请联系微信：aranna\_0572、Telegram：@aranna0572）。
 
 简单点说吧：智能公器（Smart Commons，特指接受道易程治理的公共dApp）蓬勃发展的时代降临了！而未来十年，我们要一起大力开发元器件级别的迷你智能公器（不明白就请看一眼你的智能手机）。如果你懂智能合约开发语言，欢迎[通过Discord加入我们](https://discord.com/channels/184575043299180544/899522224959131669)！
 
