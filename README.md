@@ -128,10 +128,6 @@ Fellowship of Ethereum Magicians：[https://ethereum-magicians.org/](https://eth
 
 登链社区：[https://learnblockchain.cn/](https://learnblockchain.cn/)
 
-Vitalik Buterin（以太坊创始人）：[https://twitter.com/VitalikButerin](https://twitter.com/VitalikButerin)[https://vitalik.ca/](https://vitalik.ca/)
-
-
-
 ## 教材开源协作
 
 * 这本教材，也是深圳大学的相关课程的教材。同时开源的还有[《Solidity智能合约开发》](https://u.naturaldao.io/solidity/)课程教材（2018\~2019年版）。
