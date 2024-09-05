@@ -80,6 +80,6 @@
 
 * [7.1 智能合约与Solidity语言](<Chapt7/7.1 智能合约与Solidity语言.md>)
 
-## 区块链入门极简版
+## 区块链入门极简版 <a href="#lite" id="lite"></a>
 
-* [第一章 比特币的启迪](qu-kuai-lian-ru-men-ji-jian-ban/can-kao-wen-xian.md)
+* [第一章 比特币的启迪](lite/bitcoin.md)

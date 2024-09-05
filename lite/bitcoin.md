@@ -1,11 +1,14 @@
-# 极简第一章 比特币的启迪
+---
+description: 比特币指向人类的新文明！
+---
+
+# 第一章 比特币的启迪
 
 ### 工作量证明
 
 到目前为止，极少有人真的理解透了比特币的工作量证明！\
 现在我们就追本溯源，重新翻开中本聪在十六年前发表的《比特币白皮书》：\
 [https://bitcoin.org/files/bitcoin-paper/bitcoin\_zh\_cn.pdf](https://bitcoin.org/files/bitcoin-paper/bitcoin\_zh\_cn.pdf)\
-![2024-08-09 171103.png](app://f802db94eb1cc61d376ffbf4350634168f2e/C:/Users/lyman/Documents/Obsidian%20Vault/%E5%9B%BE%E5%BA%93/2024-08-09%20171103.png?1723194795234)\
 英文版：[https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 
 很有意思的是，有个国内的传奇人物李笑来在比特币白皮书发布十年后，也做了一版翻译，阅读起来很流畅（不愧为新东方高级英语教师），但专业性就差远了！如果上面这个版本你感到阅读艰难，可以试试这个[李氏版本](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation/blob/master/Bitcoin-Whitepaper-EN-CN.md)。
