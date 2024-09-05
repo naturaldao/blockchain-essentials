@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="500" height="220" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <rect width="100%" height="100%" fill="lightyellow"/>
+  <line x1="30" y1="150" x2="371.848" y2="150" stroke="black" stroke-width="4" style=""/>
+  <text x="80" y="150" font-size="24" text-anchor="middle" dominant-baseline="middle" style="white-space: pre;">🐱</text>
+  <text x="140" y="150" font-size="24" text-anchor="middle" dominant-baseline="middle" style="white-space: pre;">🐱</text>
+  <text x="260" y="150" font-size="24" text-anchor="middle" dominant-baseline="middle" style="white-space: pre;">😿</text>
+  <text x="320" y="150" font-size="24" text-anchor="middle" dominant-baseline="middle" style="white-space: pre;">😿</text>
+  <text x="50" y="130" font-family="Arial" font-size="18" fill="black" text-anchor="middle" style="white-space: pre;">原链</text>
+  <line x1="200" y1="150" x2="439.076" y2="7.578" stroke="black" stroke-width="4" style=""/>
+  <text x="250" y="118" font-size="24" text-anchor="middle" dominant-baseline="middle" style="white-space: pre;">😹</text>
+  <text x="302" y="87" font-size="24" text-anchor="middle" dominant-baseline="middle" style="white-space: pre; font-size: 24px;">😹</text>
+  <text x="352" y="56" font-size="24" text-anchor="middle" dominant-baseline="middle" style="white-space: pre; font-size: 24px;">😹</text>
+  <text x="403" y="26" font-size="24" text-anchor="middle" dominant-baseline="middle" style="white-space: pre; font-size: 24px;">😹</text>
+  <text x="225" y="96" font-family="Arial" font-size="18" fill="black" style="white-space: pre;">分叉链</text>
+  <text x="175" y="185" font-family="Arial" font-size="18" fill="black" style="white-space: pre;">分叉点</text>
+  <text x="202.871" y="152.312" font-size="24" text-anchor="middle" dominant-baseline="middle" style="white-space: pre; font-size: 24px;">😿</text>
+</svg>
