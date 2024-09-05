@@ -79,4 +79,7 @@
 ## 第七章 智能合约开发语言 <a href="#Chapt7" id="Chapt7"></a>
 
 * [7.1 智能合约与Solidity语言](<Chapt7/7.1 智能合约与Solidity语言.md>)
-* [极简第一章 比特币的启迪](Chapt7/can-kao-wen-xian.md)
+
+## 极简版
+
+* [极简第一章 比特币的启迪](ji-jian-ban/can-kao-wen-xian.md)
