@@ -34,7 +34,7 @@ description: 百年难遇的人类文明的革命
 
 ## **什么是区块链？**
 
-![安利狗daElon Musk值得关注](.gitbook/assets/2021-02-16\_elon-must-dogecoin.png)
+![千万莫迷信安利狗狗币的大资本家Elon Musk](.gitbook/assets/2021-02-16\_elon-must-dogecoin.png)
 
 如果你急于了解技术上的解释，[请点击此处](<chapter4/4.16 区块链的定义与分类分歧.md>)。
 
