@@ -83,4 +83,4 @@
 ## 区块链入门极简版 <a href="#lite" id="lite"></a>
 
 * [第一章 比特币的启迪](lite/bitcoin.md)
-* [第二章 以太坊的锦上花和严重过失](lite/di-er-zhang-yi-tai-fang-de-jin-shang-hua-he-yan-zhong-guo-shi.md)
+* [第二章 以太坊的锦上花和严重过失](lite/ethereum.md)
