@@ -1,17 +1,16 @@
+---
+description: Rejecting Technological Capitalization to Create a New Human Civilization
+---
+
 # Chapt 1. Insights from Bitcoin
 
-So far, very few people have truly understood the concept of Bitcoin's Proof-of-Work (PoW)! Let’s trace back to the source and revisit the Bitcoin White Paper published by Satoshi Nakamoto sixteen years ago:\
-[English version](https://bitcoin.org/bitcoin.pdf)
+Proof-of-Work (PoW)
 
-Interestingly, a legendary figure in China, Li Xiaolai, produced a translation of the Bitcoin White Paper ten years after its release. His version reads smoothly (no wonder he was a senior English teacher at New Oriental), but it falls short in terms of technical accuracy! If you find the above version difficult to read, you might want to check out Li's version.
+So far, very few people have truly understood the concept of Bitcoin's Proof-of-Work (PoW)! Let’s trace back to the source and revisit the [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf) (Bitcoin: A Peer-to-Peer Electronic Cash System) published by Satoshi Nakamoto sixteen years ago.
 
-Let’s get straight to the point, starting with the abstract of the Bitcoin White Paper.
+> **Abstract**.  A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. We propose a solution to the double-spending problem using a peer-to-peer network. The network timestamps transactions by hashing them into an ongoing chain of hash-based proof-of-work, forming a record that cannot be changed without redoing the proof-of-work. The longest chain not only serves as proof of the sequence of events witnessed, but proof that it came from the largest pool of CPU power. As long as a majority of CPU power is controlled by nodes that are not cooperating to attack the network, they'll generate the longest chain and outpace attackers. The network itself requires minimal structure. Messages are broadcast on a best effort basis, and nodes can leave and rejoin the network at will, accepting the longest proof-of-work chain as proof of what happened while they were gone.
 
-Abstract.&#x20;
-
-A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. We propose a solution to the double-spending problem using a peer-to-peer network. The network timestamps transactions by hashing them into an ongoing chain of hash-based proof-of-work, forming a record that cannot be changed without redoing the proof-of-work. The longest chain not only serves as proof of the sequence of events witnessed, but proof that it came from the largest pool of CPU power. As long as a majority of CPU power is controlled by nodes that are not cooperating to attack the network, they'll generate the longest chain and outpace attackers. The network itself requires minimal structure. Messages are broadcast on a best effort basis, and nodes can leave and rejoin the network at will, accepting the longest proof-of-work chain as proof of what happened while they were gone.
-
-The abstract describes the most crucial aspect of Bitcoin: Proof-of-Work (PoW). PoW is so important that it runs throughout the entire White Paper. In the very last sentence of the paper, Satoshi Nakamoto refers to PoW as a consensus mechanism:
+The abstract describes the most crucial aspect of Bitcoin: Proof-of-Work (PoW). PoW is so important that it runs throughout the entire White Paper. In the very last sentence of the paper, Satoshi Nakamoto refers to PoW as a **consensus mechanism**:
 
 “Any needed rules and incentives can be enforced with this consensus mechanism.”
 
