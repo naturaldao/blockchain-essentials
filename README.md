@@ -14,21 +14,7 @@ description: 百年难遇的人类文明的革命
 
 我自2017年开始，以自己的实践为基础，精心编写入门区块链必读的内容，且每年都不断修订。这就是本教材的来历。Gitbook的编辑器对中文的支持很糟糕，PDF导出的福利又突然被取消（Gitbook能给我们免费的服务已经够好了），VPN偶尔会崩溃等等，加上这个该死的动荡不安的时局，我的工作也确实很不容易。
 
-以下是我深圳大学本课程里使用的全部幻灯：
-
-[《第一讲：比特币》](https://gamma.app/public/oug008jsizvdf6m)
-
-[《第二讲：钱包》](https://gamma.app/public/5oidxu6ccbl7058)
-
-[《第三讲：以太坊》](https://gamma.app/public/isr1fufkvs2rs2a)
-
-[《第四讲：通证标准的进化与应用》](https://gamma.app/public/xexkougwu8ri1ra)
-
-[《第五讲：去中心化交易与支付》](https://gamma.app/public/n5jvkm2l0kq1p86)
-
-[《第六讲：激励式开源协作》](https://gamma.app/public/pw00kzza9o3fw0b)
-
-[《第七讲：以太坊改进提案》](https://gamma.app/public/wkj71uz00cwwux1)
+如果你想以最短的时间了解区块链，那么我的[《区块链入门极简版》](https://u.naturaldao.io/be/lite/bitcoin)无疑就是最佳的选择了。
 
 这是我本人发起的人类新文明的治理项目：[道易程](https://daism.io)。道易程构建出一个继承了比特币的PoW工作量证明的治理思想的新的治理共识：[PoV价值证明](https://gamma.app/docs/PoV-mbvisn3qnrx9ob0)。目前看，它将构建出一个良好的投资市场（我称之为“良好的通证经济”），同时它也是区块链公共应用即智能公器发展的基石！但其实它目标远大，在创新中将会在出世的第一天就锻造好人类文明的治理基金（Hayek UTO Fund），然后随着以太坊和AI的发展，其治理共识PoV价值证明将为人类的福利和广义上的“劳动”（或者马克思哲学思想里所说的实践即Pracxis）提供最直接有效的解决方案（如果你感兴趣，请联系微信：aranna\_0572、Telegram：@aranna0572。也欢迎[通过Discord加入我们](https://discord.com/channels/184575043299180544/899522224959131669)！
 
@@ -113,6 +99,22 @@ _最朴素的解释是：区块链始于一场技术革新，其本质即为金�
 Fellowship of Ethereum Magicians：[https://ethereum-magicians.org/](https://ethereum-magicians.org)
 
 登链社区：[https://learnblockchain.cn/](https://learnblockchain.cn/)
+
+以下是我深圳大学本课程里使用的全部幻灯：
+
+[《第一讲：比特币》](https://gamma.app/public/oug008jsizvdf6m)
+
+[《第二讲：钱包》](https://gamma.app/public/5oidxu6ccbl7058)
+
+[《第三讲：以太坊》](https://gamma.app/public/isr1fufkvs2rs2a)
+
+[《第四讲：通证标准的进化与应用》](https://gamma.app/public/xexkougwu8ri1ra)
+
+[《第五讲：去中心化交易与支付》](https://gamma.app/public/n5jvkm2l0kq1p86)
+
+[《第六讲：激励式开源协作》](https://gamma.app/public/pw00kzza9o3fw0b)
+
+[《第七讲：以太坊改进提案》](https://gamma.app/public/wkj71uz00cwwux1)
 
 ## 教材开源协作
 
