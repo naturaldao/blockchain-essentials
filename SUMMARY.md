@@ -85,6 +85,6 @@
 * [第一章 比特币的启迪](lite/bitcoin.md)
 * [第二章 以太坊的锦上花和严重过失](lite/ethereum.md)
 
-## Group 1
+## A Beginner's Guide to Blockchain <a href="#beginner" id="beginner"></a>
 
-* [Chapt 1. Insights from Bitcoin](group-1/chapt-1.-insights-from-bitcoin.md)
+* [Chapt 1. Insights from Bitcoin](beginner/chapt-1.-insights-from-bitcoin.md)

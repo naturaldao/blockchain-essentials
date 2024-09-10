@@ -14,15 +14,19 @@ The abstract describes the most crucial aspect of Bitcoin: Proof-of-Work (PoW). 
 
 “Any needed rules and incentives can be enforced with this consensus mechanism.”
 
-This statement clearly tells us that PoW is a governance consensus, essentially a governance protocol. In Satoshi's design, PoW is composed of two main components: necessary rules and incentives. The enforcement aspect implies that PoW is indeed a governance protocol.\
-(If you check the English dictionary, you'll find that the original meaning of “consensus” is “a generally accepted opinion or decision or agreement among a group of people.”)
+This statement clearly tells us that PoW is a governance consensus. In Satoshi's design, PoW is composed of two main components: needed rules and incentives. The enforcement implies that PoW is indeed a governance protocol.
 
-As you can see, the Bitcoin White Paper primarily introduces PoW, but unfortunately, it does not provide a clear definition or complete description of PoW itself.
+As you can see, the White Paper primarily introduces PoW, but unfortunately, it does not provide a clear definition or complete description of PoW itself.
 
-Let’s see how Wikipedia describes it:\
-Proof-of-Work (PoW) is an economic measure designed to deter service and resource abuse, or denial-of-service attacks. It generally requires users to perform time-consuming and computationally complex calculations, whose answers can be quickly verified by the service provider. The time, equipment, and energy spent serve as collateral costs, ensuring that services and resources are being used by genuine demand.
+Let’s see how Wikipedia describes it:
 
-So, even more regrettably, Wikipedia and other easily accessible online sources have intentionally or unintentionally seized on this omission by Satoshi and ignored the last sentence of the White Paper! Additionally, they overlook the special mention of the reward mechanism for PoW in the sixth section of the White Paper. These sources tend to emphasize how the work is done but not the necessity and significance of rewards—during a highly capitalistic era, PoW is presented as a way of saying, “you must work hard to earn money.” It fits neatly within a capitalist narrative. It's a pity that if Satoshi had named this consensus mechanism “Proof-of-Reward,” highlighting the importance of rewards in the system, the trajectory of blockchain development might have been vastly different!
+> Proof of work (PoW) is a form of cryptographic proof in which one party (the prover) proves to others (the verifiers) that a certain amount of a specific computational effort has been expended...
+>
+> Proof of work was later popularized by Bitcoin as a foundation for consensus in a permissionless decentralized network, in which miners compete to append blocks and mine new currency, each miner experiencing a success probability proportional to the computational effort expended...
+>
+> A key feature of proof-of-work schemes is their asymmetry: the work – the computation – must be moderately hard (yet feasible) on the prover or requester side but easy to check for the verifier or service provider. This idea is also known as a CPU cost function, client puzzle, computational puzzle, or CPU pricing function. Another common feature is built-in incentive-structures that reward allocating computational capacity to the network with value in the form of cryptocurrency.
+
+So, even more regrettably, Wikipedia and other easily accessible online sources have intentionally or unintentionally seized on this omission by Satoshi, ignored the last sentence of the White Paper, and the special description of the reward mechanism for PoW in the sixth section of the White Paper. These sources tend to emphasize how the work is done but not the necessity and significance of built-in incentive-structures—In a highly developed capitalist era, the concept of "proof of work" is emphasized as the idea that you must work hard to earn money, which is indeed quite reasonable. It's a pity that if Satoshi had named this consensus mechanism “Proof-of-Reward,” highlighting the importance of rewards in the system, the trajectory of blockchain development might have been vastly different!
 
 In my textbook, I describe it this way:\
 Proof-of-Work is a governance consensus driven by rewards and centered on the core task of bookkeeping.
