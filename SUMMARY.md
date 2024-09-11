@@ -87,4 +87,4 @@
 
 ## A Beginner's Guide to Blockchain <a href="#beginner" id="beginner"></a>
 
-* [Chapt 1. Insights from Bitcoin](beginner/chapt-1.-insights-from-bitcoin.md)
+* [Chapt 1. Insights from Bitcoin](beginner/bitcoin.md)
