@@ -55,7 +55,7 @@ The DAO is code.&#x20;
 
 （更多细节参阅：[What Was The DAO?](https://www.gemini.com/cryptopedia/the-dao-hack-makerdao#section-the-response-to-the-dao-hack)、[The Dao 攻击](https://learnblockchain.cn/books/geth/part6/dao.html)）
 
-是的，严肃地说，以太坊的 ICO 遮蔽了中本聪的伟大设计！这主要归因于其创始团队成员认知不足，可作为应用发展基础的它对于区块链的发展因此起到了巨大的阻碍作用。特别是对于之后以太坊生态内成千上万的 dApp 疯狂输出 ICO ，带头大哥以太坊难辞其咎！
+是的，严肃地说，以太坊的 ICO 遮蔽了中本聪在 PoW 工作量证明中的伟大设计！这主要归因于其创始团队成员认知不足，可作为应用发展基础的它对于区块链的发展因此起到了巨大的阻碍作用。特别是对于之后以太坊生态内成千上万的 dApp 疯狂输出 ICO ，带头大哥以太坊难辞其咎！
 
 而 The DAO 事件的后果就变得更为严峻！包括 Vitalik 在内的11,000名资本家，以实际行动向全世界展示了，为保证其利益，他们如何粗暴地践踏中本聪以呕心沥血的实践构建出的抗审查（anti-censorship）等区块链核心价值。是的，以太坊资本家示范性的作为让整个行业在长达十年的时间里窒碍难行，甚至反而让不少骗子大行其道，伤害了很多人。也让中本聪为之蒙羞！
 
