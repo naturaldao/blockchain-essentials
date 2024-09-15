@@ -1,6 +1,6 @@
 # 第二章 以太坊的锦上花和严重过失
 
-2013年11月的某天，Vitalik Buterin 发布了他写的《以太坊：下一代智能合约和去中心化应用平台》（"Ethereum White Paper : A Next-Generation Smart Contract and Decentralized Application Platform."）。
+2013年11月的某天，Vitalik Buterin 发布了他写的《以太坊：下一代智能合约和去中心化应用平台》（[A Next-Generation Smart Contract and Decentralized Application Platform](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum\_Whitepaper\_-\_Buterin\_2014.pdf)."）。
 
 这样的[白皮书](https://github.com/ethereum/wiki/wiki/\[%E4%B8%AD%E6%96%87]-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)标题当然是激动人心的。
 
