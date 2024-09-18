@@ -6,6 +6,12 @@ description: 比特币指向人类新文明！
 
 ### 工作量证明
 
+本小节内容也可以直接看视频：
+
+{% embed url="https://www.bilibili.com/video/BV11KHXeKEN3" %}
+已经发布在Bilibili的视频
+{% endembed %}
+
 到目前为止，极少有人真的理解透了比特币的工作量证明！\
 现在我们就追本溯源，重新翻开中本聪在十六年前发表的《比特币白皮书》：\
 [https://bitcoin.org/files/bitcoin-paper/bitcoin\_zh\_cn.pdf](https://bitcoin.org/files/bitcoin-paper/bitcoin\_zh\_cn.pdf)\
