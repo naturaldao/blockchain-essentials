@@ -77,7 +77,7 @@
 * [6.6 如何保证协作安全](<chapter6/6.6 如何保证协作安全.md>)
 * [6.7 参考资料与课后阅读](<chapter6/6.7 参考资料与课后阅读.md>)
 
-## 第七章 智能合约开发语言 <a href="#Chapt7" id="Chapt7"></a>
+## 第七章 智能合约开发语言 <a href="#chapt7" id="chapt7"></a>
 
 * [7.1 智能合约与Solidity语言](<Chapt7/7.1 智能合约与Solidity语言.md>)
 
@@ -88,4 +88,5 @@
 
 ## A Beginner's Guide to Blockchain <a href="#beginner" id="beginner"></a>
 
-* [Chapt 1. Insights from Bitcoin](beginner/bitcoin.md)
+* [1. Insights from Bitcoin](beginner/bitcoin.md)
+* [2. The Flourishing and Grave Mistakes of Ethereum](beginner/ethereum.md)
