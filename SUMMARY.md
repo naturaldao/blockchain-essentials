@@ -9,7 +9,7 @@
 * [1.3 区块链的共识](区块链底层概念/区块链的共识与共识机制.md)
 * [1.4 什么是挖矿](chapt-1/1.4-shen-me-shi-wa-kuang.md)
 * [1.5 什么是分叉](chapt-1/1.5-shen-me-shi-fen-cha.md)
-* [1.6 比特币的特色和局限](区块链底层概念/比特币的特色和局限.md)
+* [1.6 比特币的特色和局限](chapt-1/advantages.md)
 * [1.7 小讨论](区块链底层概念/小讨论.md)
 
 ## 第二章 区块链钱包 <a href="#chapter2" id="chapter2"></a>
