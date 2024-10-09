@@ -92,3 +92,4 @@
 
 * [1. Insights from Bitcoin](beginner/bitcoin.md)
 * [2. The Flourishing and Grave Mistakes of Ethereum](beginner/ethereum.md)
+* [Worldcoin](beginner/worldcoin.md)
