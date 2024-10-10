@@ -1,3 +1,7 @@
+---
+description: 作者的Enki：0xdd@daism.io
+---
+
 # 第二章 以太坊的重大创新和严重过失
 
 2013年11月的某天，Vitalik Buterin 发布了他写的《以太坊：下一代智能合约和去中心化应用平台》（[A Next-Generation Smart Contract and Decentralized Application Platform](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum\_Whitepaper\_-\_Buterin\_2014.pdf)."）。
