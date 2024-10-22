@@ -92,4 +92,4 @@
 
 * [1. Insights from Bitcoin](beginner/bitcoin.md)
 * [2. The Great Innovatio and Grave Mistakes of Ethereum](beginner/ethereum.md)
-* [3. Worldcoin](beginner/worldcoin.md)
+* [3. Worldcoin：shameful capitalist sickle](beginner/worldcoin.md)
