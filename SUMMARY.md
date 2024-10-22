@@ -85,7 +85,7 @@
 
 * [第一章 比特币的启迪](lite/bitcoin.md)
 * [第二章 以太坊的重大创新和严重过失](lite/ethereum.md)
-* [第三章 Worldcoin：资本主义陷阱](lite/worldcoin.md)
+* [第三章 Worldcoin：可耻的资本主义陷阱](lite/worldcoin.md)
 * [第四章 EIP-7777：Governance for Human Robot Societies](lite/erc-7777.md)
 
 ## A Beginner's Guide to Blockchain <a href="#beginner" id="beginner"></a>
