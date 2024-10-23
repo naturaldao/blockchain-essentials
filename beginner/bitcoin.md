@@ -2,7 +2,7 @@
 description: Rejecting Technological Capitalization to Create a New Human Civilization
 ---
 
-# Chapt 1. Insights from Bitcoin
+# 1. Insights from Bitcoin
 
 Proof-of-Work (PoW)
 
@@ -55,6 +55,6 @@ Indeed, all 21 million BTC were issued as rewards to miners through the system. 
 
 Now, here's the key point: In the design of PoW, Satoshi rejected the typical capitalist approach of promising a big pie with one hand (Bitcoin, often nicknamed the "big cake" by Chinese) while capitalizing on technology with the other. Technological capitalization refers to the practice of pre-selling “electronic cash” BTC as capital, allowing more capitalists to gain future anticipated value. By rejecting technological capitalization, Satoshi fundamentally rejected the traditional capitalist mode of production.
 
-Therefore, Satoshi’s design of Bitcoin’s public reward fund carries profound implications! It ultimately inspires us that, guided by the governance consensus of Bitcoin’s PoW, what is being built is not a capitalist future, but a new civilization for humanity!
+Therefore, Satoshi’s design of Bitcoin’s public reward fund carries profound implications! It ultimately inspires us that, guided by the governance consensus of Bitcoin’s PoW, what is being built is not a capitalist future. And it leads to a new civilization for humanity: communism!
 
 \
