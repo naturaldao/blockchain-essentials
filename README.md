@@ -148,20 +148,6 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 
 **（暂停）**
 
-## **重要参考资料**
-
-1. **Finance**
-
-{% embed url="https://en.wikipedia.org/wiki/Finance" %}
-以英文为准！
-{% endembed %}
-
-2. **Property**
-
-{% embed url="https://en.wikipedia.org/wiki/Property" %}
-以英文为准！
-{% endembed %}
-
 ## **其它学习资源推荐**
 
 [《马克思哲学革命及其当代意义》](https://www.bilibili.com/cheese/play/ss6838?fromspmid=sxgoumai)（复旦大学哲学院王德峰教授）
@@ -215,3 +201,4 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 {% embed url="https://www.youtube.com/playlist?list=PL4h8Ikxtal9T0jVPDdp3WmXN5yrH3kaJq" %}
 不听老人言，吃亏在眼前
 {% endembed %}
+
