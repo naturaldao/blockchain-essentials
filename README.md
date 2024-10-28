@@ -20,7 +20,7 @@ description: 百年难遇的人类文明的革命
 
 ## **什么是区块链？**
 
-![千万莫迷信安利狗狗币的大资本家Elon Musk](.gitbook/assets/2021-02-16\_elon-must-dogecoin.png)
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bust_of_Satoshi_Nakamoto_in_Budapest.jpg/1280px-Bust_of_Satoshi_Nakamoto_in_Budapest.jpg" alt="" width="375"><figcaption><p>布达佩斯的区块链奠基人中本聪的雕像</p></figcaption></figure>
 
 如果你急于了解技术上的解释，[请点击此处](<chapter4/4.16 区块链的定义与分类分歧.md>)。
 
@@ -91,6 +91,8 @@ _最朴素的解释是：区块链始于一场技术革新，其本质即为金�
 苏格拉底说：美德即知识。
 
 ## 重要的区块链学习和交流资源
+
+![千万莫迷信安利狗狗币的大资本家Elon Musk](.gitbook/assets/2021-02-16\_elon-must-dogecoin.png)
 
 以太坊官网：[https://ethereum.org/](https://ethereum.org)
 
