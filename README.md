@@ -18,6 +18,8 @@ description: 百年难遇的人类文明的革命
 
 这是我本人发起的人类新文明的治理项目：[道易程](https://daism.io)。道易程构建出一个继承了比特币的PoW工作量证明的治理思想的新的治理共识：[PoV价值证明](https://gamma.app/docs/PoV-mbvisn3qnrx9ob0)。目前看，它将构建出一个良好的投资市场（我称之为“良好的通证经济”），同时它也是区块链公共应用即智能公器发展的基石！但其实它目标远大，在创新中将会在出世的第一天就锻造好人类文明的治理基金（Hayek UTO Fund），然后随着以太坊和AI的发展，其治理共识PoV价值证明将为人类的福利和广义上的“劳动”（或者马克思哲学思想里所说的实践即Pracxis）提供最直接有效的解决方案（如果你感兴趣，请联系微信：aranna\_0572、Telegram：@aranna0572。也欢迎[通过Discord加入我们](https://discord.com/channels/184575043299180544/899522224959131669)！
 
+<figure><img src=".gitbook/assets/be.png" alt="" width="291"><figcaption><p>这是某学期我发行到链上的课程纪念证书</p></figcaption></figure>
+
 ## **什么是区块链？**
 
 <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bust_of_Satoshi_Nakamoto_in_Budapest.jpg/1280px-Bust_of_Satoshi_Nakamoto_in_Budapest.jpg" alt="" width="375"><figcaption><p>布达佩斯的区块链奠基人中本聪的雕像</p></figcaption></figure>
