@@ -199,6 +199,5 @@ This textbook is licensed under a [Creative Commons Attribution 4.0 Internationa
 《父亲写的散文诗》（李健）
 
 {% embed url="https://www.youtube.com/playlist?list=PL4h8Ikxtal9T0jVPDdp3WmXN5yrH3kaJq" %}
-不听老人言，吃亏在眼前
+不听老人言，吃亏在眼前？
 {% endembed %}
-
