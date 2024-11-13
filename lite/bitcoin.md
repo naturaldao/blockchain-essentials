@@ -1,5 +1,6 @@
 ---
-description: 比特币指向人类新文明！
+description: 比特币引导我们奔向人类新文明！
+icon: bitcoin
 ---
 
 # 第一章 比特币的启迪
