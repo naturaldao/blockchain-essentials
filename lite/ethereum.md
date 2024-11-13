@@ -1,5 +1,6 @@
 ---
 description: 作者的Enki：0xdd@daism.io
+icon: ethereum
 ---
 
 # 第二章 以太坊的重大创新和严重过失

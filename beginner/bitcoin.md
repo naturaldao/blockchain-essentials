@@ -1,5 +1,6 @@
 ---
 description: Rejecting Technological Capitalization to Create a New Human Civilization
+icon: bitcoin
 ---
 
 # 1. Insights from Bitcoin

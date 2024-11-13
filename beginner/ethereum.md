@@ -1,3 +1,7 @@
+---
+icon: ethereum
+---
+
 # 2. The Great Innovatio and Grave Mistakes of Ethereum
 
 One day in November 2013, 19-year old Vitalik Buterin published his paper, "Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform."
