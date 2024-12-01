@@ -26,7 +26,7 @@ Capitalism is unsustainable. Bitcoin is a project that doesn't want to take the 
 
 I have already interpreted Satoshi Nakamoto's thoughts in my previous article: proof-of-work is Satoshi Nakamoto's declaration of war against capitalism! This is of paramount importance to Satoshi Nakamoto! Because he undoubtedly did not intend to extend the life of capitalism, but was trying to pave the way for a new civilization of mankind. Otherwise, his painstaking efforts to explore a financial system built on decentralization, anti-censorship, permissionless, public (open and transparent), trustless trust, etc., not only foreshadowed the end of capitalist finance with the aforementioned quote, but also consistently remained anonymous so hard, making no sense!
 
-We know that the contemporary human world is under the rule of capitalism, where capital is the most fundamental core of the human world. Karl Marx, as early as his [**Economic and Philosophic Manuscripts of 1844**](https://en.wikipedia.org/wiki/Economic\_and\_Philosophic\_Manuscripts\_of\_1844) revealed the unstoppable silent power of capital: it gives capitalists special social power, and provides them with guarantees through political power and social contracts primarily based on law, until it builds a human world based on dominance, control, and enslavement, namely, capitalist society. In other words, if we want to advance human society, the only way is to destroy the power of capital!
+We know that the contemporary human world is under the rule of capitalism, where capital is the most fundamental core of the human world. Karl Marx, as early as his [**Economic and Philosophic Manuscripts of 1844**](https://en.wikipedia.org/wiki/Economic_and_Philosophic_Manuscripts_of_1844) revealed the unstoppable silent power of capital: it gives capitalists special social power, and provides them with guarantees through political power and social contracts primarily based on law, until it builds a human world based on dominance, control, and enslavement, namely, capitalist society. In other words, if we want to advance human society, the only way is to destroy the power of capital!
 
 Satoshi Nakamoto, through the PoW embedded in Bitcoin, is the great governance idea for human society that Marx envisioned! PoW has landed in Bitcoin, and it is precisely the great practice leading to communism that Marx described and desired!
 
@@ -74,11 +74,13 @@ Absolutely.
 
 The project I launched in 2019, DAism, has built a new governance consensus called Proof-of-Value (PoV) . One of the responsibilities of this consensus is to reconstruct the public governance fund for Ethereum and govern Smart Commons (public goods) and tokenomics.
 
-Proof-of-Value introduces "ETH Forging", burning ETH through a smart contract, and then using an algorithm to forge a new token UTO for users.
+Proof-of-Value introduces "[ETH Forging](https://learn.daism.io/zh/docs/whitepaper.html#ETH-Forging)", burning ETH through a smart contract, and then using an algorithm to forge a new token UTO for users.
 
 1. When forging, 50 "Satoshi Nakamoto" will participate and rebuild a public fund with the rewards theoretically belonging to them. The name is "Satoshi UTO Fund."
 2. The Satoshi UTO Fund is the public governance fund for the entire Ethereum ecosystem.
 3. UTO is an ERC-20 type token. In other words, the Satoshi UTO Fund ultimately achieves its decentralization and autonomy through smart contracts, and AI.
+
+(Update: The [50Satoshis event](https://learn.daism.io/coreblog/125-50satoshisnite.html) involving voluntary participation by anonymous individuals have been completed. [Here you can have a look at the Satoshi UTO Fund](https://etherscan.io/token/0xe40b05570d2760102c59bf4ffc9b47f921b67a1f?a=0x6b0b31fd78e63830d3485af5a716b9a9f15011dc).)
 
 You may have this question: why don't we redesign a new public chain, but continue to modify Ethereum?
 
