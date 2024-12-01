@@ -1,11 +1,11 @@
 ---
-description: 作者的Enki：0xdd@daism.io
 icon: ethereum
+description: 作者的Enki：0xdd@daism.io
 ---
 
 # 第二章 以太坊的重大创新和严重过失
 
-2013年11月的某天，Vitalik Buterin 发布了他写的《以太坊：下一代智能合约和去中心化应用平台》（[A Next-Generation Smart Contract and Decentralized Application Platform](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum\_Whitepaper\_-\_Buterin\_2014.pdf)."）。
+2013年11月的某天，Vitalik Buterin 发布了他写的《以太坊：下一代智能合约和去中心化应用平台》（[A Next-Generation Smart Contract and Decentralized Application Platform](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf)."）。
 
 这样的[白皮书](https://github.com/ethereum/wiki/wiki/\[%E4%B8%AD%E6%96%87]-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)标题当然是激动人心的。
 
@@ -77,6 +77,8 @@ The DAO is code.&#x20;
 1. 届时将有50个“中本聪”一同启动锻造，触发出一个公共治理基金。名曰“中本聪UTO基金”。
 2. 中本聪UTO基金是整个以太坊生态的公共治理基金。
 3. UTO是ERC-20类型的通证。也就是说，中本聪UTO基金是通过智能合约和 AI 等来实现其最终的去中心化自治。
+
+（更新：由匿名者自由参与的五十个中本聪行动已经完成，[这是本事件的记录](https://learn.daism.io/zh/blogcn/124-50satoshisnite.html)。）
 
 有一定经验的人也许会产生这一疑问：为什么我们不重新设计一个新的公链，而继续改造以太坊？
 
