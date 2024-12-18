@@ -1,6 +1,6 @@
 ---
-description: 比特币引导我们奔向人类新文明！
 icon: bitcoin
+description: 比特币引导我们奔向人类新文明！
 ---
 
 # 第一章 比特币的启迪
@@ -19,7 +19,7 @@ T·S·艾略特：
 
 到目前为止，极少有人真的理解透了比特币的工作量证明！\
 现在我们就追本溯源，重新翻开中本聪在十六年前发表的《比特币白皮书》：\
-[https://bitcoin.org/files/bitcoin-paper/bitcoin\_zh\_cn.pdf](https://bitcoin.org/files/bitcoin-paper/bitcoin\_zh\_cn.pdf)\
+[https://bitcoin.org/files/bitcoin-paper/bitcoin\_zh\_cn.pdf](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)\
 英文版：[https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 
 很有意思的是，有个国内的传奇人物李笑来在比特币白皮书发布十年后，也做了一版翻译，阅读起来很流畅（不愧为新东方高级英语教师），但专业性就差远了！如果上面这个版本你感到阅读艰难，可以试试这个[李氏版本](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation/blob/master/Bitcoin-Whitepaper-EN-CN.md)。
@@ -80,7 +80,13 @@ T·S·艾略特：
 实际中心化发生的方式更多也更快！如矿池、矿机带来的中心化。\
 仅以比特币矿池为例， 它是由矿工组成的集体，矿池成员贡献他们的算力，共同解决复杂的数学问题以获得记账权。当一个区块被挖掘出来时，奖励根据每个参与者贡献的计算能力进行分配。矿池提高了每个矿工的效率和盈利能力， 因此比特币推出5年后，矿池就让独立的矿工彻底失去了生存空间。
 
-当实际掌控权力的人数足够少，譬如少至个位数，而其中有一个敢于胡作非为的坏家伙的时候，记假账的灾难就可能发生。
+当实际掌控权力的人数足够少，譬如少至个位数，而其中有一个敢于胡作非为的坏家伙的时候，记假账的灾难就可能发生。而这个临界值，早就已经成为现实。：
+
+{% content-ref url="../chapt-1/advantages.md" %}
+[advantages.md](../chapt-1/advantages.md)
+{% endcontent-ref %}
+
+
 
 所以。比特币的工作量证明或者以太坊山寨的点点币所创新的权益证明或者其他现有的任何治理共识。都是安全性远远不够的，我们应该创建新的治理共识来解决他们的根本问题——先别急，虽然显然你已经猜到这个治理共识叫做价值证明（Proof-of-Value）。
 
