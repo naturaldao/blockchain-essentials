@@ -1,6 +1,8 @@
 ---
 icon: ethereum
-description: 作者的Enki：0xdd@daism.io
+description: >-
+  比特币只有个币，而以太坊在它问世后五年，就已经一纸白皮书从技术上超越了它。但16年来，比特币就是牛币！它一直高居区块链市值榜首。
+  2025年1月7日，比特币市值占比高达56.4%，排名第二的 ETH 市值占比仅为12.3%！ 耐人寻味不是吗？
 ---
 
 # 第二章 以太坊的重大创新和严重过失
@@ -123,4 +125,4 @@ OK，我们来理理：我们必须用智能合约开发语言如 Solidity 写�
 
 接下来的内容，我将继续分享通过道易程的开发中获得的认知。
 
-作者的Enki：[0xdd@daism.io](https://daism.io/communities/actor/2)
+作者的Enki：[0xdd@daism.io](https://daism.io/smartcommons/actor/0xdd@daism.io)

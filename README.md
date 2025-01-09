@@ -24,7 +24,7 @@ description: 百年难遇的人类文明的革命
 
 <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bust_of_Satoshi_Nakamoto_in_Budapest.jpg/1280px-Bust_of_Satoshi_Nakamoto_in_Budapest.jpg" alt="" width="375"><figcaption><p>布达佩斯的区块链奠基人中本聪的雕像</p></figcaption></figure>
 
-如果你急于了解技术上的解释，[请点击此处](<chapter4/4.16 区块链的定义与分类分歧.md>)。
+如果你急于了解技术上的解释，[请点击此处](chapter4/4.16-wrong-classification.md)。
 
 _最朴素的解释是：区块链始于一场技术革新，其本质即为金融革命，因此也必将引发一场声势浩大的全面而彻底的人类社会革命。它的指向是马斯克哲学思想所预见的共产主义。_
 

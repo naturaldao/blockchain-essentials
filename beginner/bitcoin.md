@@ -1,9 +1,15 @@
 ---
-description: Rejecting Technological Capitalization to Create a New Human Civilization
 icon: bitcoin
+description: Rejecting Technological Capitalization to Create a New Human Civilization
 ---
 
 # 1. Insights from Bitcoin
+
+It looks like that there's only a sort of currency, BTC, in Bitcoin, while Ethereum, five years after Bitcoin's inception, has technically surpassed it with a white paper. Yet for 16 years, Bitcoin has been the dominant token! It has consistently ranked at the top of the blockchain market. On January 7, 2025, Bitcoin's market cap accounted for as much as 56.4%, while the second-ranked ETH's market cap was only 12.3%!&#x20;
+
+Isn't that thought-provoking?
+
+
 
 Proof-of-Work (PoW)
 
