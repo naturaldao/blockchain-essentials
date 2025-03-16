@@ -54,7 +54,7 @@
 
 ## 第五章 纷繁复杂的区块链应用案例 <a href="#chapter5" id="chapter5"></a>
 
-* [艰难的探索](chapter5/jian-nan-de-tan-suo.md)
+* [5.0 艰难的探索](chapter5/5.0-jian-nan-de-tan-suo.md)
 * [5.1 小始祖彩色币](chapter5/5.1-xiao-shi-zu-cai-se-bi.md)
 * [5.2 去中心化交易所Bitshares](chapter5/5.2-qu-zhong-xin-hua-jiao-yi-suo-bitshares.md)
 * [5.3 去中心化交易所Kyber Network](chapter5/5.3-qu-zhong-xin-hua-jiao-yi-suo-kyber-network.md)
