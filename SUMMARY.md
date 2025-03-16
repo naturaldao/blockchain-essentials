@@ -52,8 +52,9 @@
 * [4.16 区块链的定义与分类错误](chapter4/4.16-wrong-classification.md)
 * [4.17 课外阅读与参考资料](chapter4/4.17-readings.md)
 
-## 第五章 区块链应用案例 <a href="#chapter5" id="chapter5"></a>
+## 第五章 纷繁复杂的区块链应用案例 <a href="#chapter5" id="chapter5"></a>
 
+* [艰难的探索](chapter5/jian-nan-de-tan-suo.md)
 * [5.1 小始祖彩色币](chapter5/5.1-xiao-shi-zu-cai-se-bi.md)
 * [5.2 去中心化交易所Bitshares](chapter5/5.2-qu-zhong-xin-hua-jiao-yi-suo-bitshares.md)
 * [5.3 去中心化交易所Kyber Network](chapter5/5.3-qu-zhong-xin-hua-jiao-yi-suo-kyber-network.md)
