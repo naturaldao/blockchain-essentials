@@ -70,6 +70,4 @@ The first major problem is that Bitcoin does not have the concept of accounts. T
 
 The second major problem is perfectly reflected in the name of Bitcoin’s consensus. Proof of Work undoubtedly remains rooted in the labor civilization, that is, the labor value theory of capitalism. It is destined to be abandoned by humanity’s new civilization.
 
-However, we can also say that Bitcoin succeeded the very day it generated its first block!
-
-In short, what Bitcoin brings us is some part of its governance philosophy, and some of its technologies. Satoshi Nakamoto's silent departure was a mark of achievement.\
+However, we can also say that Bitcoin succeeded the very day it generated its first block! The contribution Bitcoin has brought us lies in some brilliance ideas of its governance philosophy, the ingenuity of certain technologies, and even the extremely harsh industry landscape over 16 years caused by its flawed design. Therefore, from this perspective, Satoshi Nakamoto's silent departure can be seen as a successful and accomplished exit.\
