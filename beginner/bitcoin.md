@@ -1,6 +1,6 @@
 ---
-icon: bitcoin
 description: Rejecting Technological Capitalization to Create a New Human Civilization
+icon: bitcoin
 ---
 
 # 1. Insights from Bitcoin
@@ -62,6 +62,12 @@ Indeed, all 21 million BTC were issued as rewards to miners through the system. 
 
 Now, here's the key point: In the design of PoW, Satoshi rejected the typical capitalist approach of promising a big pie with one hand (Bitcoin, often nicknamed the "big cake" by Chinese) while capitalizing on technology with the other. Technological capitalization refers to the practice of pre-selling “electronic cash” BTC as capital, allowing more capitalists to gain future anticipated value. By rejecting technological capitalization, Satoshi fundamentally rejected the traditional capitalist mode of production.
 
-Therefore, Satoshi’s design of Bitcoin’s public reward fund carries profound implications! It ultimately inspires us that, guided by the governance consensus of Bitcoin’s PoW, what is being built is not a capitalist future. And it leads to a new civilization for humanity: communism!
+Therefore, Satoshi’s design of Bitcoin’s public reward fund carries profound implications! It ultimately inspires us that, guided by the governance consensus of Bitcoin’s PoW, what is being built is not a capitalist future. And it leads to a new civilization for humanity!
+
+Please note that there are two major fundamental issues in the design of Bitcoin! These determine that the Bitcoin public blockchain cannot succeed.
+
+The first major problem is that Bitcoin does not have the concept of accounts. To determine how many bitcoins a person owns, it is not possible to check from a single account; one must know the total sum of all UTXOs controlled by that person. This is obviously designed this way to protect so-called personal asset privacy. But we know that accounts are the cornerstone of finance. The lack of an account concept inevitably meant that after the advent of Ethereum, Bitcoin missed the great innovation of smart contracts introduced by the latter.
+
+The second major problem is perfectly reflected in the name of Bitcoin’s consensus mechanism. Proof of Work undoubtedly remains rooted in the labor civilization, that is, the labor value theory of capitalism. It is destined to be abandoned by humanity’s new civilization.
 
 \
