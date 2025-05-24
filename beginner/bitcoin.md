@@ -64,10 +64,12 @@ Now, here's the key point: In the design of PoW, Satoshi rejected the typical ca
 
 Therefore, Satoshi’s design of Bitcoin’s public reward fund carries profound implications! It ultimately inspires us that, guided by the governance consensus of Bitcoin’s PoW, what is being built is not a capitalist future. And it leads to a new civilization for humanity!
 
-Please note that there are two major fundamental issues in the design of Bitcoin! These determine that the Bitcoin public blockchain cannot succeed.
+Please note that there are two major fundamental issues in the design of Bitcoin! These determine that the Bitcoin cannot succeed.
 
-The first major problem is that Bitcoin does not have the concept of accounts. To determine how many bitcoins a person owns, it is not possible to check from a single account; one must know the total sum of all UTXOs controlled by that person. This is obviously designed this way to protect so-called personal asset privacy. But we know that accounts are the cornerstone of finance. The lack of an account concept inevitably meant that after the advent of Ethereum, Bitcoin missed the great innovation of smart contracts introduced by the latter.
+The first major problem is that Bitcoin does not have the concept of accounts. To determine how many bitcoins a person owns, it is not possible to check from a single account; one must know the total sum of all UTXOs (Unspent TX Output) controlled by that person. This is obviously designed this way to protect so-called personal asset privacy. But we know that accounts are the cornerstone of finance. The lack of an account concept inevitably meant that after the advent of Ethereum, Bitcoin missed the great innovation of smart contracts introduced by the latter.
 
-The second major problem is perfectly reflected in the name of Bitcoin’s consensus mechanism. Proof of Work undoubtedly remains rooted in the labor civilization, that is, the labor value theory of capitalism. It is destined to be abandoned by humanity’s new civilization.
+The second major problem is perfectly reflected in the name of Bitcoin’s consensus. Proof of Work undoubtedly remains rooted in the labor civilization, that is, the labor value theory of capitalism. It is destined to be abandoned by humanity’s new civilization.
 
-\
+However, we can also say that Bitcoin succeeded the very day it generated its first block!
+
+In short, what Bitcoin brings us is some part of its governance philosophy, and some of its technologies. Satoshi Nakamoto's silent departure was a mark of achievement.\
