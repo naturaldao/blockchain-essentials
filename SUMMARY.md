@@ -24,7 +24,7 @@
 * [2.8 钱包的安全性](chapter2/2.8-qian-bao-de-an-quan-xing.md)
 * [2.9 讨论与练习](chapter2/2.9-tao-lun-yu-lian-xi.md)
 
-## 第三章 区块链1.0：数字加密货币 <a href="#chapter3" id="chapter3"></a>
+## 第三章 区块链1.0：数字加密货币（故事） <a href="#chapter3" id="chapter3"></a>
 
 * [3.1 加密货币的探索](chapter3/3.1-shu-zi-jia-mi-huo-bi-de-chan-sheng.md)
 * [3.2 竞争币](chapter3/3.2-jing-zheng-bi.md)
@@ -39,20 +39,20 @@
 * [4.4 智能合约（Smart Contract）](chapter4/4.4-zhi-neng-he-yue-smart-contract.md)
 * [4.5 ERC-20通证标准及其爆发性应用](chapter4/4.5-erc20-tong-zheng-biao-zhun-ji-qi-bao-fa-xing-ying-yong.md)
 * [4.6 ERC-721非同质通证标准及其严重缺陷](chapter4/4.6-erc721-fei-tong-zhi-tong-zheng-biao-zhun-ji-qi-bao-fa-xing-ying-yong.md)
-* [4.7 EIP-1155 多重通证标准](chapter4/4.7-eip1155-duo-chong-tong-zheng-biao-zhun.md)
-* [4.8 ERC-1155：为区块链游戏而生](chapter4/4.8-erc1155-wei-qu-kuai-lian-you-xi-er-sheng.md)
+* [4.7 EIP-1155 多重通证标准（故事）](chapter4/4.7-eip1155-duo-chong-tong-zheng-biao-zhun.md)
+* [4.8 ERC-1155：为区块链游戏而生（故事）](chapter4/4.8-erc1155-wei-qu-kuai-lian-you-xi-er-sheng.md)
 * [4.9 挽救ERC-721纰漏的ERC-2569](chapter4/4.9-wan-jiu-erc721-pi-lou-de-erc2569.md)
-* [4.10 EIP-3712：多种批量同质化通证标准](chapter4/4.9-eip3712-duo-chong-tong-zhi-hua-tong-zheng-biao-zhun.md)
-* [4.11 账户抽象化：EIP-86、EIP-2938、EIP-3074、ERC-4337与RIP-7560等等](chapter4/aa/README.md)
+* [4.10 EIP-3712：多种批量同质化通证标准（故事）](chapter4/4.9-eip3712-duo-chong-tong-zhi-hua-tong-zheng-biao-zhun.md)
+* [4.11 账户抽象化：EIP-86、EIP-2938、EIP-3074、ERC-4337、RIP-7560、ERC-7702](chapter4/aa/README.md)
   * [EIP-7702：设置EOA账户代码](chapter4/aa/eip7702-she-zhi-eoa-zhang-hu-dai-ma.md)
-* [4.12 ERC-792仲裁标准及其特色](chapter4/4.11-erc792-zhong-cai-biao-zhun-ji-qi-te-se.md)
-* [4.13 EIP-7777：Governance for Human Robot Societies？](chapter4/erc-7777.md)
+* [4.12 ERC-792仲裁标准及其特色（故事）](chapter4/4.11-erc792-zhong-cai-biao-zhun-ji-qi-te-se.md)
+* [4.13 EIP-7777：Governance for Human Robot Societies？（故事）](chapter4/erc-7777.md)
 * [4.14以太坊EIPs](chapter4/4.14-eips.md)
 * [4.15 智能合约和以太坊的价值](chapter4/4.15-value-of-smartcontracts-and-ethereum.md)
 * [4.16 区块链的定义与分类错误](chapter4/4.16-wrong-classification.md)
 * [4.17 课外阅读与参考资料](chapter4/4.17-readings.md)
 
-## 第五章 纷繁复杂的区块链应用案例 <a href="#chapter5" id="chapter5"></a>
+## 第五章 纷繁复杂的区块链应用案例（主要是故事） <a href="#chapter5" id="chapter5"></a>
 
 * [5.0 艰难的探索](chapter5/5.0-jian-nan-de-tan-suo.md)
 * [5.1 小始祖彩色币](chapter5/5.1-xiao-shi-zu-cai-se-bi.md)
@@ -65,11 +65,11 @@
 * [5.8 DeFi 借贷平台 Compound](chapter5/5.8-defi-jie-dai-ping-tai-compound.md)
 * [5.10 闪电贷及EIP-3156：一种闪电贷标准](chapter5/5.13-eip3156-yi-zhong-shan-dian-dai-biao-zhun.md)
 * [5.11 DeFi 小小闪光点：Pool Together](chapter5/5.9-defi-xiao-xiao-shan-guang-dian-pool-together.md)
-* [5.12 流支付](chapter5/5.12-liu-zhi-fu.md)
+* [5.12 流支付（重要技术）](chapter5/5.12-liu-zhi-fu.md)
 * [5.14 启发](chapter5/5.14-qi-fa.md)
 * [5.15 参考资料与讨论](chapter5/5.15-can-kao-zi-liao-yu-tao-lun.md)
 
-## 第六章 区块链协作 <a href="#chapter6" id="chapter6"></a>
+## 第六章 区块链协作（主要是教训） <a href="#chapter6" id="chapter6"></a>
 
 * [6.1 基础概念](chapter6/6.1-ji-chu-gai-nian.md)
 * [6.2 区块链3.0：DAO](chapter6/6.2-qu-kuai-lian-3.0dao.md)
