@@ -60,7 +60,7 @@ _最朴素的解释是：区块链始于一场技术革新，其本质即为金�
 
 Fellowship of Ethereum Magicians：[https://ethereum-magicians.org/](https://ethereum-magicians.org)
 
-登链社区：[https://learnblockchain.cn/](https://learnblockchain.cn/)
+登链社区（开发学习和培训）：[https://learnblockchain.cn/](https://learnblockchain.cn/)
 
 ## 教材开源协作
 
