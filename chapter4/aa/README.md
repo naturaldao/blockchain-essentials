@@ -2,7 +2,7 @@
 description: V神还是你家大神！另外，偶尔你不能只考虑技术，还得想想未来的人类未来的社会如何管理。
 ---
 
-# 4.11 账户抽象化：EIP-86、EIP-2938、EIP-3074、ERC-4337与RIP-7560等等
+# 4.11 账户抽象化：EIP-86、EIP-2938、EIP-3074、ERC-4337、RIP-7560、ERC-7702
 
 ## 账户抽象化（Account Abstraction）的**历史** <a href="#eip2938" id="eip2938"></a>
 
@@ -124,6 +124,14 @@ Combining the [EIP-2938](https://github.com/ethereum/RIPs/blob/e3bead34f1bcf1aa3
 它是以[EIP-3540](https://eips.ethereum.org/EIPS/eip-3540)为基础。
 
 ### EIP-7702: Set EOA account code for one transaction
+
+讨论前先说明下，
+
+1. 目前EIP-7702还只是一个草案。最终方案请以该页面的内容为准：
+
+{% embed url="https://eips.ethereum.org/EIPS/eip-7702" %}
+
+2. 技术标准常常不是直接在应用中照本宣科，或者依葫芦画瓢！一个没有区块链基础知识的人是绝不可能用2024、2025年的AI开发好智能合约的，那样项目有怎样的安全漏洞，只有天知道！
 
 它有个令人惊讶的小标题：Add a new tx type that sets the code for an EOA during one transaction execution。
 
@@ -313,4 +321,8 @@ As EIP-7702 moves closer to implementation, it's clear that account abstraction 
 
 [zkSync Era Account Abstraction](https://github.com/Dapp-Learning-DAO/Dapp-Learning-zkSync/tree/main/Lesson02)
 
-\
+[EIP-7702 对你意味着什么？第一部分 -- 7702 的采纳周期](https://learnblockchain.cn/article/13293)
+
+[EIP-7702 对 MetaMask 和其他钱包提供商意味着什么](https://learnblockchain.cn/article/12040)
+
+[EIP-7702宣传网站](https://eip7702.io/)\
